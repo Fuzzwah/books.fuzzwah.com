@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <main class="container">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+    <script src="https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+    <script src="{{ '/js/main.js' | relative_url }}" defer></script>
+  </body>
+</html>

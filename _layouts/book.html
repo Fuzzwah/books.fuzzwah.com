@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{% assign rating = page.my_rating | default: 0 | plus: 0 %}
+{% assign filled = rating %}
+{% assign empty_stars = 5 | minus: filled %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": {{ page.title | jsonify }},
+  "author": {"@type": "Person", "name": {{ page.author | jsonify }}},
+  "isbn": {{ page.isbn | jsonify }},
+  "image": {{ '/images/covers/' | append: page.cover | absolute_url | jsonify }},
+  "datePublished": {{ page.year_published | jsonify }},
+  "description": {{ page.blurb | default: page.excerpt | strip_html | jsonify }}
+}
+</script>
+<article class="book-page">
+  <div class="book-hero">
+    <img class="book-cover" src="{{ '/images/covers/' | append: page.cover | relative_url }}" alt="Cover of {{ page.title }}" loading="lazy">
+    <div>
+      <h1>{{ page.title }}</h1>
+      <p class="book-author">{{ page.author }}</p>
+      <p class="book-stars" aria-label="Rating {{ rating }} out of 5">
+        {% if filled > 0 %}{% for i in (1..filled) %}★{% endfor %}{% endif %}{% if empty_stars > 0 %}{% for i in (1..empty_stars) %}☆{% endfor %}{% endif %}
+      </p>
+      <p><span class="pill pill-{{ page.shelf }}">{{ page.shelf }}</span></p>
+      {% if page.blurb %}<p>{{ page.blurb }}</p>{% endif %}
+    </div>
+  </div>
+
+  {% if content != '' %}
+  <section>
+    <h2>Review</h2>
+    {{ content }}
+  </section>
+  {% endif %}
+
+  <section>
+    <h2>Details</h2>
+    <table class="meta-table">
+      <tr><th>Pages</th><td>{{ page.pages }}</td></tr>
+      <tr><th>Publisher</th><td>{{ page.publisher }}</td></tr>
+      <tr><th>Date read</th><td>{{ page.date_read }}</td></tr>
+      <tr><th>Date added</th><td>{{ page.date_added }}</td></tr>
+    </table>
+  </section>
+
+  {% if page.recommendations and page.recommendations.size > 0 %}
+  <section>
+    <h2>If you enjoyed this</h2>
+    <div class="card-grid">
+      {% for rec in page.recommendations %}
+        {% assign rec_book = site.books | where_exp: "b", "b.slug == rec" | first %}
+        {% if rec_book %}
+          <a class="card" href="{{ rec_book.url | relative_url }}">
+            <img src="{{ '/images/covers/' | append: rec_book.cover | relative_url }}" alt="Cover of {{ rec_book.title }}" loading="lazy">
+            <h3>{{ rec_book.title }}</h3>
+            <p>{{ rec_book.author }}</p>
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</article>

@@ -1,0 +1,9 @@
+_cache/
+/Users/fuzzwah/Documents/goodreads_library_export.csv
+goodreads_library_export.csv
+.venv/
+.bundle/
+_site/
+.jekyll-cache/
+__pycache__/
+*.pyc

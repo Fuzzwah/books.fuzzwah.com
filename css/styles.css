@@ -1,0 +1,29 @@
+:root { --text:#1f2933; --muted:#52606d; --bg:#f7fafc; --card:#fff; --accent:#2b6cb0; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: Inter, system-ui, -apple-system, sans-serif; color:var(--text); background:var(--bg); }
+.container { width:min(1100px, 92vw); margin:0 auto; }
+.site-header,.site-footer { background:#fff; border-bottom:1px solid #e2e8f0; }
+.site-footer { border-top:1px solid #e2e8f0; border-bottom:0; margin-top:3rem; }
+.site-title { display:inline-block; padding:1rem 0; color:var(--text); text-decoration:none; font-weight:700; }
+h1,h2,h3 { line-height:1.2; margin:0 0 .5rem; }
+.lede { color:var(--muted); margin:0 0 1rem; }
+.filters { display:flex; flex-wrap:wrap; gap:.5rem; margin:1rem 0; }
+.pill { border:1px solid #cbd5e0; background:#fff; border-radius:999px; padding:.4rem .8rem; font-size:.9rem; cursor:pointer; }
+.pill.is-active { background:var(--accent); border-color:var(--accent); color:#fff; }
+#book-search { width:100%; padding:.7rem .8rem; border:1px solid #cbd5e0; border-radius:.5rem; margin:0 0 1rem; }
+.card-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(170px,1fr)); gap:1.25rem; }
+.card { display:block; text-decoration:none; color:inherit; background:var(--card); border-radius:.75rem; padding:.75rem; box-shadow:0 2px 8px rgba(15,23,42,.08); }
+.card img { width:100%; aspect-ratio:2/3; object-fit:cover; border-radius:.5rem; background:#e2e8f0; }
+.card h2,.card h3 { margin-top:.7rem; font-size:1rem; }
+.card p { margin:0; color:var(--muted); font-size:.9rem; }
+.card-subjects { margin-top:.4rem !important; font-size:.8rem !important; }
+.search-empty { color: var(--muted); }
+.book-page { padding:1.5rem 0; }
+.book-hero { display:grid; grid-template-columns:minmax(180px,240px) 1fr; gap:1.5rem; align-items:start; }
+.book-cover { width:100%; border-radius:.75rem; box-shadow:0 10px 24px rgba(15,23,42,.14); }
+.book-author { color:var(--muted); }
+.book-stars { color:#d69e2e; letter-spacing:.08em; }
+.meta-table { border-collapse:collapse; width:100%; max-width:550px; }
+.meta-table th,.meta-table td { border-bottom:1px solid #e2e8f0; padding:.5rem .25rem; text-align:left; }
+.meta-table th { color:var(--muted); width:180px; }
+@media (max-width: 720px) { .book-hero { grid-template-columns:1fr; } }

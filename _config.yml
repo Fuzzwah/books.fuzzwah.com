@@ -1,0 +1,16 @@
+title: Fuzzwah Books
+description: Reading history at books.fuzzwah.com
+url: https://books.fuzzwah.com
+baseurl: ""
+markdown: kramdown
+permalink: /book/:title/
+collections:
+  books:
+    output: true
+    permalink: /book/:title/
+defaults:
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: book
