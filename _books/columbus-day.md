@@ -21,6 +21,8 @@ recommendations:
 - the-flight-of-the-eisenstein
 - the-devils
 - system-collapse
+series_name: Expeditionary Force
+series_index: 1.0
 review_needs_generation: false
 ---
 

@@ -21,6 +21,8 @@ recommendations:
 - project-hail-mary
 - in-the-shadow-of-lightning
 - echo-of-worlds
+series_name: The Devils
+series_index: 1.0
 review_needs_generation: false
 ---
 The Devils (The Devils, #1) by Joe Abercrombie left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.

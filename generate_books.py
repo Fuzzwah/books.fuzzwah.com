@@ -97,6 +97,30 @@ def slugify_title(title: str) -> str:
     return slug or "book"
 
 
+def parse_series_info(title: str) -> Tuple[str, Optional[float]]:
+    paren_matches = re.findall(r"\(([^)]*)\)", title)
+    for segment in reversed(paren_matches):
+        segment = segment.strip()
+        if not segment:
+            continue
+
+        hash_match = re.search(r"#\s*([0-9]+(?:\.[0-9]+)?)", segment)
+        if hash_match:
+            number = float(hash_match.group(1))
+            series_name = segment[: hash_match.start()].rstrip(" ,;:-")
+            if series_name:
+                return series_name, number
+
+        comma_num_match = re.search(r",\s*([0-9]+(?:\.[0-9]+)?)\s*$", segment)
+        if comma_num_match:
+            number = float(comma_num_match.group(1))
+            series_name = segment[: comma_num_match.start()].rstrip(" ,;:-")
+            if series_name:
+                return series_name, number
+
+    return "", None
+
+
 def load_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return default
@@ -345,6 +369,7 @@ def main() -> int:
         recommendations = old_front.get("recommendations", [])
         if not isinstance(recommendations, list):
             recommendations = []
+        series_name, series_index = parse_series_info(resolved.row.title)
 
         front_matter = {
             "layout": "book",
@@ -364,6 +389,8 @@ def main() -> int:
             "blurb": resolved.blurb,
             "subjects": resolved.subjects,
             "recommendations": recommendations,
+            "series_name": series_name,
+            "series_index": series_index if series_index is not None else "",
             "review_needs_generation": review_needs_generation,
         }
 

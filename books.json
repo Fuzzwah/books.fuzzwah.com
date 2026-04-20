@@ -14,6 +14,8 @@ layout: null
     "date_added": {{ book.date_added | jsonify }},
     "cover": {{ book.cover | jsonify }},
     "subjects": {{ book.subjects | jsonify }},
+    "series_name": {{ book.series_name | jsonify }},
+    "series_index": {{ book.series_index | jsonify }},
     "recommendations": {{ book.recommendations | jsonify }},
     "url": {{ book.url | relative_url | jsonify }}
   }{% unless forloop.last %},{% endunless %}
