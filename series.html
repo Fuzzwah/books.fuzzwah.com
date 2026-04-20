@@ -1,0 +1,33 @@
+---
+layout: default
+title: Series View
+permalink: /series/
+---
+<h1>Series View</h1>
+<p class="lede">Books grouped by series. Standalone titles are excluded.</p>
+
+{% assign grouped_series = site.books | group_by: "series_name" %}
+
+{% if grouped_series.size > 0 %}
+<div class="series-list">
+  {% for group in grouped_series %}
+  {% if group.name and group.name != "" %}
+  <section class="series-block">
+    <h2>{{ group.name }}</h2>
+    <ol class="series-books">
+      {% assign ordered = group.items | sort: "series_index" %}
+      {% for book in ordered %}
+      <li>
+        <a href="{{ book.url | relative_url }}">{{ book.title }}</a>
+        <span>— {{ book.author }}</span>
+        {% if book.series_index %}<span>(#{{ book.series_index | replace: '.0', '' }})</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+  {% endfor %}
+</div>
+{% else %}
+<p>No series entries yet.</p>
+{% endif %}

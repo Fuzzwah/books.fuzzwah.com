@@ -1,0 +1,23 @@
+---
+layout: null
+---
+[
+{% for book in site.books %}
+  {
+    "slug": {{ book.slug | jsonify }},
+    "title": {{ book.title | jsonify }},
+    "author": {{ book.author | jsonify }},
+    "isbn": {{ book.isbn | jsonify }},
+    "shelf": {{ book.shelf | jsonify }},
+    "my_rating": {{ book.my_rating | jsonify }},
+    "date_read": {{ book.date_read | jsonify }},
+    "date_added": {{ book.date_added | jsonify }},
+    "cover": {{ book.cover | jsonify }},
+    "subjects": {{ book.subjects | jsonify }},
+    "series_name": {{ book.series_name | jsonify }},
+    "series_index": {{ book.series_index | jsonify }},
+    "recommendations": {{ book.recommendations | jsonify }},
+    "url": {{ book.url | relative_url | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

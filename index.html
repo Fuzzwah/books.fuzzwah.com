@@ -1,0 +1,23 @@
+---
+layout: default
+title: Reading History
+---
+<h1>Reading History</h1>
+<p class="lede">Books from my Goodreads shelves.</p>
+<div class="filters" role="group" aria-label="Shelf filters">
+  <button class="pill is-active" data-filter="read">All (read)</button>
+  <button class="pill" data-filter="currently-reading">Currently Reading</button>
+  <button class="pill" data-filter="to-read">To Read</button>
+</div>
+<input id="book-search" type="search" placeholder="Search title, author, subject" aria-label="Search books">
+<div id="search-results" class="card-grid" hidden></div>
+<div id="books-grid" class="card-grid">
+  {% assign sorted_books = site.books | sort: 'date_read' | reverse %}
+  {% for book in sorted_books %}
+  <a class="card" data-shelf="{{ book.shelf }}" href="{{ book.url | relative_url }}">
+    <img src="{{ '/images/covers/' | append: book.cover | relative_url }}" alt="Cover of {{ book.title }}" loading="lazy">
+    <h2>{{ book.title }}</h2>
+    <p>{{ book.author }}</p>
+  </a>
+  {% endfor %}
+</div>
