@@ -55,4 +55,4 @@ series_name: Gods of Blood and Powder
 series_index: 2.0
 review_needs_generation: false
 ---
-Wrath of Empire (Gods of Blood and Powder, #2) by Brian McClellan left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, fantasy, general, fiction, fantasy, military, fiction, fantasy, epic, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth.
+

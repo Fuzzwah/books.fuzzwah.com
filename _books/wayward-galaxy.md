@@ -25,4 +25,4 @@ series_name: Wayward Galaxy
 series_index: 1.0
 review_needs_generation: false
 ---
-Wayward Galaxy (Wayward Galaxy, #1) by Jason Anspach left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

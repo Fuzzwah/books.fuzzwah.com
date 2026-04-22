@@ -41,4 +41,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream by Hunter S. Thompson left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on comedy, journalists, biography, thompson, hunter s., 1937-2005, which gave it an interesting angle. It may not work for every reader, but it feels.
+

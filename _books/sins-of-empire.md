@@ -27,4 +27,4 @@ series_name: Gods of Blood and Powder
 series_index: 1.0
 review_needs_generation: false
 ---
-Sins of Empire (Gods of Blood and Powder, #1) by Brian McClellan left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, fantasy, general, series:gods of blood and powder, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending.
+

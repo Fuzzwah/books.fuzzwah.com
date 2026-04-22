@@ -28,4 +28,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-SPQR: A History of Ancient Rome by Mary Beard left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on nyt:paperback-nonfiction=2016-09-25, new york times bestseller, rome, history, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -40,4 +40,4 @@ series_name: Hell Divers
 series_index: 1.0
 review_needs_generation: false
 ---
-Hell Divers (Hell Divers, #1) by Nicholas Sansbury Smith left a clear impression on me. I was disappointed by this overall, despite trying to meet it on its own terms. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on skydiving, fiction, survival, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

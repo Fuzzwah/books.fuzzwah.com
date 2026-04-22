@@ -43,4 +43,4 @@ series_name: Teixcalaan
 series_index: 1.0
 review_needs_generation: false
 ---
-A Memory Called Empire (Teixcalaan, #1) by Arkady Martine left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on american literature, fiction, science fiction, action & adventure, lgbtq science fiction & fantasy, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre.
+

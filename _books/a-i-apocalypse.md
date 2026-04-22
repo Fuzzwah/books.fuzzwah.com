@@ -39,4 +39,4 @@ series_name: Singularity
 series_index: 2.0
 review_needs_generation: false
 ---
-A.I. Apocalypse (Singularity, #2) by William Hertling left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, thrillers, general, fiction, science fiction, general, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

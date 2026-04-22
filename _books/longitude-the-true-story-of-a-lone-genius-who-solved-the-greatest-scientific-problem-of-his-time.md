@@ -70,4 +70,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on royal society, harrison timekeepers, kendall timekeepers, which gave it an interesting angle. It may not work for every reader, but it feels significant.
+

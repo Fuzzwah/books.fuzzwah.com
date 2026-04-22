@@ -39,4 +39,4 @@ series_name: The Murderbot Diaries
 series_index: 6.0
 review_needs_generation: false
 ---
-Fugitive Telemetry (The Murderbot Diaries, #6) by Martha Wells left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on franchise:the murderbot diaries, series:the murderbot diaries, form:novella, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

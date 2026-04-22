@@ -26,4 +26,4 @@ series_name: The Siege
 series_index: 2.0
 review_needs_generation: false
 ---
-How to Rule an Empire and Get Away with It (The Siege, #2) by K.J. Parker left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on english literature, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

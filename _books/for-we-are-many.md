@@ -45,4 +45,4 @@ series_name: Bobiverse
 series_index: 2.0
 review_needs_generation: false
 ---
-For We Are Many (Bobiverse, #2) by Dennis E. Taylor left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on artificial intelligence, colonization, extinction of the human race, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

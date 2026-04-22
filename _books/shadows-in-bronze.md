@@ -45,4 +45,4 @@ series_name: Marcus Didius Falco
 series_index: 2.0
 review_needs_generation: false
 ---
-Shadows in Bronze (Marcus Didius Falco, #2) by Lindsey Davis left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on private investigators, fiction, marcus didius falco (fictitious character), which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

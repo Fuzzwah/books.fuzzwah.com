@@ -45,4 +45,4 @@ series_name: Wayfarers
 series_index: 1.0
 review_needs_generation: false
 ---
-The Long Way to a Small, Angry Planet (Wayfarers, #1) by Becky Chambers left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, science fiction, extraterrestrial beings, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with.
+

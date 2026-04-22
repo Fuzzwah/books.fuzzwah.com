@@ -33,4 +33,4 @@ series_name: The Final Architecture
 series_index: 1.0
 review_needs_generation: false
 ---
-Shards of Earth (The Final Architecture, #1) by Adrian Tchaikovsky left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on english literature, fiction, science fiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

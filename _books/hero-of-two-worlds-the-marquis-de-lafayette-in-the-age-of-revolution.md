@@ -57,4 +57,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution by Mike Duncan left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on nyt:combined-print-and-e-book-nonfiction=2021-09-12, new york times bestseller, united states, history, which gave it an interesting angle. It may not work for every reader, but it feels significant within its.
+

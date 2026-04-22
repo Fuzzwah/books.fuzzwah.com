@@ -25,4 +25,4 @@ series_name: The State
 series_index: 3.0
 review_needs_generation: false
 ---
-The Smoke Ring (The State, #3) by Larry Niven left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

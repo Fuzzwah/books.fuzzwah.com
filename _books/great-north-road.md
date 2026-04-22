@@ -43,4 +43,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Great North Road by Peter F. Hamilton left a clear impression on me. I struggled with this more than I expected, even though a few elements still worked. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on science fiction, fiction, england, fiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

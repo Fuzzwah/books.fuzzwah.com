@@ -32,4 +32,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Year Zero by Rob  Reid left a clear impression on me. I struggled with this more than I expected, even though a few elements still worked. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on extraterrestrial beings, fiction, nyt:e-book-fiction=2013-11-03, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

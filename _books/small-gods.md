@@ -39,4 +39,4 @@ series_name: Discworld
 series_index: 13.0
 review_needs_generation: false
 ---
-Small Gods (Discworld, #13) by Terry Pratchett left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on discworld (imaginary place), science fiction, fantasy fiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -34,4 +34,4 @@ series_name: The Legends of the First Empire
 series_index: 2.0
 review_needs_generation: false
 ---
-Age of Swords (The Legends of the First Empire, #2) by Michael J. Sullivan left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on imaginary wars and battles, fiction, magic, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending.
+

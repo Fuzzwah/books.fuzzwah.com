@@ -28,4 +28,4 @@ series_name: The State
 series_index: 2.0
 review_needs_generation: false
 ---
-The Integral Trees (The State, #2) by Larry Niven left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on american science fiction, science fiction, fiction, science fiction, general, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -43,4 +43,4 @@ series_name: Shattered Sea
 series_index: 2.0
 review_needs_generation: false
 ---
-Half the World (Shattered Sea, #2) by Joe Abercrombie left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, fantasy, general, first loves, teenage girls, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

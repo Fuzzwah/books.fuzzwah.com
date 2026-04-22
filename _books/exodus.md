@@ -44,4 +44,4 @@ series_name: Archimedes Engine
 series_index: 1.0
 review_needs_generation: false
 ---
-Exodus (Archimedes Engine #1) by Peter F. Hamilton left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -34,4 +34,4 @@ series_name: Warrior of Rome
 series_index: 2.0
 review_needs_generation: false
 ---
-King of Kings (Warrior of Rome, #2) by Harry Sidebottom left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on military history, fiction, history, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

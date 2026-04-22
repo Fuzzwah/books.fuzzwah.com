@@ -41,4 +41,4 @@ series_name: The Last Dragonslayer
 series_index: 1.0
 review_needs_generation: false
 ---
-The Last Dragonslayer (The Last Dragonslayer, #1) by Jasper Fforde left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on children's fiction, dragons, fiction, magic, fiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

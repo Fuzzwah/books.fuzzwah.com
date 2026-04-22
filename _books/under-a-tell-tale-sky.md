@@ -25,4 +25,4 @@ series_name: Disruption
 series_index: 1.0
 review_needs_generation: false
 ---
-Under a Tell-Tale Sky (Disruption #1) by R.E. McDermott left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -27,4 +27,4 @@ series_name: Warrior of Rome
 series_index: 3.0
 review_needs_generation: false
 ---
-Lion of the Sun (Warrior of Rome, #3) by Harry Sidebottom left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, historical, general, rome, fiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

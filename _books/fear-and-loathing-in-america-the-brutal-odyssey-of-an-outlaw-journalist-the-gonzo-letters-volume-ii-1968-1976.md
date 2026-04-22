@@ -41,4 +41,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Fear and Loathing in America: The Brutal Odyssey of an Outlaw Journalist - The Gonzo Letters, Volume II, 1968-1976 by Hunter S. Thompson left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on correspondence, journalists, thompson, hunter s., 1937-2005, which gave it an interesting angle. It may not work for every reader, but.
+

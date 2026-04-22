@@ -30,4 +30,4 @@ series_name: The Interdependency
 series_index: 3.0
 review_needs_generation: false
 ---
-The Last Emperox (The Interdependency, #3) by John Scalzi left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, science fiction, action & adventure, fiction, science fiction, space opera, nyt:combined-print-and-e-book-fiction=2020-05-03, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth.
+

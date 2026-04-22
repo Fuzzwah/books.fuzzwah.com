@@ -56,4 +56,4 @@ series_name: Gods of Blood and Powder
 series_index: 3.0
 review_needs_generation: false
 ---
-Blood of Empire (Gods of Blood and Powder, #3) by Brian McClellan left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fantasy, fiction, fantasy, general, fiction, fantasy, military, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with.
+

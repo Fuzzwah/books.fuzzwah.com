@@ -73,4 +73,4 @@ series_name: The Baroque Cycle
 series_index: 3.0
 review_needs_generation: false
 ---
-The System of the World (The Baroque Cycle, #3) by Neal Stephenson left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on kings and rulers, criminals, adventure stories, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

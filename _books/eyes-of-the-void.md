@@ -32,4 +32,4 @@ series_name: The Final Architecture
 series_index: 2.0
 review_needs_generation: false
 ---
-Eyes of the Void (The Final Architecture, #2) by Adrian Tchaikovsky left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, science fiction, space opera, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

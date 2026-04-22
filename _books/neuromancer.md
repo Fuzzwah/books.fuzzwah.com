@@ -69,4 +69,4 @@ series_name: Sprawl
 series_index: 1.0
 review_needs_generation: false
 ---
-Neuromancer (Sprawl, #1) by William Gibson left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on information superhighway, computer hackers, conspiracies, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

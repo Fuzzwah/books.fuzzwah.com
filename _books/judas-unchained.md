@@ -66,4 +66,4 @@ series_name: Commonwealth Saga
 series_index: 2.0
 review_needs_generation: false
 ---
-Judas Unchained (Commonwealth Saga #2) by Peter F. Hamilton left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, life on other planets in fiction, space colonies in fiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending.
+

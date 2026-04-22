@@ -38,4 +38,4 @@ series_name: Singularity
 series_index: 1.0
 review_needs_generation: false
 ---
-Avogadro Corp (Singularity, #1) by William Hertling left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on computer software, electronic mail messages, artificial intelligence, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -37,4 +37,4 @@ series_name: Marcus Didius Falco
 series_index: 4.0
 review_needs_generation: false
 ---
-The Iron Hand of Mars (Marcus Didius Falco, #4) by Lindsey Davis left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, marcus didius falco (fictitious character), private investigators, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth.
+

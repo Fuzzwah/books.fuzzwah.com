@@ -38,4 +38,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon by Robert Kurson left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on project apollo (u.s.), apollo 8 (spacecraft), space flight to the moon, which gave it an interesting angle. It may not work.
+

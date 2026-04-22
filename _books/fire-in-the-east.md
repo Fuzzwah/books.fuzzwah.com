@@ -38,4 +38,4 @@ series_name: Warrior of Rome
 series_index: 1.0
 review_needs_generation: false
 ---
-Fire in the East (Warrior of Rome, #1) by Harry Sidebottom left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, history, military history, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

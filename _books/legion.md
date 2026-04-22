@@ -30,4 +30,4 @@ series_name: The Horus Heresy
 series_index: 7.0
 review_needs_generation: false
 ---
-Legion (The Horus Heresy, #7) by Dan Abnett left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

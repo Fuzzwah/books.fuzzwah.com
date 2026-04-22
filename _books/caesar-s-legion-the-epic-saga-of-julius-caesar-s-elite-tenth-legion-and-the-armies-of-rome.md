@@ -56,4 +56,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Caesar's Legion: The Epic Saga of Julius Caesar's Elite Tenth Legion and the Armies of Rome by Stephen Dando-Collins left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on army, military history, history, military, which gave it an interesting angle. It may not work for every reader, but it feels significant within its.
+

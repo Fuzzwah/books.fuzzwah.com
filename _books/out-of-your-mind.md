@@ -33,4 +33,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Out of Your Mind by Alan W. Watts left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on taoism, meditation, body, mind & spirit, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

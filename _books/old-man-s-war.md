@@ -62,4 +62,4 @@ series_name: Old Man's War
 series_index: 1.0
 review_needs_generation: false
 ---
-Old Man's War (Old Man's War, #1) by John Scalzi left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on space warfare, life on other planets in fiction, older men, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth.
+

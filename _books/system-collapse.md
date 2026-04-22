@@ -49,4 +49,4 @@ series_name: The Murderbot Diaries
 series_index: 7.0
 review_needs_generation: false
 ---
-System Collapse (The Murderbot Diaries, #7) by Martha Wells left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

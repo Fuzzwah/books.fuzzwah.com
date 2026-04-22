@@ -70,4 +70,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Genghis Khan and the Making of the Modern World by Jack Weatherford left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on biography & autobiography, history, nonfiction, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

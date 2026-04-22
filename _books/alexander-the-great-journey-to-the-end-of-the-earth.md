@@ -48,4 +48,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Alexander the Great: Journey to the End of the Earth by Norman F. Cantor left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on biography, kings and rulers, generals, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending.
+

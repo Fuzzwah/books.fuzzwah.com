@@ -50,4 +50,4 @@ series_name: The Uplift Saga
 series_index: 3.0
 review_needs_generation: false
 ---
-The Uplift War (The Uplift Saga, #3) by David Brin left a clear impression on me. This was a mixed read for me, with strong moments alongside some clear weaknesses. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, science fiction, hugo award winner, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

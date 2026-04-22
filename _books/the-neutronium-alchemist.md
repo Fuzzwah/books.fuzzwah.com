@@ -45,4 +45,4 @@ series_name: Night's Dawn
 series_index: 2.0
 review_needs_generation: false
 ---
-The Neutronium Alchemist (Night's Dawn, #2) by Peter F. Hamilton left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on english science fiction, fiction, mystery & detective, general, fiction, science fiction, general, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and.
+

@@ -37,4 +37,4 @@ series_name: Bobiverse
 series_index: 5.0
 review_needs_generation: false
 ---
-Not Till We Are Lost (Bobiverse, #5) by Dennis E. Taylor left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on artificial intelligence, science fiction, von neumann probe, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

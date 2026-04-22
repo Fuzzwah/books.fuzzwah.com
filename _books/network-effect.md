@@ -46,4 +46,4 @@ series_name: The Murderbot Diaries
 series_index: 5.0
 review_needs_generation: false
 ---
-Network Effect (The Murderbot Diaries, #5) by Martha Wells left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on franchise:the murderbot diaries, series:the murderbot diaries, form:novel, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -45,4 +45,4 @@ series_name: ''
 series_index: ''
 review_needs_generation: false
 ---
-Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism by Sarah Wynn-Williams left a clear impression on me. I really enjoyed this and found it consistently engaging and thoughtfully put together. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on facebook (electronic resource), facebook (web site), facebook (firm), which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and.
+

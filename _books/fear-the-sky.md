@@ -25,4 +25,4 @@ series_name: The Fear Saga
 series_index: 1.0
 review_needs_generation: false
 ---
-Fear the Sky (The Fear Saga, #1) by Stephen     Moss left a clear impression on me. I struggled with this more than I expected, even though a few elements still worked. The pacing, character work, and central themes gave me enough to think about after finishing. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+

@@ -47,4 +47,4 @@ series_name: Culture
 series_index: 8.0
 review_needs_generation: false
 ---
-Matter (Culture, #8) by Iain M. Banks left a clear impression on me. I loved how confidently this book delivers on its ideas and emotional impact. The pacing, character work, and central themes gave me enough to think about after finishing. It touches on fiction, government investigators, brothers and sisters, which gave it an interesting angle. It may not work for every reader, but it feels significant within its genre and worth recommending with context.
+
