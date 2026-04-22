@@ -30,8 +30,9 @@ h1,h2,h3 { line-height:1.2; margin:0 0 .5rem; }
 .meta-table { border-collapse:collapse; width:100%; max-width:550px; }
 .meta-table th,.meta-table td { border-bottom:1px solid #e2e8f0; padding:.5rem .25rem; text-align:left; }
 .meta-table th { color:var(--muted); width:180px; }
-.series-list { display:grid; gap:1.5rem; }
-.series-block { background:#fff; border-radius:.75rem; box-shadow:0 2px 8px rgba(15,23,42,.08); padding:1rem; }
-.series-books { margin:0; padding-left:1.2rem; color:var(--muted); }
-.series-books a { color:var(--text); text-decoration:none; }
+.series-list { display:grid; gap:2rem; }
+.series-block { background:#fff; border-radius:.75rem; box-shadow:0 2px 8px rgba(15,23,42,.08); padding:1.25rem 1.25rem 1.5rem; }
+.series-name { font-size:1.25rem; margin-bottom:1rem; border-bottom:1px solid #e2e8f0; padding-bottom:.6rem; }
+.series-block .card-grid { grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); }
+.series-num { margin:.2rem 0 0; color:var(--accent); font-size:.82rem; font-weight:600; }
 @media (max-width: 720px) { .book-hero { grid-template-columns:1fr; } }
