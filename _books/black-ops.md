@@ -3,7 +3,7 @@ layout: book
 slug: black-ops
 title: 'Black Ops (Expeditionary Force, #4)'
 author: Craig Alanson
-isbn: '1973186195'
+isbn: '9781973186199'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,23 +13,18 @@ year_published: 2017
 publisher: ''
 binding: Kindle Edition
 cover: black-ops.jpg
-blurb: 1 volume (unpaged) ; 23 cm
-subjects:
-- series:Expeditionary Force
-- Space warfare -- Fiction
-- Human-computer interaction -- Fiction
-- Extraterrestrial beings -- Fiction
-- Guerre spatiale -- Romans, nouvelles, etc
-- Extraterrestres -- Romans, nouvelles, etc
-- Extraterrestrial beings
-- Human-computer interaction
-- Space warfare
+blurb: 'The elite crew of the pirate ship UNS Flying Dutchman had a simple mission:
+  determining whether the Thuranin are sending another starship to Earth. Along the
+  way, they became sidetracked by securing a future for the UNEF troops on the planet
+  Paradise. When asked whether Earth was now safe, their ancient alien AI responded
+  ''Not so much''... now they have to deal with the consequences.'
+subjects: []
 recommendations:
+- trouble-on-paradise
+- paradise
 - specops
-- infinity-engine
-- columbus-day
-- the-long-way-to-a-small-angry-planet
-- starship-troopers
+- zero-hour
+- mavericks
 series_name: Expeditionary Force
 series_index: 4.0
 review_needs_generation: false

@@ -13,25 +13,14 @@ year_published: 2000
 publisher: Robert Laffont
 binding: Paperback
 cover: hell-s-angels.jpg
-blurb: This is an in depth examination of the notorious motorcycle club and its members.
-  Thompson was allowed extraordinary access to the lives of various members of the
-  Californian Chapter of the Hell's Angels for almost a year during which time he
-  conducted countless interviews and observed their customs and behaviour from a unique
-  vantage point.
-subjects:
-- GonZo
-- Hell's Angels
-- Motorcycle gangs
-- California
-- Organized crime
-- Social sciences
-- Criminology
+blurb: ''
+subjects: []
 recommendations:
-- the-gonzo-tapes-the-life-and-work-of-dr-hunter-s-thompson
 - fear-and-loathing-on-the-campaign-trail-72
 - fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonzo-letters-volume-ii-1968-1976
+- the-gonzo-tapes-the-life-and-work-of-dr-hunter-s-thompson
 - the-rum-diary
-- the-great-shark-hunt
+- fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
 series_name: ''
 series_index: ''
 review_needs_generation: false

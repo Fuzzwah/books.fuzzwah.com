@@ -13,37 +13,17 @@ year_published: 2010
 publisher: Harper
 binding: Hardcover
 cover: the-rational-optimist-how-prosperity-evolves.jpg
-blurb: 'Over 10,000 years ago there were fewer than 10 million people on the planet.
-  Today there are more than 6 billion, 99 per cent of whom are better fed, better
-  sheltered, better entertained and better protected against disease than their Stone
-  Age ancestors.The availability of almost everything a person could want or need
-  has been going erratically upwards for 10,000 years and has rapidly accelerated
-  over the last 200 years: calories; vitamins; clean water; machines; privacy; the
-  means to travel faster than we can run, and the ability to communicate over longer
-  distances than we can shout. Yet, bizarrely, however much things improve from the
-  way they were before, people still cling to the belief that the future will be nothing
-  but disastrous.In this original, optimistic book, Matt Ridley puts forward his surprisingly
-  simple answer to how humans progress, arguing that we progress when we trade and
-  we only really trade productively when we trust each other.The Rational Optimist
-  will do for economics what Genome did for genomics and will show that the answer
-  to our problems, imagined or real, is to keep on doing what we''ve been doing for
-  10,000 years – to keep on changing.'
+blurb: By looking at human history, the author argues disasters, downturns, and setbacks
+  are just part of a millenia-long cycle of increasing prosperity that will continue
+  through the twenty-first century and beyond.
 subjects:
-- Wealth
-- Optimism
-- Practical reason
-- History
-- Nonfiction
-- Reason
-- Social change
-- Progress
-- Population Growth
+- business & economics
 recommendations:
-- genghis-khan-and-the-making-of-the-modern-world
-- 1491-new-revelations-of-the-americas-before-columbus
-- what-the-dog-saw-and-other-adventures
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
-- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
+- pandora-s-star
+- the-victorian-internet-the-remarkable-story-of-the-telegraph-and-the-nineteenth-century-s-on-line-pioneers
+- the-last-days-of-the-incas
+- thinking-fast-and-slow
+- horus-rising
 series_name: ''
 series_index: ''
 review_needs_generation: false

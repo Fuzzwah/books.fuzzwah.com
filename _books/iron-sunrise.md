@@ -13,20 +13,22 @@ year_published: 2005
 publisher: Orbit (UK)
 binding: Mass Market Paperback
 cover: iron-sunrise.jpg
-blurb: Space colonies, Fiction, Fiction, science fiction, space opera, Fiction, science
-  fiction, hard science fiction, Fiction, fantasy, general
+blurb: 'When the planet of New Moscow was brutally destroyed, its few survivors launched
+  a counter-attack against the most likely culprit: the neighbouring system of trade
+  rival New Dresden. But New Dresden wasn''t responsible, and as the deadly missiles
+  approach their target, Rachel Mansour, agent for the interests of Old Earth, is
+  assigned to find out who was. The one person who does know is a disaffected teenager
+  who calls herself Wednesday Shadowmist. But Wednesday has no idea where she might
+  be hiding this significant information. Time is limited and if Rachel can''t resolve
+  this mystery it will mean annihilation of an entire world.'
 subjects:
-- Space colonies
-- Fiction
-- Fiction, science fiction, space opera
-- Fiction, science fiction, hard science fiction
-- Fiction, fantasy, general
+- science fiction
 recommendations:
-- zoe-s-tale
-- the-naked-god
-- snow-crash
-- judas-unchained
-- the-human-division
+- singularity-sky
+- the-bloodline-feud
+- neptune-s-brood
+- the-traders-war
+- toast-and-other-stories
 series_name: Eschaton
 series_index: 2.0
 review_needs_generation: false

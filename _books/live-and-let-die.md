@@ -13,34 +13,20 @@ year_published: 2003
 publisher: Penguin Group
 binding: Paperback
 cover: live-and-let-die.jpg
-blurb: Beautiful, fortune-telling Solitaire is the prisoner (and tool) of Mr Big -
-  master of fear, artist in crime and Voodoo Baron of Death. James Bond has no time
-  for superstition - he knows that Mr Big is also a top SMERSH operative and a real
-  threat. More than that, after tracking him through the jazz joints of Harlem, to
-  the Everglades and on to the Caribbean, 007 has realized that Mr Big is one of the
-  most dangerous men that he has ever faced. And no-one, not even the enigmatic Solitaire,
-  can be sure how their battle of wills is going to end ...
+blurb: 'Beautiful, fortune - telling Solitaire is the prisoner and tool of Mr Big:
+  master of fear, artist in crime and Voodoo Baron of Death. But James Bond has no
+  time for hocus pocus. He knows that this criminal heavy hitter is also a top SMERSH
+  operative and a real threat. More than that, after tracking him through the jazz
+  joints of Harlem, to the everglades and on to the Caribbean, 007 has realized that
+  Big is one of the most dangerous men he has ever faced...'
 subjects:
-- British
-- Fiction
-- Fiction in English
-- Intelligence officers
-- James Bond (Fictitious character)
-- Intelligence service
-- Fiction, espionage
-- Bond, james (fictitious character), fiction
-- Large type books
-- Fiction, thrillers, espionage
-- English literature
-- Serie:James_Bond
-- collection:Serie:James_Bond
-- SMERSH (fictional agency)
+- fiction
 recommendations:
-- thud
-- the-fifth-elephant
-- peter-pan
-- making-money
-- cryptonomicon
+- dogs-of-war
+- the-caspian-gates
+- the-bloodline-feud
+- the-dark-side-of-the-sun
+- made-things
 series_name: James Bond
 series_index: 2.0
 review_needs_generation: false

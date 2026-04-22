@@ -17,8 +17,8 @@ blurb: Discworld's pesky alchemists are up to their old tricks again. This time,
   discovered how to get gold from silver -- the silver screen that is. Hearing the
   siren call of Holy Wood is one Victor Tugelbend, a would-be wizard turned extra.
   He can't sing, he can't dance, but he can handle a sword (sort of), and now he wants
-  to be a star. So does Theda Withel, an ambitious ingenue from a little town (where
-  else?) you've probably never heard of.But the click click of moving pictures isn't
+  to be a star. So does Theda Withel, an ambitious ingénue from a little town (where
+  else?) you've probably never heard of. But the click click of moving pictures isn't
   just stirring up dreams inside Discworld. Holy Wood's magic is drifting out into
   the boundaries of the universes, where raw realities, the could-have-beens, the
   might-bes, the never-weres, the wild ideas are beginning to ferment into a really
@@ -26,25 +26,13 @@ blurb: Discworld's pesky alchemists are up to their old tricks again. This time,
   born!) to rein in the chaos and bring order back to a starstruck Discworld. And
   they're definitely not ready for their close-up!
 subjects:
-- Fiction
-- Discworld (Imaginary place)
-- Motion picture industry
-- Fantasy
-- discworld
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- Fiction, humorous
-- Science fiction, fantasy, horror
-- English literature
-- Fiction, humorous, general
-- Disque-monde (Lieu imaginaire)
-- Romans, nouvelles
+- fiction
 recommendations:
-- wyrd-sisters
-- thief-of-time
-- going-postal
-- interesting-times
+- eric
+- equal-rites
+- a-hat-full-of-sky
 - small-gods
+- thief-of-time
 series_name: Discworld
 series_index: 10.0
 review_needs_generation: false

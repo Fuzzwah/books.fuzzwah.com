@@ -3,7 +3,7 @@ layout: book
 slug: slaughterhouse-five
 title: Slaughterhouse-Five
 author: Kurt Vonnegut Jr.
-isbn: '8205080682'
+isbn: '9781438128740'
 shelf: read
 my_rating: 5
 date_read: ''
@@ -13,47 +13,15 @@ year_published: 1999
 publisher: Dial Press
 binding: Paperback
 cover: slaughterhouse-five.jpg
-blurb: Slaughterhouse-Five is one of the world's great anti-war books. Centering on
-  the infamous fire-bombing of Dresden, Billy Pilgrim's odyssey through time reflects
-  the mythic journey of our own fractured lives as we search for meaning in what we
-  are afraid to know.
+blurb: Presents a collection of critical essays about Kurt Vonnegut's Slaughterhouse-five.
 subjects:
-- American science fiction
-- bombing of Dresden
-- Open Library staff picks
-- military fiction
-- war stories
-- World War II
-- World War, 1939-1945
-- literature and the war
-- war
-- free will and determinism
-- literary fiction
-- Fiction
-- Animals
-- Boats and boating
-- Accelerated Reader
-- Domestic animals
-- American fiction (fictional works by one author)
-- Fiction, general
-- Fiction, war & military
-- World war, 1939-1945, fiction
-- Classic Literature
-- Drama
-- Vonnegut, kurt, 1922-2007
-- American literature, history and criticism
-- Destruction and pillage
-- World War (1939-1945) fast (OCoLC)fst01180924
-- Roman américain
-- Literature
-- American literature
-- Literatură americană
+- juvenile nonfiction
 recommendations:
-- the-old-man-and-the-sea
-- the-dharma-bums
-- skyward
-- peter-pan
-- earth-abides
+- the-andromeda-strain
+- shadow-claw
+- the-light-fantastic
+- equal-rites
+- fear-and-loathing-on-the-campaign-trail-72
 series_name: ''
 series_index: ''
 review_needs_generation: false

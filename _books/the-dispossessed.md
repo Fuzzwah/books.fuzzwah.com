@@ -3,7 +3,7 @@ layout: book
 slug: the-dispossessed
 title: The Dispossessed
 author: Ursula K. Le Guin
-isbn: '9780586042199'
+isbn: '9781473206069'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,49 +13,29 @@ year_published: 2003
 publisher: Harper Perennial Classics
 binding: Paperback
 cover: the-dispossessed.jpg
-blurb: Shevek, a brilliant physicist, decides to take action. He will seek answers,
-  question the unquestionable, and attempt to tear down the walls of hatred that have
-  isolated his planet of anarchists from the rest of the civilized universe.  To do
-  this dangerous task will mean giving up his family and possibly his life.  Shevek
-  must make the unprecedented journey to the planet, Anarres, to challenge the complex
-  structures of life and living, and ignite the fires of change.
+blurb: One of the very best must-read novels of all time - with a new introduction
+  by Roddy Doyle 'A well told tale signifying a good deal; one to be read again and
+  again' THE TIMES 'The book I wish I had written ... It's so far away from my own
+  imagination, I'd love to sit at my desk one day and discover that I could think
+  and write like Ursula Le Guin' Roddy Doyle 'Le Guin is a writer of phenomenal power'
+  OBSERVER 'There was a wall. It did not look important - even a child could climb
+  it. But the idea was real. Like all walls it was ambiguous, two-faced. What was
+  inside it and what was outside it depended upon which side of it you were on...'
+  Shevek is brilliant scientist who is attempting to find a new theory of time - but
+  there are those who are jealous of his work, and will do anything to block him.
+  So he leaves his homeland, hoping to find a place of more liberty and tolerance.
+  Initially feted, Shevek soon finds himself being used as a pawn in a deadly political
+  game. With powerful themes of freedom, society and the natural world's influence
+  on competition and co-operation, THE DISPOSSESSED is a true classic of the 20th
+  century.
 subjects:
-- Anarchism
-- Anarquismo
-- Ciencia-ficción
-- Communal living
-- Ficción
-- Fiction
-- Fiction in English
-- Físicos
-- Hugo Award Winner
-- Life on other planets
-- Novela utópica
-- Physicists
-- Science fiction
-- Utopias
-- Vida comunal
-- Vida en otros planets
-- award:hugo_award=1975
-- award:hugo_award=novel
-- Long Now Manual for Civilization
-- Fiction, science fiction, general
-- American Science fiction
-- Interplanetary voyages
-- American literature
-- award:nebula_award=novel
-- Fiction, science fiction, space exploration
-- Fiction, visionary & metaphysical
-- Fiction, dystopian
-- Fiction, nature & the environment
-- Fiction, feminist
-- Fiction, women
+- fiction
 recommendations:
 - the-left-hand-of-darkness
-- ringworld
-- dune
-- stranger-in-a-strange-land
-- red-mars
+- a-wizard-of-earthsea
+- a-column-of-fire
+- jurassic-park
+- the-trouble-with-peace
 series_name: ''
 series_index: ''
 review_needs_generation: false

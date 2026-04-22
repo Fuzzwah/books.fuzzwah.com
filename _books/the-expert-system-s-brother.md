@@ -13,15 +13,20 @@ year_published: 2018
 publisher: Tordotcom
 binding: Paperback
 cover: the-expert-system-s-brother.jpg
-blurb: Fiction, science fiction, action & adventure
+blurb: Bestselling British master of science fiction Adrian Tchaikovsky brings readers
+  a new, mind-expanding science fantasia in The Expert System's Brother After an unfortunate
+  accident, Handry is forced to wander a world he doesn’t understand, searching for
+  meaning. He soon discovers that the life he thought he knew is far stranger than
+  he could even possibly imagine. Can an unlikely saviour provide the answers to the
+  questions he barely comprehends?
 subjects:
-- Fiction, science fiction, action & adventure
+- fiction
 recommendations:
-- walking-to-aldebaran
-- war-factory
-- waking-gods
-- the-martian
-- the-consuming-fire
+- the-expert-systems-champion
+- elder-race
+- made-things
+- days-of-shattered-faith
+- house-of-open-wounds
 series_name: Expert System
 series_index: 1.0
 review_needs_generation: false

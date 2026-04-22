@@ -13,16 +13,16 @@ year_published: 2005
 publisher: Subterranean Press
 binding: Paperback
 cover: questions-for-a-soldier.jpg
-blurb: Science Fiction - Short Stories, Fiction - Science Fiction
+blurb: A tale set in the world of his debut novel, OLD MAN'S WAR. Published as a signed
+  limited edition chapbook.
 subjects:
-- Science Fiction - Short Stories
-- Fiction - Science Fiction
+- fiction
 recommendations:
-- titan
-- altered-carbon
 - zoe-s-tale
-- the-sagan-diary
+- after-the-coup
 - the-last-colony
+- the-ghost-brigades
+- old-man-s-war
 series_name: Old Man's War
 series_index: 1.5
 review_needs_generation: false

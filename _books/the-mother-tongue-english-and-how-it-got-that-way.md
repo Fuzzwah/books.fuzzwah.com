@@ -13,22 +13,21 @@ year_published: 1991
 publisher: William Morrow Paperbacks
 binding: Paperback
 cover: the-mother-tongue-english-and-how-it-got-that-way.jpg
-blurb: English language, History, English language, history, New York Times reviewed,
-  Language, Anglès, Història
+blurb: With dazzling wit and astonishing insight, Bill Bryson--the acclaimed author
+  of The Lost Continent--brilliantly explores the remarkable history, eccentricities,
+  resilience and sheer fun of the English language. From the first descent of the
+  larynx into the throat (why you can talk but your dog can't), to the fine lost art
+  of swearing, Bryson tells the fascinating, often uproarious story of an inadequate,
+  second-rate tongue of peasants that developed into one of the world's largest growth
+  industries.
 subjects:
-- English language
-- History
-- English language, history
-- New York Times reviewed
-- Language
-- Anglès
-- Història
+- language arts & disciplines
 recommendations:
-- the-making-of-the-atomic-bomb
-- doomsday-book
-- what-the-dog-saw-and-other-adventures
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
-- the-adventures-of-huckleberry-finn
+- a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail
+- the-body-a-guide-for-occupants
+- a-short-history-of-nearly-everything
+- seeing-further-ideas-endeavours-discoveries-and-disputes-the-story-of-science-through-350-years-of-the-royal-society
+- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
 series_name: ''
 series_index: ''
 review_needs_generation: false

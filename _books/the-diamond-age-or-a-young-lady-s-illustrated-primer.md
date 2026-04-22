@@ -17,26 +17,13 @@ blurb: The story of an engineer who creates a device to raise a girl capable of 
   for herself reveals what happens when a young girl of the poor underclass obtains
   the device.
 subjects:
-- Revolutions
-- Open Library Staff Picks
-- Quests (Expeditions)
-- Fiction
-- Hugo Award Winner
-- Science Fiction
-- award:hugo_award=1996
-- Young women
-- Nanotechnology
-- award:hugo_award=novel
-- Fiction, science fiction, general
-- Fiction, humorous
-- Books and reading
-- Fiction, science fiction, hard science fiction
+- fiction
 recommendations:
-- neuromancer
-- snow-crash
-- the-uplift-war
-- a-fire-upon-the-deep
-- the-windup-girl
+- the-rise-and-fall-of-d-o-d-o
+- the-mongoliad-book-two
+- the-mongoliad-book-three
+- seveneves
+- cryptonomicon
 series_name: ''
 series_index: ''
 review_needs_generation: false

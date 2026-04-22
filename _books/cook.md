@@ -13,19 +13,19 @@ year_published: 2013
 publisher: ABC Books
 binding: Hardcover
 cover: cook.jpg
-blurb: History, Biography, Explorers, Voyages around the world, Discovery and exploration
+blurb: Captain James Cook is one of the greatest maritime explorers of all time -
+  only the acclaimed fifteenth-century explorers, Christopher Columbus and Vasco da
+  Gama, can stand with him. This book explores the life and travels of James Cook
+  in a major new biography for lovers of adventure and the romance of sail. Over three
+  remarkable voyages.
 subjects:
-- History
-- Biography
-- Explorers
-- Voyages around the world
-- Discovery and exploration
+- cook james
 recommendations:
-- genghis-khan-and-the-making-of-the-modern-world
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
-- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
-- the-devil-in-the-white-city
-- the-autobiography-of-benjamin-franklin
+- connections
+- blackout
+- the-count-of-monte-cristo
+- einstein-s-shutter
+- to-be-taught-if-fortunate
 series_name: ''
 series_index: ''
 review_needs_generation: false

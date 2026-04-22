@@ -3,7 +3,7 @@ layout: book
 slug: and-shall-machines-surrender
 title: 'And Shall Machines Surrender (Machine Mandate, #1)'
 author: Benjanun Sriduangkaew
-isbn: '9781607015345'
+isbn: '9781607015338'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -17,10 +17,10 @@ blurb: ''
 subjects: []
 recommendations:
 - zero-hour
-- year-zero
-- wrath-of-empire
-- words-of-radiance
 - wolves
+- winter-world
+- war-factory
+- trouble-on-paradise
 series_name: Machine Mandate
 series_index: 1.0
 review_needs_generation: false

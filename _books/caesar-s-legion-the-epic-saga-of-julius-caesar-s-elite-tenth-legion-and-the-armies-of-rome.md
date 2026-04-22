@@ -22,36 +22,25 @@ blurb: '"A unique and splendidly researched story, following the trials and triu
   of their power and gory glory. Many military historians consider Caesar''s legions
   the world''s most efficient infantry before the arrival of gunpowder. This book
   shows why. Written in readable, popular style, Caesar''s Legion is a must for military
-  buffs and anyone interested in Roman history at a critical point in European civilization."  --T.
-  R. Fehrenbach, author of This Kind of War, Lone Star, and Comanches   Stephen Dando-Collins
-  paints a vivid and definitive portrait of daily life in the Tenth Legion as he follows
-  Caesar and his men along the blood-soaked fringes...'
+  buffs and anyone interested in Roman history at a critical point in European civilization."
+  —T. R. Fehrenbach, author of This Kind of War, Lone Star, and Comanches Stephen
+  Dando-Collins paints a vivid and definitive portrait of daily life in the Tenth
+  Legion as he follows Caesar and his men along the blood-soaked fringes of the Empire.
+  This unprecedented regimental history reveals countless previously unknown details
+  about Roman military practices, Caesar''s conduct as a commander and his relationships
+  with officers and legionaries, and the daily routine and discipline of the Legion.
+  From penetrating insights into the mind of history''s greatest general to a grunt''s-eye
+  view of the gruesome realities of war in the Classical Age, this unique and riveting
+  true account sets a new standard of exellence and detail to which all authors of
+  ancient military history will now aspire.'
 subjects:
-- Army
-- Military History
-- History, Military
-- Nonfiction
-- History
-- Armed Forces
-- Military life
-- Römisches Reich Legion
-- Command of troops
-- Rome
-- Geschichte
-- Krijgsmacht
-- Romeinse oudheid
-- Veldheren
-- Römisches Reich
-- Rome. Legion X Fretensis
-- Military leadership
-- Caesar, julius
-- Rome, history
+- history
 recommendations:
 - nero-s-killing-machine-the-true-story-of-rome-s-remarkable-14th-legion
-- what-the-dog-saw-and-other-adventures
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
-- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
-- the-devil-in-the-white-city
+- rocket-men-the-daring-odyssey-of-apollo-8-and-the-astronauts-who-made-man-s-first-journey-to-the-moon
+- alexander-the-great-journey-to-the-end-of-the-earth
+- genghis-khan-and-the-making-of-the-modern-world
+- outliers-the-story-of-success
 series_name: ''
 series_index: ''
 review_needs_generation: false

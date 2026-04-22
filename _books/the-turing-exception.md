@@ -17,11 +17,11 @@ blurb: Fiction, thrillers, general
 subjects:
 - Fiction, thrillers, general
 recommendations:
-- avogadro-corp
 - a-i-apocalypse
-- winter-world
-- the-water-knife
-- the-tournament
+- the-last-firewall
+- avogadro-corp
+- citizen-of-the-galaxy
+- faith-and-fire
 series_name: Singularity
 series_index: 4.0
 review_needs_generation: false

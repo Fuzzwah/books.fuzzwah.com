@@ -13,37 +13,26 @@ year_published: 2003
 publisher: Spectra
 binding: ebook
 cover: red-mars.jpg
-blurb: Red Mars is the first novel of the Mars trilogy, published in 1992. It follows
-  the beginnings of the colonization of Mars, from the arrival of the First Hundred
-  to the First Martian Revolution.
+blurb: 'Winner of the Nebula Award for Best Novel • Discover the novel that launched
+  one of science fiction’s most beloved, acclaimed, and awarded trilogies: Kim Stanley
+  Robinson’s masterly near-future chronicle of interplanetary colonization. “A staggering
+  book . . . the best novel on the colonization of Mars that has ever been written.”—Arthur
+  C. Clarke For centuries, the barren, desolate landscape of the red planet has beckoned
+  to humankind. Now a group of one hundred colonists begins a mission whose ultimate
+  goal is to transform Mars into a more Earthlike planet. They will place giant satellite
+  mirrors in Martian orbit to reflect light onto its surface. Black dust sprinkled
+  on the polar caps will capture warmth and melt the ice. And massive tunnels drilled
+  into the mantle will create stupendous vents of hot gases. But despite these ambitious
+  goals, there are some who would fight to the death to prevent Mars from ever being
+  changed.'
 subjects:
-- Mars
-- science fiction
-- terraforming
-- Long Now Manual for Civilization
-- Ciencia-ficción
-- Ficción
-- Fiction
-- nation building
-- American Science fiction
-- Space colonies
-- award:nebula_award=novel
-- Fiction, science fiction, general
-- Planets
-- Environmental engineering
-- Colonization
-- Science fiction, american
-- Planets--environmental engineering
-- Planets--environmental engineering--fiction
-- Space colonies--fiction
-- Ps3568.o2893 r44 1993b
-- collection:otherwise_tiptree_award=honor
+- fiction
 recommendations:
-- the-dispossessed
-- the-left-hand-of-darkness
-- ringworld
-- enders-game
-- dune
+- the-three-body-problem
+- lords-of-uncreation
+- the-mote-in-god-s-eye
+- all-systems-red
+- weaponized
 series_name: ''
 series_index: ''
 review_needs_generation: false

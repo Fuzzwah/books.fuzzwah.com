@@ -3,7 +3,7 @@ layout: book
 slug: the-left-hand-of-darkness
 title: The Left Hand of Darkness
 author: Ursula K. Le Guin
-isbn: 0441478026
+isbn: '9781860491894'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,63 +13,21 @@ year_published: 2000
 publisher: Ace
 binding: Paperback
 cover: the-left-hand-of-darkness.jpg
-blurb: "[Comment by Kim Stanley Robinson, on The Guardian's website][1]:\r\nThe Left\
-  \ Hand of Darkness by Ursula K Le Guin (1969)\r\n\r\n> One of my favorite novels\
-  \ is The Left Hand of Darkness, by Ursula K Le Guin. For more than 40 years I've\
-  \ been recommending this book to people who want to try science fiction for the\
-  \ first time, and it still serves very well for that. One of the things I like about\
-  \ it is how clearly it demonstrates that science fiction can have not only the usual\
-  \ virtues and pleasures of the novel, but also the startling and transformative\
-  \ power of the thought experiment.\r\n\r\n> In this case, the thought experiment\
-  \ is quickly revealed: \"The king was pregnant,\" the book tells us early on, and\
-  \ after that we learn more and more about this planet named Winter, stuck in an\
-  \ ice age, where the humans are most of the time neither male nor female, but with\
-  \ the potential to become either. The man from Earth investigating this situation\
-  \ has a lot to learn, and so do we; and we learn it in the course of a thrilling\
-  \ adventure story, including a great \"crossing of the ice\". Le Guin's language\
-  \ is clear and clean, and has within it both the anthropological mindset of her\
-  \ father Alfred Kroeber, and the poetry of stories as magical things that her mother\
-  \ Theodora Kroeber found in native American tales. This worldly wisdom applied to\
-  \ the romance of other planets, and to human nature at its deepest, is Le Guin's\
-  \ particular gift to us, and something science fiction will always be proud of.\
-  \ Try it and see – you will never think about people in quite the same way again.\r\
-  \n\r\n\r\n  [1]: https://www.theguardian.com/books/2011/may/14/science-fiction-authors-choice"
+blurb: 'Winter is an Earth-like planet with two major differences: conditions are
+  semi artic even at the warmest time of the year, and the inhabitants are all of
+  the same sex. Tucked away in a remote corner of the universe, they have no knowledge
+  of space travel or of life beyond their own world. And when a strange envoy from
+  space brings news of a vast coalition of planets which they are invited to join,
+  he is met with fear, mistrust and disbelief. . . ''The Left Hand of Darkness'' is
+  a groundbreaking work of feminist science fiction, an imaginative masterpiece which
+  poses challenging questions about sexuality, sexism and the organisation of society.'
 subjects:
-- Ciencia-ficción
-- Hugo Award Winner
-- award:hugo_award=1970
-- award:hugo_award=novel
-- human nature
-- gender
-- space travel
-- ice age
-- Science fiction
-- American literature
-- Fiction, science fiction, general
-- LGBTQ gender identity
-- LGBTQ science fiction & fantasy
-- award:nebula_award=novel
-- Life on other planets
-- Fiction
-- American Science fiction
-- Extraterrestrial anthropology
-- Sex role
-- Long Now Manual for Civilization
-- Human-alien encounters
-- Gender identity
-- Ethnologists
-- Loyalty
-- Betrayal
-- Vie extraterrestre
-- Romans, nouvelles
-- Rencontres avec les extraterrestres
-- Identité de genre
-- Ethnologues
+- fiction
 recommendations:
 - the-dispossessed
-- ringworld
-- a-fire-upon-the-deep
-- dune
+- a-wizard-of-earthsea
+- a-world-out-of-time
+- the-expert-system-s-brother
 - the-uplift-war
 series_name: ''
 series_index: ''

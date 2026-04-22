@@ -13,15 +13,14 @@ year_published: 2025
 publisher: Tor
 binding: Hardcover
 cover: shroud.jpg
-blurb: English literature
-subjects:
-- English literature
+blurb: ''
+subjects: []
 recommendations:
-- shards-of-earth
+- service-model
 - lords-of-uncreation
-- firewalkers
-- bear-head
-- alien-clay
+- house-of-open-wounds
+- city-of-last-chances
+- children-of-memory
 series_name: ''
 series_index: ''
 review_needs_generation: false

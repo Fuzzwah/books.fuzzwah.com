@@ -13,62 +13,28 @@ year_published: 2005
 publisher: William Morrow Paperbacks
 binding: Paperback
 cover: the-system-of-the-world.jpg
-blurb: '''Tis done.The world is a most confused and unsteady place -- especially London,
-  center of finance, innovation, and conspiracy -- in the year 1714, when Daniel Waterhouse
-  makes his less-than-triumphant return to England''s shores. Aging Puritan and Natural
-  Philosopher, confidant of the high and mighty and contemporary of the most brilliant
-  minds of the age, he has braved the merciless sea and an assault by the infamous
-  pirate Blackbeard to help mend the rift between two adversarial geniuses at a princess''s
-  behest. But while much has changed outwardly, the duplicity and danger that once
-  drove Daniel to the American Colonies is still coin of the British realm.No sooner
-  has Daniel set foot on his homeland when he is embroiled in a dark conflict that
-  has been raging in the shadows for decades. It is a secret war between the brilliant,
-  enigmatic Master of the Mint and closet alchemist Isaac Newton and his archnemesis,
-  the insidious counterfeiter Jack the Coiner, a.k.a. Jack Shaftoe, King of the Vagabonds.
-  Hostilities are suddenly moving to a new and more volatile level, as Half-Cocked
-  Jack plots a daring assault on the Tower itself, aiming for nothing less than the
-  total corruption of Britain''s newborn monetary system.Unbeknownst to all, it is
-  love that set the Coiner on his traitorous course; the desperate need to protect
-  the woman of his heart -- the remarkable Eliza, Duchess of Arcachon-Qwghlm -- from
-  those who would destroy her should he fail. Meanwhile, Daniel Waterhouse and his
-  Clubb of unlikely cronies comb city and country for clues to the identity of the
-  blackguard who is attempting to blow up Natural Philosophers with Infernal Devices
-  -- as political factions jockey for position while awaiting the impending death
-  of the ailing queen; as the "holy grail" of alchemy, the key to life eternal, tantalizes
-  and continues to elude Isaac Newton, yet is closer than he ever imagined; as the
-  greatest technological innovation in history slowly takes shape in Waterhouse''s
-  manufactory.Everything that was will be changed forever ...The System of the World
-  is the concluding volume in Neal Stephenson''s Baroque Cycle, begun with Quicksilver
-  and continued in The Confusion.'
+blurb: 'England, 1714. London has long been home to a secret war between the brilliant,
+  enigmatic Master of the Mint and closet alchemist, Isaac Newton, and his archnemesis,
+  the insidious counterfeiter Jack the Coiner. Hostilities are suddenly moving to
+  a new and more volatile level as Half-Cocked Jack hatches a daring plan, aiming
+  for the total corruption of Britain''s newborn monetary system. Enter Daniel Waterhouse:
+  Aging Puritan and Natural Philosopher, Daniel has been on a long and harrowing quest
+  to help mend the rift between adversarial geniuses. As Daniel combs city and country
+  for clues to the identity of the blackguard who is attempting to blow up Natural
+  Philosophers, political factions jockey for position while awaiting the impending
+  death of the ailing queen, and the "holy grail" of alchemy, the key to life eternal,
+  tantalizes and continues to elude Isaac Newton. As Newton, Waterhouse, and Shaftoe
+  each circle closer to the object of Daniel''s quest, everything that was will be
+  changed forever ... This P.S. edition features an extra 16 pages of insights into
+  the book, including author interviews, recommended reading, and more.'
 subjects:
-- Kings and rulers
-- Criminals
-- Adventure stories
-- Succession
-- Crimes against
-- Fiction
-- Counterfeiters
-- Scientists
-- History
-- Fiction, historical, general
-- Great britain, fiction
-- Fiction, action & adventure
-- Scientists, fiction
-- London (england), fiction
-- Fiction, historical
-- Political fiction
-- Rois et souverains
-- Romans, nouvelles
-- Faux-monnayeurs
-- Criminels
-- Histoire
-- Politique-fiction
+- fiction
 recommendations:
-- quicksilver
-- world-without-end
 - the-confusion
-- before-they-are-hanged
-- the-wolves-of-the-north
+- quicksilver
+- fall-or-dodge-in-hell
+- the-mongoliad-book-two
+- the-mongoliad-book-three
 series_name: The Baroque Cycle
 series_index: 3.0
 review_needs_generation: false

@@ -13,15 +13,20 @@ year_published: 2020
 publisher: Solaris
 binding: Hardcover
 cover: firewalkers.jpg
-blurb: English literature
+blurb: Firewalkers Are Brave. Firewalkers Are Resourceful. Firewalkers Are Expendable.
+  The Earth is burning. Nothing can survive at the Anchor; not without water and power.
+  But the ultra-rich, waiting for their ride off the dying Earth? They can buy water.
+  And thanks to their investment, the sun can provide power. But someone has to repair
+  the solar panels when they fail, down in the deserts below. Kids like Mao, and Lupé,
+  and Hotep; kids with brains and guts but no hope. The Firewalkers.
 subjects:
-- English literature
+- fiction
 recommendations:
-- shroud
-- shards-of-earth
-- lords-of-uncreation
+- children-of-time
+- and-put-away-childish-things
+- cage-of-souls
 - bear-head
-- alien-clay
+- children-of-memory
 series_name: ''
 series_index: ''
 review_needs_generation: false

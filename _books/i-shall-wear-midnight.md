@@ -13,52 +13,26 @@ year_published: 2010
 publisher: Harper
 binding: Hardcover
 cover: i-shall-wear-midnight.jpg
-blurb: "the beloved and bestselling grandmaster of fantasy, Sir Terry Pratchett, this\
-  \ is the fourth in a series of Discworld novels starring the young witch Tiffany\
-  \ Aching.\r\n\r\nAs the witch of the Chalk, Tiffany Aching performs the distinctly\
-  \ unglamorous work of caring for the needy. But someone—or something—is inciting\
-  \ fear, generating dark thoughts and angry murmurs against witches. Tiffany must\
-  \ find the source of unrest and defeat the evil at its root. Aided by the tiny-but-tough\
-  \ Wee Free Men, Tiffany faces a dire challenge, for if she falls, the whole Chalk\
-  \ falls with her. . . ."
+blurb: 'It starts with whispers. Then someone picks up a stone. Finally, the fires
+  begin. When people turn on witches, the innocents suffer. . . . Tiffany Aching has
+  spent years studying with senior witches, and now she is on her own. As the witch
+  of the Chalk, she performs the bits of witchcraft that aren’t sparkly, aren’t fun,
+  don’t involve any kind of wand, and that people seldom ever hear about: She does
+  the unglamorous work of caring for the needy. But someone—or something—is igniting
+  fear, inculcating dark thoughts and angry murmurs against witches. Aided by her
+  tiny blue allies, the Wee Free Men, Tiffany must find the source of this unrest
+  and defeat the evil at its root—before it takes her life. Because if Tiffany falls,
+  the whole Chalk falls with her. Chilling drama combines with laughout-loud humor
+  and searing insight as beloved and bestselling author Terry Pratchett tells the
+  high-stakes story of a young witch who stands in the gap between good and evil.'
 subjects:
-- Comic Fantasy
-- Fairies
-- Fiction
-- Children's Books -- Authors & Illustrators, A-Z -- ( P ) -- Pratchett, Terry
-- Children's Books -- Literature -- Action & Adventure
-- Children's Books -- Literature -- Humorous
-- Children's Books -- Literature -- Science Fiction, Fantasy, Mystery & Horror --
-  Science Fiction, Fantasy, & Magic
-- Science Fiction & Fantasy -- Authors, A-Z -- ( P ) -- Pratchett, Terry
-- Teens -- Literature & Fiction -- Adventure & Thrillers
-- Teens -- Science Fiction & Fantasy -- Fantasy
-- Teens -- Science Fiction & Fantasy -- Science Fiction
-- Tiffany Aching (Fictitious character)
-- Witches
-- Juvenile fiction
-- Ghosts
-- Fantasy fiction
-- Witches, fiction
-- Ghosts, fiction
-- Fairies, fiction
-- Children's fiction
-- Discworld (Imaginary place)
-- nyt:series-books=2010-10-17
-- New York Times bestseller
-- Ghost stories
-- Fantasy
-- Sorcières
-- Romans, nouvelles
-- Fées
-- Histoires de fantômes
-- Disque-monde (Lieu imaginaire)
+- juvenile fiction
 recommendations:
-- the-wee-free-men
 - a-hat-full-of-sky
-- wyrd-sisters
-- carpe-jugulum
-- good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
+- the-wee-free-men
+- reaper-man
+- lords-and-ladies
+- pyramids
 series_name: Discworld
 series_index: 38.0
 review_needs_generation: false

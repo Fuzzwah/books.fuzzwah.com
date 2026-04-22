@@ -13,45 +13,31 @@ year_published: 1990
 publisher: Bantam Doubleday Dell Publishing Group
 binding: Mass Market Paperback
 cover: hyperion.jpg
-blurb: "In the 29th century, the Hegemony of Man comprises hundreds of planets connected\
-  \ by farcaster portals. The Hegemony maintains an uneasy alliance with the TechnoCore,\
-  \ a civilisation of AIs. Modified humans known as Ousters live in space stations\
-  \ between stars and are engaged in conflict with the Hegemony.\r\n\r\nNumerous \"\
-  Outback\" planets have no farcasters and cannot be accessed without incurring significant\
-  \ time dilation. One of these planets is Hyperion, home to structures known as the\
-  \ Time Tombs, which are moving backwards in time and guarded by a legendary creature\
-  \ known as the Shrike. On the eve of an Ouster invasion of Hyperion, a final pilgrimage\
-  \ to the Time Tombs has been organized. The pilgrims decide that they will each\
-  \ tell their tale of how they were chosen for the pilgrimage."
+blurb: A stunning tour de force filled with transcendent awe and wonder, Hyperion
+  is a masterwork of science fiction that resonates with excitement and invention,
+  the first volume in a remarkable epic by the multiple-award-winning author of The
+  Hollow Man. On the world called Hyperion, beyond the reach of galactic law, waits
+  a creature called the Shrike. There are those who worship it. There are those who
+  fear it. And there are those who have vowed to destroy it. In the Valley of the
+  Time Tombs, where huge, brooding structures move backward through time, the Shrike
+  waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven
+  pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved
+  riddles of their lives. Each carries a desperate hope—and a terrible secret. And
+  one may hold the fate of humanity in his hands. Praise for Dan Simmons and Hyperion
+  “Dan Simmons has brilliantly conceptualized a future 700 years distant. In sheer
+  scope and complexity it matches, and perhaps even surpasses, those of Isaac Asimov
+  and James Blish.”—The Washington Post Book World “An unfailingly inventive narrative
+  . . . generously conceived and stylistically sure-handed.”—The New York Times Book
+  Review “Simmons’s own genius transforms space opera into a new kind of poetry.”—The
+  Denver Post “An essential part of any science fiction collection.”—Booklist
 subjects:
-- American Science fiction
-- Hugo Award Winner
-- award:hugo_award=1990
-- award:hugo_award=novel
-- Ciencia-ficcio n.
-- Long Now Manual for Civilization
-- Fiction, science fiction, action & adventure
-- Extraterrestrial beings
-- Pilgrims and pilgrimages
-- Interplanetary voyages
-- Fiction
-- Drama
-- Fantasy
-- Future life
-- Life on other planets
-- Jesuits
-- Space colonies
-- Good and evil
-- Fiction, science fiction, general
-- Imaginary places, fiction
-- Science-fiction américaine
-- Littérature américaine
+- fiction
 recommendations:
-- the-dispossessed
-- starship-troopers
-- a-fire-upon-the-deep
-- the-left-hand-of-darkness
-- stranger-in-a-strange-land
+- slow-gods
+- the-uplift-war
+- empire-of-silence
+- age-of-death
+- blackout
 series_name: Hyperion Cantos
 series_index: 1.0
 review_needs_generation: false

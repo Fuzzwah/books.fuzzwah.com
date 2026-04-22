@@ -13,29 +13,21 @@ year_published: 1997
 publisher: HarperCollins
 binding: Paperback
 cover: the-player-of-games.jpg
-blurb: "The Culture - a human/machine symbiotic society - has thrown up many great\
-  \ Game Players, and one of the greatest is Gurgeh. Jernau Morat Gurgeh. The Player\
-  \ of Games. Master of every board, computer, and strategy.\r\nBored with success,\
-  \ Gurgeh travels to the Empire of Azad, cruel and incredibly wealthy, to try their\
-  \ fabulous game ... a game so complex, so like life itself, that the winner becomes\
-  \ emperor. Mocked, blackmailed, almost murdered, Gurgeh accepts the game, and with\
-  \ it the challenge of his life - a very possibly his death."
+blurb: The Culture-a human/machine symbiotic society-has thrown up many great Game
+  Players, and one of the greatest is Gurgeh. Jernau Morat Gurgeh. The Player of Games.
+  Master of every board, computer and strategy. Bored with success, Gurgeh travels
+  to the Empire of Azad, cruel and incredibly wealthy, to try their fabulous game-a
+  game so complex, so like life itself that the winner becomes emperor. Mocked, blackmailed,
+  almost murdered, Gurgeh accepts the game, and with it the challenge of his life-and
+  very possibly his death.
 subjects:
-- OverDrive
-- Fiction
-- Science Fiction
-- Science Fiction & Fantasy
-- Accessible book
-- Protected DAISY
-- In library
-- Long Now Manual for Civilization
-- Computer games
+- computer games
 recommendations:
-- consider-phlebas
 - matter
-- the-windup-girl
-- do-androids-dream-of-electric-sheep
-- anathem
+- surface-detail
+- consider-phlebas
+- look-to-windward
+- the-hydrogen-sonata
 series_name: Culture
 series_index: 2.0
 review_needs_generation: false

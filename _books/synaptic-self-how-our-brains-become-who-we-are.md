@@ -13,26 +13,23 @@ year_published: 2003
 publisher: Penguin Books
 binding: Paperback
 cover: synaptic-self-how-our-brains-become-who-we-are.jpg
-blurb: '"Synapses, the spaces between neurons, are the channels through which we think,
-  act, imagine, feel, and remember. In short, they enable each of us to function as
-  a single, integrated individual--from moment to moment, from year to year. Here,
-  world-renowned brain expert Joseph LeDoux tells a groundbreaking and profound story:
-  how the brain, and particularly its synapses, creates and maintains personality.
-  Rather than taking sides in the age-old nature versus nurture debate, LeDoux illustrates
-  how both contribute to synaptic connectivity and personality, broadening our understanding
-  of who we are and what it means to be human."--Back cover.'
+blurb: 'In 1996 Joseph LeDoux''s The Emotional Brain presented a revelatory examination
+  of the biological bases of our emotions and memories. Now, the world-renowned expert
+  on the brain has produced with a groundbreaking work that tells a more profound
+  story: how the little spaces between the neurons—the brain''s synapses—are the channels
+  through which we think, act, imagine, feel, and remember. Synapses encode the essence
+  of personality, enabling each of us to function as a distinctive, integrated individual
+  from moment to moment. Exploring the functioning of memory, the synaptic basis of
+  mental illness and drug addiction, and the mechanism of self-awareness, Synaptic
+  Self is a provocative and mind-expanding work that is destined to become a classic.'
 subjects:
-- Self
-- Neuropsychology
-- Personality
-- Brain, localization of functions
-- Ego
+- psychology
 recommendations:
-- zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values
-- zoe-s-tale
-- wyrd-sisters
-- world-without-end
-- what-the-dog-saw-and-other-adventures
+- the-expert-system-s-brother
+- sleights-of-mind-what-the-neuroscience-of-magic-reveals-about-our-everyday-deceptions
+- half-a-war
+- the-expert-systems-champion
+- on-intelligence
 series_name: ''
 series_index: ''
 review_needs_generation: false

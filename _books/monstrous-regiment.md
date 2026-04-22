@@ -13,32 +13,24 @@ year_published: 2004
 publisher: HarperCollins Publishers
 binding: Mass Market Paperback
 cover: monstrous-regiment.jpg
-blurb: In the twenty-eighth Discworld novel the Discworld goes to war.It began as
-  a sudden strange fancy... Polly Perks had to become a boy in a hurry. Cutting off
-  her hair and wearing trousers was easy. Learning to fart and belch in public and
-  walk like an ape took more time... And now she's enlisted in the army, and searching
-  for her lost brother.But there's a war on. There's always a war on. And Polly and
-  her fellow recruits are suddenly in the thick of it, without any training, and the
-  enemy is hunting them.All they have on their side is the most artful sergeant in
-  the army and a vampire with a lust for coffee. Well... They have the Secret. And
-  as they take the war to the heart of the enemy, they have to use all the resources
-  of... the Monstrous Regiment.
+blurb: War has come to Discworld ... again. And, to no one's great surprise, the conflict
+  centers around the small, arrogantly fundamentalist duchy of Borogravia, which has
+  long prided itself on its unrelenting aggressiveness. A year ago, Polly Perks's
+  brother marched off to battle, and Polly's willing to resort to drastic measures
+  to find him. So she cuts off her hair, dons masculine garb, and -- aided by a well-placed
+  pair of socks -- sets out to join this man's army. Since a nation in such dire need
+  of cannon fodder can't afford to be too picky, Polly is eagerly welcomed into the
+  fighting fold—along with a vampire, a troll, an Igor, a religious fanatic, and two
+  uncommonly close "friends." It would appear that Polly "Ozzer" Perks isn't the only
+  grunt with a secret. But duty calls, the battlefield beckons. And now is the time
+  for all good ... er ... "men" to come to the aid of their country.
 subjects:
-- franchise:Discworld
-- series:Discworld
-- form:novel
-- genre:fantasy comedy
-- Discworld (Imaginary place)
-- Women soldiers
-- War
-- T¿umaczenia polskie
-- Powies c fantastyczna angielska
-- English literature
+- fiction
 recommendations:
-- the-fifth-elephant
-- wyrd-sisters
-- unseen-academicals
-- thud
+- the-last-hero-a-discworld-fable
+- eric
+- hogfather
+- night-watch
 - thief-of-time
 series_name: Discworld
 series_index: 31.0

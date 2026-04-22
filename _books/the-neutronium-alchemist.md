@@ -13,34 +13,28 @@ year_published: 2008
 publisher: Orbit
 binding: Paperback
 cover: the-neutronium-alchemist.jpg
-blurb: "From the back cover:\r\n\r\nNOT EVERY FALLEN ANGEL COMES FROM HEAVEN...\r\n\
-  \r\nThe ancient menace has finally escaped from Lalonde, shattering the Confederation's\
-  \ peaceful existence.  Those who succumbed to it have acquired godlike powers, but\
-  \ now follow a far from divine gospel as they advance inexorably from world to world.\r\
-  \n\r\nOn planets and asteroids, individuals battle for survival against the strange\
-  \ and brutal forces unleashed upon the universe.  Governments teeter on the bring\
-  \ of anarchy, the Confederation Navy is dangerously over-stretched, and a dark messiah\
-  \ prepares to invoke his own version of the final Night.\r\n\r\nIn such desperate\
-  \ times, the last thing the galaxy needs is a new and terrifyingly powerful weapon.\
-  \  Yet Dr Alkad Mzu is determined to retrieve the Alchemist -- so she can complete\
-  \ her thirty year-old vendetta to slay a star.  Which means Joshua Calvert has to\
-  \ find Dr Mzu and bring her back before the Alchemist can be reactivated.\r\n\r\n\
-  But he's not alone in the chase, and there are people on both sides who have their\
-  \ own ideas about how to use the ultimate doomsday device."
+blurb: The ancient menace has finally escaped from Lalonde, shattering the Confederation's
+  peaceful existence. Those who succumbed to it have acquired godlike powers, but
+  now follow a far from divine gospel as they advance inexorably from world to world.
+  On planets and asteroids, individuals battle for survival against the strange and
+  brutal forces unleashed upon the universe. Governments teeter on the brink of anarchy,
+  the Confederation Navy is dangerously over-stretched, and a dark messiah prepares
+  to invoke his own version of the final Night. In such desperate times the last thing
+  the galaxy needs is a new and terrifyingly powerful weapon. Yet Dr. Alkad Mzu is
+  determined to retrieve the Alchemist -- so she can complete her thirty-year-old
+  vendetta to slay a star. Which means Joshua Calvert has to find Dr Mzu and bring
+  her back before the Alchemist can be reactivated. But he's not alone in the chase,
+  and there are people on both sides who have their own ideas about how to use the
+  ultimate doomsday device. THE NEUTRONIUM ALCHEMIST is the second novel in the Night's
+  Dawn Trilogy, an extraordinary feat of storytelling on a truly epic scale.
 subjects:
-- English Science fiction
-- Fiction, mystery & detective, general
-- Fiction, science fiction, general
-- Good and evil
-- Spirit possession
-- Fiction
-- Fiction, science fiction, space opera
+- fiction
 recommendations:
-- the-naked-god
 - the-reality-dysfunction
+- the-naked-god
 - salvation-lost
-- zoe-s-tale
-- count-zero
+- exodus
+- exodus-the-archimedes-engine
 series_name: Night's Dawn
 series_index: 2.0
 review_needs_generation: false

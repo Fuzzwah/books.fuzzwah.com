@@ -3,7 +3,7 @@ layout: book
 slug: the-dark-forest
 title: 'The Dark Forest (Remembrance of Earth’s Past, #2)'
 author: Liu Cixin
-isbn: '9786053758921'
+isbn: '9781784971588'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,36 +13,30 @@ year_published: 2015
 publisher: Tor Books
 binding: Hardcover
 cover: the-dark-forest.jpg
-blurb: "Soon to be a Netflix Original Series!\r\n\r\n\"Wildly imaginative.\" —President\
-  \ Barack Obama on The Three-Body Problem trilogy\r\n\r\nThis near-future trilogy\
-  \ is the first chance for English-speaking readers to experience this multiple-award-winning\
-  \ phenomenon from Cixin Liu, China's most beloved science fiction author.\r\n\r\n\
-  In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion-in\
-  \ just four centuries' time. The aliens' human collaborators may have been defeated,\
-  \ but the presence of the sophons, the subatomic particles that allow Trisolaris\
-  \ instant access to all human information, means that Earth's defense plans are\
-  \ totally exposed to the enemy. Only the human mind remains a secret. This is the\
-  \ motivation for the Wallfacer Project, a daring plan that grants four men enormous\
-  \ resources to design secret strategies, hidden through deceit and misdirection\
-  \ from Earth and Trisolaris alike. Three of the Wallfacers are influential statesmen\
-  \ and scientists, but the fourth is a total unknown. Luo Ji, an unambitious Chinese\
-  \ astronomer and sociologist, is baffled by his new status. All he knows is that\
-  \ he's the one Wallfacer that Trisolaris wants dead."
+blurb: 'Read the award-winning, critically acclaimed, multi-million-copy-selling science-fiction
+  phenomenon – now a Netflix Original Series from the creators of Game of Thrones.
+  Imagine the universe as a forest, patrolled by numberless and nameless predators.
+  In this forest, stealth is survival – any civilisation that reveals its location
+  is prey. Earth has. Now the predators are coming. Crossing light years, the Trisolarians
+  will reach Earth in four centuries'' time. But the sophons, their extra-dimensional
+  agents and saboteurs, are already here. Only the individual human mind remains immune
+  to their influence. This is the motivation for the Wallfacer Project, a last-ditch
+  defence that grants four individuals almost absolute power to design secret strategies,
+  hidden through deceit and misdirection from human and alien alike. Three of the
+  Wallfacers are influential statesmen and scientists, but the fourth is a total unknown.
+  Luo Ji, an unambitious Chinese astronomer, is baffled by his new status. All he
+  knows is that he''s the one Wallfacer that Trisolaris wants dead. Praise for The
+  Three-Body Problem: ''Your next favourite sci-fi novel'' Wired ''Immense'' Barack
+  Obama ''Unique'' George R.R. Martin ''SF in the grand style'' Guardian ''Mind-altering
+  and immersive'' Daily Mail Winner of the Hugo and Galaxy Awards for Best Novel'
 subjects:
-- Chinese Science fiction
-- Fiction
-- Science Fiction
-- Fiction, science fiction, general
-- Human-alien encounters
-- Imaginary wars and battles
-- FICTION / Science Fiction / General
-- General
+- fiction
 recommendations:
 - the-three-body-problem
 - death-s-end
-- the-judge-of-ages
-- great-north-road
-- titan
+- to-be-taught-if-fortunate
+- a-fire-upon-the-deep
+- sapiens-a-brief-history-of-humankind
 series_name: Remembrance of Earth’s Past
 series_index: 2.0
 review_needs_generation: false

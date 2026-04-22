@@ -13,29 +13,24 @@ year_published: 2017
 publisher: Dark Horse Books
 binding: Paperback
 cover: will-save-the-galaxy-for-food.jpg
-blurb: '286 pages : 23 cm'
+blurb: A not-quite epic science fiction adventure about a down-on-his luck galactic
+  pilot caught in a cross-galaxy struggle for survival! Space travel just isn't what
+  it used to be. With the invention of Quantum Teleportation, space heroes aren't
+  needed anymore. When one particularly unlucky ex-adventurer masquerades as famous
+  pilot and hate figure Jacques McKeown, he's sucked into an ever-deepening corporate
+  and political intrigue. Between space pirates, adorable deadly creatures, and a
+  missing fortune in royalties, saving the universe was never this difficult! From
+  the creator of Mogworld and Jam! Benjamin Richard "Yahtzee" Croshaw is a British-Australian
+  comedic writer, video game journalist, author, and video game developer. He is perhaps
+  best known for his acerbic video game review series, Zero Punctuation, for The Escapist.
 subjects:
-- Space pirates
-- Quantum teleportation
-- Interstellar travel
-- Humorous
-- Adventure
-- Comics & graphic novels, science fiction
-- Interstellar travel -- Fiction
-- Space pirates -- Fiction
-- Quantum teleportation -- Fiction
-- FICTION -- Science Fiction -- Adventure
-- FICTION -- Science Fiction -- General
-- FICTION -- Science Fiction
-- SCIENCE FICTION
-- Fiction
-- Humorous fiction
+- fiction
 recommendations:
-- waking-gods
-- the-judge-of-ages
-- ready-player-one
-- great-north-road
-- thief-of-time
+- will-destroy-the-galaxy-for-cash
+- jam
+- differently-morphous
+- mogworld
+- reamde
 series_name: Jacques McKeown
 series_index: 1.0
 review_needs_generation: false

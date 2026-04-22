@@ -17,20 +17,13 @@ blurb: Richard, the second surviving son of Henry Plantagenet and Eleanor of Aqu
   inherits the throne from his brother, before embarking on the Third Crusade, a conflict
   that is complicated by the schemes of his usurping brother, John.
 subjects:
-- Fiction
-- Crusades
-- History
-- New York Times bestseller
-- nyt:hardcover_fiction=2011-10-01
-- Crusades, fiction
-- Great britain, fiction
-- Fiction, historical, general
+- fiction
 recommendations:
-- a-column-of-fire
-- the-tournament
-- a-gentleman-in-moscow
-- world-without-end
-- the-system-of-the-world
+- royal-assassin
+- the-adventures-and-the-memoirs-of-sherlock-holmes-union-square-kids-unabridged-classics
+- longitude-the-true-story-of-a-lone-genius-who-solved-the-greatest-scientific-problem-of-his-time
+- the-well-of-ascension
+- the-redemption-of-time-remembrance-of-earths-past
 series_name: Plantagenets
 series_index: 4.0
 review_needs_generation: false

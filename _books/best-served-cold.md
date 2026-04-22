@@ -13,36 +13,18 @@ year_published: 2009
 publisher: Gollancz
 binding: Hardcover
 cover: best-served-cold.jpg
-blurb: "War may be hell, but for Monza Murcatto, a solider of considerable fortune;\
-  \ it's a damn good way of making money too.  Her victories have made her popular\
-  \ - a shade too popular for her employer's taste. Betrayed and left for dead, Murcatto's\
-  \ reward is a broken body and a burning hunger for vengeance. Whatever the cost,\
-  \ seven men must die.\r\n\r\nDuke Orso imagines that he can become king by ending\
-  \ the civil wars that have devastated Styria, but he errs by trying to kill his\
-  \ overly popular general, mercenary Monza Murcatto. Recovering from her massive\
-  \ injuries and mourning her murdered brother, Monza vows vengeance on Orso and half\
-  \ a dozen of his accomplices.\r\n\r\n\"Joe Abercrombie takes the grand tradition\
-  \ of high fantasy literature and drags it down into the gutter, in the best possible\
-  \ way.\" --- Time\r\n\"Abercrombie is both fiendishly inventive and solidly convincing,\
-  \ especially when sprinkling his appallingly vivid combat scenes with humor so dark\
-  \ that it's almost ultraviolet.\" --- Publishers Weekly\r\n\"A satisfyingly brutal\
-  \ fantasy quest. BEST SERVED COLD? Modern fantasy doesn't get much hotter than this.\"\
-  \ --- Dave Bradley, SFX\r\n\"Abercrombie has written the finest epic fantasy trilogy\
-  \ in recent memory. He's one writer that no one should miss.\" --- Junot Diaz on\
-  \ The First Law Trilogy"
+blurb: Monza wants revenge, and she's going to do everything she can to get it. Her
+  brother is dead and now she plans to kill each of the seven men who murdered him.
+  But she needs some help - Shivers, the Northman, Cosca, the mercenary, Friendly,
+  the former inmate of a vicious prison - all hard men to do hard, bloody deeds.--Publisher.
 subjects:
-- Fantasy
-- Fiction
-- Revenge
-- Fiction, fantasy, epic
-- Fiction, general
-- Fiction, fantasy, general
+- fantasy fiction
 recommendations:
-- the-mad-ship
-- going-postal
-- wrath-of-empire
-- the-way-of-kings
-- the-lies-of-locke-lamora
+- red-country
+- the-blade-itself
+- half-a-king
+- before-they-are-hanged
+- last-argument-of-kings
 series_name: ''
 series_index: ''
 review_needs_generation: false

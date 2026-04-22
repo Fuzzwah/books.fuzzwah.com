@@ -13,24 +13,27 @@ year_published: 2019
 publisher: 47North
 binding: Kindle Edition
 cover: one-word-kill.jpg
-blurb: "In January 1986, fifteen-year-old boy-genius Nick Hayes discovers he’s dying.\
-  \ And it isn’t even the strangest thing to happen to him that week.\r\n\r\nNick\
-  \ and his Dungeons & Dragons-playing friends are used to living in their imaginations.\
-  \ But when a new girl, Mia, joins the group and reality becomes weirder than the\
-  \ fantasy world they visit in their weekly games, none of them are prepared for\
-  \ what comes next. A strange—yet curiously familiar—man is following Nick, with\
-  \ abilities that just shouldn’t exist. And this man bears a cryptic message: Mia’s\
-  \ in grave danger, though she doesn’t know it yet. She needs Nick’s help—now.\r\n\
-  \r\nHe finds himself in a race against time to unravel an impossible mystery and\
-  \ save the girl. And all that stands in his way is a probably terminal disease,\
-  \ a knife-wielding maniac and the laws of physics.\r\n\r\nChallenge accepted."
-subjects: []
+blurb: 'Ready Player One meets Stranger Things in this new novel by the bestselling
+  author who George RR Martin describes as "an excellent writer." In January 1986,
+  fifteen-year-old boy-genius Nick Hayes discovers he''s dying. And it isn''t even
+  the strangest thing to happen to him that week. Nick and his Dungeons & Dragons-playing
+  friends are used to living in their imaginations. But when a new girl, Mia, joins
+  the group and reality becomes weirder than the fantasy world they visit in their
+  weekly games, none of them are prepared for what comes next. A strange--yet curiously
+  familiar--man is following Nick, with abilities that just shouldn''t exist. And
+  this man bears a cryptic message: Mia''s in grave danger, though she doesn''t know
+  it yet. She needs Nick''s help--now. He finds himself in a race against time to
+  unravel an impossible mystery and save the girl. And all that stands in his way
+  is a probably terminal disease, a knife-wielding maniac and the laws of physics.
+  Challenge accepted.'
+subjects:
+- dungeons and dragons (game)
 recommendations:
-- zero-hour
-- year-zero
-- wrath-of-empire
-- words-of-radiance
-- wolves
+- age-of-death
+- the-eye-of-zoltar
+- a-hole-in-the-sky
+- half-a-war
+- ready-player-one
 series_name: Impossible Times
 series_index: 1.0
 review_needs_generation: false

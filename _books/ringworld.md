@@ -13,46 +13,22 @@ year_published: 2005
 publisher: Gollancz
 binding: Paperback
 cover: ringworld.jpg
-blurb: "The ' (1970–2004), by science fiction author Larry Niven, is a part of his\
-  \ Known Space set of stories. Its backdrop is the Ringworld, a giant artifact 600\
-  \ million miles in circumference around a sun. The series is composed of four standalone\
-  \ science fiction novels, the original award-winning book and its three subsequent\
-  \ sequels:\r\n1970: Ringworld\r\n1980: The Ringworld Engineers\r\n1996: The Ringworld\
-  \ Throne\r\n2004: Ringworld's Children\r\nThe core series was developed with three\
-  \ side series of prequels set in the same Ringworld universe, and written in collaboration:\r\
-  \n1988–2009: Man-Kzin Wars (by various edited by Niven)\r\n2007–2010: Fleet of Worlds\
-  \ (by Niven and Edward M. Lerner)\r\n2010-2011: Juggler of Worlds (by Niven and\
-  \ Edward M. Lerner)"
+blurb: Pierson¿s puppeteers, strange, three-legged, two-headed aliens, have discovered
+  an immense structure in a hitherto unexplored part of the universe. Frightened of
+  meeting the builders of such a structure, the puppeteers set about assembling a
+  team consisting of two humans, a puppeteer and a kzin, an alien not unlike an eight-foot-tall,
+  red-furred cat, to explore it. The artefact is a vast circular ribbon of matter,
+  some 180 million miles across, with a sun at its centre - the Ringworld. But the
+  expedition goes disastrously wrong when the ship crashlands and its motley crew
+  faces a trek across thousands of miles of the Ringworld¿s surface.
 subjects:
-- Hugo Award Winner
-- award:hugo_award=1971
-- award:hugo_award=novel
-- Fiction, science fiction, general
-- Ringworld (imaginary place), fiction
-- Fiction
-- Ringworld (Imaginary place)
-- Science fiction
-- Long Now Manual for Civilization
-- American Science fiction
-- award:nebula_award=novel
-- Science-fiction
-- Comic books, strips
-- Life on other planets
-- Imaginary wars and battles
-- Space warfare
-- Imaginary places
-- Cartoons and comics
-- Vie extraterrestre
-- Bandes dessinées
-- Guerres et batailles imaginaires
-- Romans, nouvelles
-- Guerre spatiale
+- science fiction
 recommendations:
-- the-left-hand-of-darkness
-- starship-troopers
-- a-fire-upon-the-deep
-- the-dispossessed
-- dune
+- a-world-out-of-time
+- the-mote-in-god-s-eye
+- the-integral-trees
+- the-smoke-ring
+- beowulf-s-children
 series_name: Ringworld
 series_index: 1.0
 review_needs_generation: false

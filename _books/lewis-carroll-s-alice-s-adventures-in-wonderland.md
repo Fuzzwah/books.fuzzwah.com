@@ -13,14 +13,16 @@ year_published: 2010
 publisher: CreateSpace Independent Publishing Platform
 binding: Paperback
 cover: lewis-carroll-s-alice-s-adventures-in-wonderland.jpg
-blurb: ''
-subjects: []
+blurb: This original text of Alice's Adventures in Wonderland is interspersed with
+  pieces of modern art, creating a fun reading event for the entire family.
+subjects:
+- juvenile fiction
 recommendations:
-- zero-hour
-- year-zero
-- wrath-of-empire
-- words-of-radiance
-- wolves
+- peter-pan
+- the-smoke-ring
+- the-adventures-of-huckleberry-finn
+- summary-rocket-men-unofficial-summary-lesson-from-robert-kurson
+- the-autobiography-of-benjamin-franklin
 series_name: ''
 series_index: ''
 review_needs_generation: false

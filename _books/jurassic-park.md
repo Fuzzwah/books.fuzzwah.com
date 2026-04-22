@@ -13,52 +13,26 @@ year_published: 2012
 publisher: Ballantine Books
 binding: Kindle Edition
 cover: jurassic-park.jpg
-blurb: "Jurassic Park is a 1990 science fiction novel written by Michael Crichton.\
-  \ A cautionary tale about genetic engineering, it presents the collapse of an amusement\
-  \ park showcasing genetically re-created dinosaurs to illustrate the mathematical\
-  \ concept of chaos theory and its real-world implications. A sequel titled The Lost\
-  \ World, also written by Crichton, was published in 1995. In 1997, both novels were\
-  \ re-published as a single book titled Michael Crichton's Jurassic World. In 1996\
-  \ it was awarded the Secondary BILBY Award.\r\n\r\nAlso contained in:\r\n[Congo/Jurassic\
-  \ Park](https://openlibrary.org/works/OL8475707W)\r\n[Michael Crichton's Jurassic\
-  \ World](https://openlibrary.org/works/OL14950507W)"
+blurb: '#1 NEW YORK TIMES BESTSELLER • From the author of Timeline, Sphere, and Congo,
+  this is the classic thriller of science run amok that took the world by storm. Nominated
+  as one of America’s best-loved novels by PBS’s The Great American Read “[Michael]
+  Crichton’s dinosaurs are genuinely frightening.”—Chicago Sun-Times An astonishing
+  technique for recovering and cloning dinosaur DNA has been discovered. Now humankind’s
+  most thrilling fantasies have come true. Creatures extinct for eons roam Jurassic
+  Park with their awesome presence and profound mystery, and all the world can visit
+  them—for a price. Until something goes wrong. . . . In Jurassic Park, Michael Crichton
+  taps all his mesmerizing talent and scientific brilliance to create his most electrifying
+  technothriller. Praise for Jurassic Park “Wonderful . . . powerful.”—The Washington
+  Post Book World “Frighteningly real . . . compelling . . . It’ll keep you riveted.”—The
+  Detroit News “Full of suspense.”—The New York Times Book Review'
 subjects:
-- dichogamy
-- corporate espionage
-- science fiction
-- cautionary tale
-- genetic engineering
-- amusement parks
-- dinosaurs
-- chaos theory
-- Procompsognathus
-- paleontologists
-- paleobotanists
-- theme parks
-- cloning
-- ancient DNA
-- lysine
-- auxotrophy
-- chaos theorists
-- complex systems
-- velociraptors
-- backdoor
-- Tyrannosaurus
-- biotechnologists
-- napalm
-- Clones and cloning
-- Fiction
-- Large type books
-- Fiction, science fiction, action & adventure
-- Fiction, technological
-- Fiction, thrillers, general
-- Jurassic park (imaginary place), fiction
+- fiction
 recommendations:
-- cryptonomicon
 - dragon-teeth
-- the-water-knife
-- the-martian
-- great-north-road
+- the-andromeda-strain
+- the-rise-and-fall-of-the-dinosaurs-a-new-history-of-a-lost-world
+- the-body-a-guide-for-occupants
+- last-chance-to-see
 series_name: Jurassic Park
 series_index: 1.0
 review_needs_generation: false

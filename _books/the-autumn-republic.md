@@ -13,29 +13,28 @@ year_published: 2015
 publisher: Orbit
 binding: Hardcover
 cover: the-autumn-republic.jpg
-blurb: '"Field Marshal Tamas returns to his beloved country to find that for the first
-  time in history, the capital city of Adro lies in the hands of a foreign invader.
-  His son is missing, his allies are indistinguishable from his foes, and reinforcements
-  are several weeks away ... With the Kez still bearing down upon them and without
-  clear leadership, the Adran army has turned against itself. Inspector Adamat is
-  drawn into the very heart of this new mutiny with promises of finding his kidnapped
-  son .. And Taniel Two-shot, hunted by men he once thought his friends, must safeguard
-  the only chance Adro has of getting through this war without being destroyed"--Dust
-  jacket flap.'
+blurb: '"Just plain awesome"--Brandon Sanderson Tamas, Taniel, and Adamat have been
+  betrayed and Adro now lies in the hands of a foreign invader. But it remains the
+  duty of the powder mages to defend their homeland unto death in the explosive conclusion
+  the Brian McClellan''s Powder Mage trilogy. The capital has fallen... Field Marshal
+  Tamas returns to his beloved country to find that for the first time in history,
+  the capital city of Adro lies in the hands of a foreign invader. His son is missing,
+  his allies are indistinguishable from his foes, and reinforcements are several weeks
+  away. An army divided... With the Kez still bearing down upon them and without clear
+  leadership, the Adran army has turned against itself. Inspector Adamat is drawn
+  into the very heart of this new mutiny with promises of finding his kidnapped son.
+  All hope rests with one... And Taniel Two-shot, hunted by men he once thought his
+  friends, must safeguard the only chance Adro has of getting through this war without
+  being destroyed... THE AUTUMN REPUBLIC is the epic conclusion that began with Promise
+  of Blood and The Crimson Campaign.'
 subjects:
-- Imaginary places
-- Kings and rulers
-- Wizards
-- Imaginary wars and battles
-- Betrayal
-- Fiction
-- Fiction, fantasy, general
+- fiction
 recommendations:
-- the-way-of-kings
-- king-of-ashes
-- last-argument-of-kings
-- oathbringer
-- half-a-king
+- promise-of-blood
+- the-crimson-campaign
+- blood-of-empire
+- wrath-of-empire
+- sins-of-empire
 series_name: Powder Mage
 series_index: 3.0
 review_needs_generation: false

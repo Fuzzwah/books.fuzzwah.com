@@ -26,35 +26,13 @@ blurb: Who would want to harm Discworld's most beloved icon? Very few things are
   mess before the holiday season goes straight to hell and takes everyone along with
   it.
 subjects:
-- Fiction
-- Wizards
-- Discworld (Imaginary place)
-- Fantasy
-- Discworld (imaginary place), fiction
-- Fiction, fantasy, general
-- 'Death (fictitious character : pratchett), fiction'
-- satire
-- humor
-- mythology
-- pratchett
-- discworld
-- Motion picture plays
-- Magos
-- Discworld (Lugar imaginario)
-- Ficción
-- Fiction, humorous, general
-- Literature and fiction, fantasy
-- Hogfather. (Motion picture)
-- Hogfather
-- Scénarios de cinéma
-- screenplays
-- English Fantasy fiction
+- fiction
 recommendations:
-- wyrd-sisters
-- sourcery
-- soul-music
-- mort
 - jingo
+- guards-guards
+- soul-music
+- thud
+- monstrous-regiment
 series_name: Discworld
 series_index: 20.0
 review_needs_generation: false

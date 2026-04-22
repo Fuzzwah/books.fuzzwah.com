@@ -195,7 +195,7 @@ def _last_name(author: str) -> str:
 
 
 def _search_attempts(title: str, author: str) -> List[Tuple[str, str]]:
-    """Produce (title, author) pairs in order of specificity for OpenLibrary search."""
+    """Produce (title, author) pairs in order of specificity for title/author search."""
     attempts: List[Tuple[str, str]] = []
 
     def add(t: str, a: str) -> None:
@@ -220,61 +220,6 @@ def _search_attempts(title: str, author: str) -> List[Tuple[str, str]]:
         add(before_slash or before_colon or loose_title, last_name)
 
     return attempts
-
-
-def search_openlibrary_isbn(title: str, author: str, cache_dir: Path, slug: str) -> str:
-    for search_title, search_author in _search_attempts(title, author):
-        params = urllib.parse.urlencode(
-            {
-                "title": search_title,
-                "author": search_author,
-                "limit": 5,
-                "fields": "isbn,key,cover_i,cover_edition_key",
-            }
-        )
-        url = f"https://openlibrary.org/search.json?{params}"
-        url_hash = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
-        cache_path = cache_dir / f"search-{slug}-{url_hash}.json"
-        try:
-            data = fetch_json(url, cache_path)
-        except (urllib.error.URLError, urllib.error.HTTPError, json.JSONDecodeError, TimeoutError):
-            continue
-        for doc in data.get("docs", []):
-            for candidate in doc.get("isbn", []):
-                isbn = clean_isbn(candidate)
-                if isbn:
-                    vprint(f"    [srch]  matched {search_title!r} + {search_author!r} -> {isbn}")
-                    return isbn
-    return ""
-
-
-_ENGLISH_STOPWORDS = {"the", "and", "of", "was", "were", "with", "that", "which", "from", "they"}
-
-
-def looks_english(text: str) -> bool:
-    """Heuristic: English prose typically contains multiple of these stopwords;
-    Spanish/French/German/Italian translations almost never do."""
-    if not text:
-        return False
-    words = re.findall(r"[A-Za-z]+", text.lower())
-    if len(words) < 20:
-        return True  # too short to judge reliably — accept
-    hits = sum(1 for w in words if w in _ENGLISH_STOPWORDS)
-    return hits >= 3
-
-
-def extract_description(work_data: Dict[str, Any]) -> str:
-    description = work_data.get("description")
-    if isinstance(description, str):
-        text = description.strip()
-    elif isinstance(description, dict):
-        text = clean_value(description.get("value"))
-    else:
-        return ""
-    if not looks_english(text):
-        vprint(f"    [lang]  dropping non-English description ({len(text)} chars)")
-        return ""
-    return text
 
 
 def normalize_subjects(values: Any) -> List[str]:
@@ -316,22 +261,32 @@ def _download_bytes(url: str) -> bytes:
         return response.read()
 
 
-# MD5 of the generic "No image available" JPEG that Google Books serves when
-# a volume has no cover; rejected so the OpenLibrary fallback can run.
+# MD5 of the generic "No image available" JPEG Google Books serves when a
+# volume has no cover; rejected so ensure_cover falls through to the local
+# placeholder instead of saving a bogus image.
 _GOOGLE_BOOKS_PLACEHOLDER_MD5 = "a64fa89d7ebc97075c1d363fc5fea71f"
 
 
+class QuotaExhaustedError(Exception):
+    """Daily Google Books quota is gone; abandon further API calls this run."""
+
+
 def _fetch_json_with_429_retry(url: str, cache_path: Path, max_attempts: int = 4) -> Dict[str, Any]:
-    """Like fetch_json, but retries with exponential backoff on HTTP 429."""
+    """Like fetch_json, but retries with exponential backoff on HTTP 429.
+    Raises QuotaExhaustedError once retries are spent on 429, or on 403
+    (which Google sometimes returns once a keyed project's daily limit hits)."""
     for attempt in range(max_attempts):
         try:
             return fetch_json(url, cache_path)
         except urllib.error.HTTPError as exc:
-            if exc.code != 429 or attempt == max_attempts - 1:
-                raise
-            backoff = 2 ** (attempt + 1)
-            vprint(f"    [wait]  HTTP 429, backing off {backoff}s (attempt {attempt + 1}/{max_attempts})")
-            time.sleep(backoff)
+            if exc.code == 429 and attempt < max_attempts - 1:
+                backoff = 2 ** (attempt + 1)
+                vprint(f"    [wait]  HTTP 429, backing off {backoff}s (attempt {attempt + 1}/{max_attempts})")
+                time.sleep(backoff)
+                continue
+            if exc.code in (403, 429):
+                raise QuotaExhaustedError(f"HTTP {exc.code}: {exc.reason}") from exc
+            raise
     raise RuntimeError("unreachable")
 
 
@@ -372,19 +327,105 @@ def fetch_cover_from_google_books(isbn: str, cache_dir: Path) -> Optional[bytes]
     return None
 
 
-def fetch_cover_from_openlibrary(isbn: str) -> Optional[bytes]:
-    """Return cover image bytes from OpenLibrary, or None if unavailable."""
-    url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg?default=false"
+def _gbooks_fetch(url: str, cache_path: Path) -> Optional[Dict[str, Any]]:
     try:
-        data = _download_bytes(url)
-    except urllib.error.HTTPError as exc:
-        if exc.code != 404:
-            vprint(f"    [warn]  OpenLibrary cover HTTP {exc.code}: {exc.reason}")
+        return _fetch_json_with_429_retry(url, cache_path)
+    except QuotaExhaustedError:
+        raise
+    except (urllib.error.URLError, urllib.error.HTTPError, json.JSONDecodeError, TimeoutError) as exc:
+        vprint(f"    [warn]  Google Books request failed: {exc}")
         return None
-    except (urllib.error.URLError, TimeoutError) as exc:
-        vprint(f"    [warn]  OpenLibrary cover fetch failed: {exc}")
+
+
+def _pick_best_volume(items: List[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
+    english = [it for it in items if (it.get("volumeInfo") or {}).get("language") == "en"]
+    candidates = english or items
+    for item in candidates:
+        if (item.get("volumeInfo") or {}).get("description"):
+            return item
+    return candidates[0] if candidates else None
+
+
+def gbooks_volume_by_isbn(isbn: str, cache_dir: Path) -> Optional[Dict[str, Any]]:
+    """Look up a Google Books volume by ISBN. Returns the best volume dict or None."""
+    params = {"q": f"isbn:{isbn}"}
+    api_key = os.environ.get("GOOGLE_BOOKS_API_KEY", "")
+    if api_key:
+        params["key"] = api_key
+    url = f"https://www.googleapis.com/books/v1/volumes?{urllib.parse.urlencode(params)}"
+    cache_path = cache_dir / f"gbooks-{isbn}.json"
+    data = _gbooks_fetch(url, cache_path)
+    if not data:
         return None
-    return data or None
+    return _pick_best_volume(data.get("items") or [])
+
+
+def gbooks_volume_by_title_author(
+    title: str, author: str, cache_dir: Path, slug: str
+) -> Optional[Dict[str, Any]]:
+    """Search Google Books by title+author (decreasing specificity). Returns best volume with an ISBN-13."""
+    api_key = os.environ.get("GOOGLE_BOOKS_API_KEY", "")
+    for search_title, search_author in _search_attempts(title, author):
+        params = {
+            "q": f'intitle:"{search_title}"+inauthor:"{search_author}"',
+            "langRestrict": "en",
+            "maxResults": "5",
+        }
+        if api_key:
+            params["key"] = api_key
+        # Keep '+' and '"' literal inside q=: urlencode quote_via defaults to quote_plus which escapes them.
+        query = "&".join(f"{k}={urllib.parse.quote(str(v), safe=':+\"')}" for k, v in params.items())
+        url = f"https://www.googleapis.com/books/v1/volumes?{query}"
+        url_hash = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
+        cache_path = cache_dir / f"gbsearch-{slug}-{url_hash}.json"
+        data = _gbooks_fetch(url, cache_path)
+        if not data:
+            continue
+        items = data.get("items") or []
+        items_with_isbn = [it for it in items if _extract_isbn(it)]
+        volume = _pick_best_volume(items_with_isbn)
+        if volume:
+            vprint(f"    [srch]  matched {search_title!r} + {search_author!r}")
+            return volume
+    return None
+
+
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def _extract_isbn(volume: Dict[str, Any]) -> str:
+    identifiers = (volume.get("volumeInfo") or {}).get("industryIdentifiers") or []
+    isbn13 = ""
+    isbn10 = ""
+    for ident in identifiers:
+        ident_type = (ident.get("type") or "").upper()
+        value = clean_isbn(ident.get("identifier") or "")
+        if ident_type == "ISBN_13" and not isbn13:
+            isbn13 = value
+        elif ident_type == "ISBN_10" and not isbn10:
+            isbn10 = value
+    return isbn13 or isbn10
+
+
+def extract_gbooks_fields(volume: Dict[str, Any]) -> Tuple[str, str, List[str]]:
+    """Return (isbn, blurb, subjects) from a Google Books volume dict."""
+    info = volume.get("volumeInfo") or {}
+    isbn = _extract_isbn(volume)
+
+    blurb = ""
+    description = info.get("description") or ""
+    if description and info.get("language", "en") == "en":
+        blurb = _HTML_TAG_RE.sub("", description).strip()
+
+    raw_subjects: List[str] = []
+    for category in info.get("categories") or []:
+        for part in str(category).split(" / "):
+            token = part.strip().lower()
+            if token:
+                raw_subjects.append(token)
+    subjects = normalize_subjects(raw_subjects)
+
+    return isbn, blurb, subjects
 
 
 def _cover_already_recorded(source: str) -> bool:
@@ -432,55 +473,8 @@ def ensure_cover(slug: str, isbn: str, covers_dir: Path, cache_dir: Path) -> Non
     else:
         vprint(f"    [none]  no Google Books cover for ISBN {isbn}")
 
-    vprint(f"    [net]   openlibrary cover for ISBN {isbn}")
-    t0 = time.monotonic()
-    data = fetch_cover_from_openlibrary(isbn)
-    if data:
-        try:
-            resize_and_save_cover(data, cover_path)
-            _save_cover_source(cover_sources, cover_meta_path, slug, f"openlibrary:isbn:{isbn}")
-            vprint(f"    [net]   -> openlibrary cover {len(data)} bytes in {time.monotonic() - t0:.2f}s")
-            return
-        except Exception as exc:
-            vprint(f"    [warn]  openlibrary cover save failed: {exc}")
-    else:
-        vprint(f"    [none]  no OpenLibrary cover for ISBN {isbn}")
-
     if not cover_path.exists():
         write_placeholder_cover(cover_path)
-
-
-def openlibrary_book_data(isbn: str, cache_dir: Path) -> Optional[Tuple[str, List[str]]]:
-    """Fetch blurb + subjects for an ISBN. Returns None if OpenLibrary has no record."""
-    isbn_cache = cache_dir / f"{isbn}.json"
-    try:
-        isbn_data = fetch_json(f"https://openlibrary.org/isbn/{isbn}.json", isbn_cache)
-    except urllib.error.HTTPError as exc:
-        if exc.code == 404:
-            return None
-        raise
-
-    work_key = ""
-    works = isbn_data.get("works") or []
-    if works and isinstance(works[0], dict):
-        work_key = works[0].get("key", "")
-
-    work_data: Dict[str, Any] = {}
-    if work_key:
-        work_id = work_key.strip("/").replace("/", "-")
-        work_cache = cache_dir / f"{work_id}.json"
-        try:
-            work_data = fetch_json(f"https://openlibrary.org{work_key}.json", work_cache)
-        except urllib.error.HTTPError as exc:
-            if exc.code != 404:
-                raise
-
-    subjects = normalize_subjects(work_data.get("subjects") or isbn_data.get("subjects"))
-    blurb = extract_description(work_data)
-    if not blurb and subjects:
-        blurb = ", ".join(subjects[:8])
-
-    return blurb, subjects
 
 
 def read_rows(csv_path: Path) -> List[BookRow]:
@@ -538,36 +532,22 @@ def resolve_book(row: BookRow, cache_dir: Path) -> Tuple[Optional[ResolvedBook],
     slug = slugify_title(row.title)
     csv_isbn = row.isbn13 or row.isbn10
 
-    isbn = ""
-    blurb = ""
-    subjects: List[str] = []
-
+    volume: Optional[Dict[str, Any]] = None
     if csv_isbn:
-        try:
-            result = openlibrary_book_data(csv_isbn, cache_dir)
-        except (urllib.error.URLError, json.JSONDecodeError, TimeoutError) as exc:
-            vprint(f"    [warn]  ISBN lookup failed for {csv_isbn}: {exc}")
-            result = None
-        if result is not None:
-            isbn = csv_isbn
-            blurb, subjects = result
-        else:
-            vprint(f"    [warn]  CSV ISBN {csv_isbn} not in OpenLibrary; searching by title+author")
+        volume = gbooks_volume_by_isbn(csv_isbn, cache_dir)
+        if volume is None:
+            vprint(f"    [warn]  CSV ISBN {csv_isbn} not in Google Books; searching by title+author")
 
-    if not isbn:
-        searched = search_openlibrary_isbn(row.title, row.author, cache_dir, slug)
-        if searched:
-            try:
-                result = openlibrary_book_data(searched, cache_dir)
-            except (urllib.error.URLError, json.JSONDecodeError, TimeoutError) as exc:
-                vprint(f"    [warn]  ISBN lookup failed for {searched}: {exc}")
-                result = None
-            isbn = searched
-            if result is not None:
-                blurb, subjects = result
+    if volume is None:
+        volume = gbooks_volume_by_title_author(row.title, row.author, cache_dir, slug)
 
+    if volume is None:
+        return None, f"{slug}: not found in Google Books"
+
+    isbn, blurb, subjects = extract_gbooks_fields(volume)
+    isbn = isbn or csv_isbn
     if not isbn:
-        return None, f"{slug}: unable to resolve ISBN"
+        return None, f"{slug}: no ISBN from Google Books or CSV"
 
     return ResolvedBook(row=row, slug=slug, isbn=isbn, blurb=blurb, subjects=subjects), None
 
@@ -585,7 +565,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Generate Jekyll book markdown files from a Goodreads CSV export.")
     parser.add_argument("--input", help="Path to Goodreads CSV export")
     parser.add_argument("--books-dir", default="_books", help="Output directory for markdown files")
-    parser.add_argument("--cache-dir", default="_cache/openlibrary", help="OpenLibrary cache directory")
+    parser.add_argument("--cache-dir", default="_cache/gbooks", help="Google Books cache directory")
     parser.add_argument("--covers-dir", default="images/covers", help="Directory for downloaded cover JPGs")
     parser.add_argument("--dry-run", action="store_true", help="Print actions without writing files")
     parser.add_argument(
@@ -635,17 +615,29 @@ def main() -> int:
     total = len(rows)
     print(f"Processing {total} books from {input_path}", flush=True)
 
+    quota_exhausted = False
+    processed = 0
     for index, row in enumerate(rows, start=1):
         book_start = time.monotonic()
         vprint(f"[{index}/{total}] {row.title!r} — {row.author}")
-        resolved, error = resolve_book(row, cache_dir)
+        try:
+            resolved, error = resolve_book(row, cache_dir)
+        except QuotaExhaustedError as exc:
+            print(f"Quota exhausted after {processed} books ({exc}); rerun tomorrow.", flush=True)
+            quota_exhausted = True
+            break
         if error:
             unresolved.append(error)
             vprint(f"    [skip]  {error}")
             continue
         assert resolved is not None
 
-        ensure_cover(resolved.slug, resolved.isbn, covers_dir, cache_dir)
+        try:
+            ensure_cover(resolved.slug, resolved.isbn, covers_dir, cache_dir)
+        except QuotaExhaustedError as exc:
+            print(f"Quota exhausted after {processed} books ({exc}); rerun tomorrow.", flush=True)
+            quota_exhausted = True
+            break
 
         target = books_dir / f"{resolved.slug}.md"
         old_front, old_body = ({}, "")
@@ -703,8 +695,9 @@ def main() -> int:
             f"    [done]  {'wrote' if changed else 'unchanged'} {target} "
             f"in {time.monotonic() - book_start:.2f}s"
         )
+        processed += 1
 
-    print(f"Processed {len(rows)} books. Updated {written} markdown files.")
+    print(f"Processed {processed}/{total} books. Updated {written} markdown files.")
     if missing_blurbs:
         print("Missing blurbs (manual review):")
         for slug in sorted(set(missing_blurbs)):
@@ -714,7 +707,7 @@ def main() -> int:
         for item in unresolved:
             print(f"  - {item}")
 
-    return 0
+    return 2 if quota_exhausted else 0
 
 
 if __name__ == "__main__":

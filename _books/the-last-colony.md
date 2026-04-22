@@ -13,24 +13,21 @@ year_published: 2007
 publisher: Tor Books
 binding: Hardcover
 cover: the-last-colony.jpg
-blurb: Serving his human colony on distant Huckleberry as a village ombudsman, retired
-  fighter John Perry looks forward to settling into farm life with his wife and adopted
-  daughter before he is drawn back into the dangerous interstellar politics of his
-  past.
+blurb: Retired from his fighting days, John Perry is now village ombudsman for a human
+  colony on distant Huckleberry. With his wife, former Special Forces warrior Jane
+  Sagan, he farms several acres, adjudicates local disputes, and enjoys watching his
+  adopted daughter grow up. That is, until his and Jane's past reaches out to bring
+  them back into the game--as leaders of a new human colony, to be peopled by settlers
+  from all the major human worlds, for a deep political purpose that will put Perry
+  and Sagan back in the thick of interstellar politics, betrayal, and war.
 subjects:
-- Space warfare
-- Life on other planets
-- Fiction
-- Science fiction
-- Space colonies
-- Fiction, science fiction, military
-- Fiction, science fiction, general
+- fiction
 recommendations:
 - old-man-s-war
-- zoe-s-tale
-- the-dreaming-void
-- ringworld
-- judas-unchained
+- the-sagan-diary
+- after-the-coup
+- the-ghost-brigades
+- the-human-division
 series_name: Old Man's War
 series_index: 3.0
 review_needs_generation: false

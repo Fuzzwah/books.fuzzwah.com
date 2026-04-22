@@ -13,22 +13,17 @@ year_published: 2015
 publisher: Del Rey
 binding: Hardcover
 cover: half-the-world.jpg
-blurb: Fiction, fantasy, general, First loves, Teenage girls, Fiction, FICTION / Fantasy
-  / Epic, FICTION / Action & Adventure, FICTION / Fantasy / General
+blurb: Fifteen-year-old girl soldier Thorn learns the ways of war in the king's army
+  while falling in love for the first time. By the New York Times best-selling author
+  of Half a King.
 subjects:
-- Fiction, fantasy, general
-- First loves
-- Teenage girls
-- Fiction
-- FICTION / Fantasy / Epic
-- FICTION / Action & Adventure
-- FICTION / Fantasy / General
+- fiction
 recommendations:
 - half-a-war
+- half-a-king
+- red-country
+- a-little-hatred
 - last-argument-of-kings
-- before-they-are-hanged
-- the-lies-of-locke-lamora
-- guns-of-the-dawn
 series_name: Shattered Sea
 series_index: 2.0
 review_needs_generation: false

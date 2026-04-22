@@ -3,7 +3,7 @@ layout: book
 slug: do-androids-dream-of-electric-sheep
 title: Do Androids Dream of Electric Sheep?
 author: Philip K. Dick
-isbn: '9509009040'
+isbn: '9780575094185'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,47 +13,19 @@ year_published: 2008
 publisher: Ballantine Books
 binding: ebook
 cover: do-androids-dream-of-electric-sheep.jpg
-blurb: "It was January 2021, and Rick Deckard had a license to kill.\r\nSomewhere\
-  \ among the hordes of humans out there, lurked several rogue androids. Deckard's\
-  \ assignment--find them and then...\"retire\" them. Trouble was, the androids all\
-  \ looked exactly like humans, and they didn't want to be found!"
+blurb: By 2021, companies have built incredibly realistic androids. Fearful of the
+  havoc these artificial humans could wreak, the government bans them from Earth,
+  but when androids don't want to be identified, they just blend in. Rick Deckard
+  is an officially sanctioned bounty hunter whose job is to find rogue androids and
+  "retire" them. But cornered, they tend to fight back, with deadly results.
 subjects:
-- Androids
-- Fiction
-- Rick Deckard (Fictitious character)
-- Science Fiction
-- Twenty-first century
-- open_syllabus_project
-- Bounty hunters
-- Fiction, science fiction, general
-- Large type books
-- Movie-TV Tie-In
-- Movies
-- Motion Pictures
-- Films
-- Novelization
-- American Science fiction
-- PRO Adams, Mark B. (donor) (Adams Collection copy)
-- CHR 1982
-- Long Now Manual for Civilization
-- Media Tie-In
-- Adventure
-- Science Fiction & Fantasy
-- Control systems
-- Artificial life
-- Robots
-- Robotic pets
-- Deckard, Rick (Fictitious character) -- Fiction
-- Androids -- Fiction
-- Deckard, Rick (Fictitious character)
-- Androidy
-- Istoty pozaziemskie
+- androids
 recommendations:
-- starship-troopers
-- snow-crash
-- fahrenheit-451
-- the-windup-girl
-- the-left-hand-of-darkness
+- paradise
+- anvil-of-stars
+- children-of-time
+- iron-sunrise
+- outland
 series_name: ''
 series_index: ''
 review_needs_generation: false

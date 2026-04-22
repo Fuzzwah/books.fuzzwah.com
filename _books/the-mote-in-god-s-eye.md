@@ -1,41 +1,35 @@
 ---
 layout: book
 slug: the-mote-in-god-s-eye
-title: 'The Mote in God''s Eye (Moties, #1)'
+title: The Mote in God's Eye
 author: Larry Niven
-isbn: '9781568650548'
+isbn: '9780671491758'
 shelf: read
-my_rating: 0
-date_read: '2023-09-23'
-date_added: '2023-09-05'
-pages: 596
-year_published: 2011
-publisher: Spectrum Literary Agency
-binding: ebook
+my_rating: 5
+date_read: ''
+date_added: '2012-12-26'
+pages: 560
+year_published: 1983
+publisher: Pocket
+binding: Paperback
 cover: the-mote-in-god-s-eye.jpg
-blurb: "Science fiction classic about the rise, fall and subsequent rise of a civilization\
-  \ where the peak catastrophe is known as the \"crazy eddy point\". Introduces the\
-  \ concept of frictionless toilets that don't have any water in them but I suspect\
-  \ the authors didn't think it all the way through - I don't recall a negative air\
-  \ pressure that would keep odours in their rightfull place. Nevertheless a fascinating\
-  \ read.\r\nI haven't read this for donkeys years which is why I'm searching for\
-  \ an e-copy."
+blurb: Writing separately, Larry Niven and Jerry Pournelle are responsible for a number
+  of science fiction classics, such as the Hugo and Nebula Award-winning "Ringworld",
+  "Debt of Honor", and "The Integral Trees". Together they have written the critically
+  acclaimed bestsellers "Inferno", "Footfall", and "The Legacy of Heorot", among others.
+  "The Mote In God's Eye" is their acknowledged masterpiece, an epic novel of mankind's
+  first encounter with alien life that transcends the genre. Copyright © Libri GmbH.
+  All rights reserved.
 subjects:
-- American Science fiction
-- Science fiction
-- Fiction in English
-- Life on other planets
-- Fiction
-- Fiction, science fiction, general
-- American literature
+- fiction
 recommendations:
-- the-dispossessed
-- the-left-hand-of-darkness
-- stranger-in-a-strange-land
-- planet-of-the-damned
-- earth-abides
-series_name: Moties
-series_index: 1.0
+- ringworld
+- the-smoke-ring
+- the-integral-trees
+- a-world-out-of-time
+- beowulf-s-children
+series_name: ''
+series_index: ''
 review_needs_generation: false
 ---
 

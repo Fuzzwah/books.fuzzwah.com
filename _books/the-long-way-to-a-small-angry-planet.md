@@ -13,34 +13,25 @@ year_published: 2014
 publisher: CreateSpace Independent Publishing Platform
 binding: Paperback
 cover: the-long-way-to-a-small-angry-planet.jpg
-blurb: "When Rosemary Harper joins the crew of the Wayfarer, she isn't expecting much.\
-  \ The Wayfarer, a patched-up ship that's seen better days, offers her everything\
-  \ she could possibly want: a small, quiet spot to call home for a while, adventure\
-  \ in far-off corners of the galaxy, and distance from her troubled past.\r\nBut\
-  \ Rosemary gets more than she bargained for with the Wayfarer. The crew is a mishmash\
-  \ of species and personalities, from Sissix, the friendly reptilian pilot, to Kizzy\
-  \ and Jenks, the constantly sparring engineers who keep the ship running. Life on\
-  \ board is chaotic, but more or less peaceful - exactly what Rosemary wants.\r\n\
-  Until the crew are offered the job of a lifetime: the chance to build a hyperspace\
-  \ tunnel to a distant planet."
+blurb: Somewhere within our crowded sky, a crew of wormhole builders hops from planet
+  to planet, on their way to the job of a lifetime. To the galaxy at large, humanity
+  is a minor species, and one patched-up construction vessel is a mere speck on the
+  starchart. This is an everyday sort of ship, just trying to get from here to there.But
+  all voyages leave their mark, and even the most ordinary of people have stories
+  worth telling. A young Martian woman, hoping the vastness of space will put some
+  distance between herself and the life she's left behind. An alien pilot, navigating
+  life without her own kind. A pacifist captain, awaiting the return of a loved one
+  at war.Set against a backdrop of curious cultures and distant worlds, this episodic
+  tale weaves together the adventures of nine eclectic characters, each on a journey
+  of their own.
 subjects:
-- Fiction
-- Science fiction
-- Extraterrestrial beings
-- Interplanetary voyages
-- Fiction, science fiction, general
-- LGBTQ science fiction & fantasy
-- Space warfare
-- Action & Adventure
-- Romance
-- LGBT
-- Space Opera
+- extraterrestrial beings
 recommendations:
+- a-closed-and-common-orbit
 - record-of-a-spaceborn-few
-- the-hydrogen-sonata
-- infinity-engine
-- the-reality-dysfunction
-- starship-troopers
+- to-be-taught-if-fortunate
+- slow-gods
+- shards-of-earth
 series_name: Wayfarers
 series_index: 1.0
 review_needs_generation: false

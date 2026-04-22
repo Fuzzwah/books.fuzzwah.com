@@ -13,51 +13,29 @@ year_published: 2007
 publisher: Gollancz
 binding: Trade Paperback
 cover: before-they-are-hanged.jpg
-blurb: "Superior Glokta has a problem. How do you defend a city surrounded by enemies\
-  \ and riddled with traitors, when your allies can by no means be trusted, and your\
-  \ predecessor vanished without a trace? It’s enough to make a torturer want to run\
-  \ – if he could even walk without a stick.\r\n\r\nNorthmen have spilled over the\
-  \ border of Angland and are spreading fire and death across the frozen country.\
-  \ Crown Prince Ladisla is poised to drive them back and win undying glory. There\
-  \ is only one problem – he commands the worst-armed, worst-trained, worst-led army\
-  \ in the world.\r\n\r\nAnd Bayaz, the First of the Magi, is leading a party of bold\
-  \ adventurers on a perilous mission through the ruins of the past. The most hated\
-  \ woman in the South, the most feared man in the North, and the most selfish boy\
-  \ in the Union make a strange alliance, but a deadly one. They might even stand\
-  \ a chance of saving mankind from the Eaters. If they didn’t hate each other quite\
-  \ so much.\r\n\r\nAncient secrets will be uncovered. Bloody battles will be won\
-  \ and lost. Bitter enemies will be forgiven – but not before they are hanged."
+blurb: Bitter and merciless war is coming to the frozen north. It's bloody and dangerous
+  and the Union army, split by politics and hamstrung by incompetence, is utterly
+  unprepared for the slaughter that's coming. Lacking experience, training, and in
+  some cases even weapons the army is scarcely equipped to repel Bethod's scouts,
+  let alone the cream of his forces. In the heat-ravaged south the Gurkish are massing
+  to assault the city of Dagoska, defended by Inquisitor Glokta. The city is braced
+  for the inevitable defeat and massacre to come, preparations are made to make the
+  Gurkish pay for every inch of land . . . but a plot is festering to hand the city
+  to its beseigers without a fight, and the previous Inquisitor of Dagoska vanished
+  without trace. Threatened from within and without the city, Glokta needs answers,
+  and he needs them soon. And to the east a small band of malefactors travel to the
+  edge of the world to reclaim a device from history - a Seed, hidden for generations
+  - with tremendous destructive potential. A device which could put a end to war,
+  to the army of Eaters in the South, to the invasion of Shanka from the North - but
+  only if it can be found, and only if its power can be controlled . . .
 subjects:
-- Fiction, fantasy, general
-- Fiction, fantasy, epic
-- Fiction, war & military
-- Fiction, action & adventure
-- Fiction, science fiction, general
-- Kings and rulers
-- Fiction
-- Imaginary wars and battles
-- Fantasy fiction
-- Rois et souverains
-- Romans, nouvelles
-- Guerres et batailles imaginaires
-- FICTION / Fantasy / Epic
-- FICTION / Action & Adventure
-- FICTION / Fantasy / Historical
-- FICTION / War & Military
-- Quests (Expeditions)
-- Good and evil
-- Adventure fiction
-- Imaginary wars and battles -- Fiction
-- Voyages and travels -- Fiction
-- Guerres et batailles imaginaires -- Romans, nouvelles, etc
-- Voyages -- Romans, nouvelles, etc
-- Voyages and travels
+- fantasy fiction
 recommendations:
 - last-argument-of-kings
-- half-a-war
-- words-of-radiance
-- a-little-hatred
-- wyrd-sisters
+- the-blade-itself
+- sharp-ends
+- half-a-king
+- the-trouble-with-peace
 series_name: The First Law
 series_index: 2.0
 review_needs_generation: false

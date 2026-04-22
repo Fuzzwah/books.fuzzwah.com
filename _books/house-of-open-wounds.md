@@ -13,23 +13,16 @@ year_published: 2023
 publisher: Bloomsbury Publishing
 binding: Hardcover
 cover: house-of-open-wounds.jpg
-blurb: "City-by-city, kingdom-by-kingdom, the Palleseen have sworn to scour the world\
-  \ of superstition. As their legions advance, so a mountain of ragged, holed and\
-  \ scorched flesh is delivered to the field hospital tents just behind the battlefront.\r\
-  \nWhich is where Yasnic, one-time priest, healer and rebel, finds himself. Reprieved\
-  \ from the gallows and sent to war clutching a box of orphan Gods, he has been sequestered\
-  \ to a particularly unorthodox medical unit.\r\nEntrusted - for now - with saving\
-  \ lives deemed otherwise un-saveable, the field hospital's crew face a precarious\
-  \ existence. Their work with unapproved magic, necromancy, demonology and Yasnic's\
-  \ thoroughly illicit Gods could lead to the unit being disbanded, arrested or worse."
+blurb: The follow-up novel to Adrian Tchaikovsky's triumphant fantasy novel City of
+  Last Chances
 subjects:
-- Fiction, fantasy, general
+- fiction
 recommendations:
+- days-of-shattered-faith
 - city-of-last-chances
-- guns-of-the-dawn
-- the-midnight-library
-- guards-guards
-- age-of-empyre
+- the-expert-system-s-brother
+- elder-race
+- made-things
 series_name: The Tyrant Philosophers
 series_index: 2.0
 review_needs_generation: false

@@ -13,22 +13,17 @@ year_published: 2019
 publisher: Head of Zeus
 binding: Hardcover
 cover: the-redemption-of-time-remembrance-of-earths-past.jpg
-blurb: Published with the blessing of Cixin Liu, *The Redemption of Time* extends
-  the astonishing universe of the Three-Body Problem trilogy.
+blurb: Set in the universe of Cixin Liu's Three-Body Problem trilogy, and continuing
+  the saga. This original story by Baoshu-published with Liu's blessing-charts the
+  aftermath of the conflict between humanity and the extraterrestrial Trisolarans
 subjects:
-- Language and languages
-- Fiction, general
-- Science fiction
-- Extraterrestrial beings
-- Fiction
-- Human-alien encounters
-- Space flight
+- chinese fiction
 recommendations:
-- record-of-a-spaceborn-few
+- counterstrike
 - death-s-end
-- triplanetary
-- planet-of-the-damned
-- judas-unchained
+- permutation-city
+- the-lost-colony
+- blackout
 series_name: ''
 series_index: ''
 review_needs_generation: false

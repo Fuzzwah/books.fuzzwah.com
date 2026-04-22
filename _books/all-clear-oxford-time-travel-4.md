@@ -13,24 +13,17 @@ year_published: 2010
 publisher: Spectra
 binding: Hardcover
 cover: all-clear-oxford-time-travel-4.jpg
-blurb: When three Oxford historians become unexpectedly trapped in 1940, they struggle
-  not only to find their way home but to survive as Hitler's bombers attempt to pummel
-  London into submission. Meanwhile, in 2060 Oxford, the historians' supervisor and
-  seventeen-year-old Colin Templer are engaged in a frantic and seemingly impossible
-  struggle to find them.
+blurb: A follow-up to Blackout finds its time-traveling protagonists landing during
+  the Blitz of England in World War II. By the Science Fiction Hall of Fame, Nebula
+  Award- and Hugo Award-winning author of The Doomsday Book.
 subjects:
-- Time travel
-- Historians
-- World War, 1939-1945
-- Fiction
-- Fiction, science fiction, general
-- Fiction, historical, general
+- fiction
 recommendations:
 - blackout
-- to-say-nothing-of-the-dog
-- cryptonomicon
 - doomsday-book
-- the-rise-and-fall-of-d-o-d-o
+- to-say-nothing-of-the-dog
+- lords-of-uncreation
+- the-collapsing-empire
 series_name: Oxford Time Travel
 series_index: 4.0
 review_needs_generation: false

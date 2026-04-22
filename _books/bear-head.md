@@ -13,15 +13,16 @@ year_published: 2021
 publisher: Head of Zeus
 binding: Hardcover
 cover: bear-head.jpg
-blurb: English literature
+blurb: Honey the genetically engineered bear takes a ride in Jimmy the Martian's head
+  and starts a revolution on the Red Planet.
 subjects:
-- English literature
+- fiction
 recommendations:
-- shroud
-- shards-of-earth
-- lords-of-uncreation
+- dogs-of-war
 - firewalkers
-- alien-clay
+- children-of-time
+- elder-race
+- service-model
 series_name: Dogs of War
 series_index: 2.0
 review_needs_generation: false

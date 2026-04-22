@@ -61,11 +61,11 @@ subjects:
 - New York Times bestseller
 - Long Now Manual for Civilization
 recommendations:
-- alexander-the-great-journey-to-the-end-of-the-earth
-- 1491-new-revelations-of-the-americas-before-columbus
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
-- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
-- the-devil-in-the-white-city
+- how-the-scots-invented-the-modern-world-the-true-story-of-how-western-europes-poorest-nation-created-our-world-everything-in-it
+- caesar-s-legion-the-epic-saga-of-julius-caesar-s-elite-tenth-legion-and-the-armies-of-rome
+- firepower-how-weapons-shaped-warfare
+- seveneves
+- the-rise-and-fall-of-the-dinosaurs-a-new-history-of-a-lost-world
 series_name: ''
 series_index: ''
 review_needs_generation: false

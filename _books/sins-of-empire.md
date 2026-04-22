@@ -13,16 +13,30 @@ year_published: 2017
 publisher: Orbit
 binding: Hardcover
 cover: sins-of-empire.jpg
-blurb: Fiction, fantasy, general, series:Gods of Blood and Powder
+blurb: 'A new epic fantasy trilogy about a young nation at odds with with the ancient
+  forces that have begun to stir as fortune seekers and sorcerers flock to the frontier.
+  Set in of Brian McClellan''s Powder Mage trilogy. A world on the cusp of a new age...
+  The young nation of Fatrasta is a turbulent place -- a frontier destination for
+  criminals, fortune-hunters, brave settlers, and sorcerers seeking relics of the
+  past. Only the iron will of the lady chancellor and her secret police holds the
+  capital city of Landfall together against the unrest of an oppressed population
+  and the machinations of powerful empires. Sedition is a dangerous word... The insurrection
+  that threatens Landfall must be purged with guile and force, a task which falls
+  on the shoulders of a spy named Michel Bravis, convicted war hero Mad Ben Styke,
+  and Lady Vlora Flint, a mercenary general with a past as turbulent as Landfall''s
+  present. The past haunts us all... As loyalties are tested, revealed, and destroyed,
+  a grim specter as old as time has been unearthed in this wild land, and the people
+  of Landfall will soon discover that rebellion is the least of their worries. For
+  more from Brian McClellan, check out: The Powder Mage Trilogy Promise of Blood The
+  Crimson Campaign The Autumn Republic'
 subjects:
-- Fiction, fantasy, general
-- series:Gods of Blood and Powder
+- fiction
 recommendations:
 - wrath-of-empire
-- the-crimson-campaign
-- the-autumn-republic
 - blood-of-empire
-- unsouled
+- the-mad-lancers
+- the-autumn-republic
+- promise-of-blood
 series_name: Gods of Blood and Powder
 series_index: 1.0
 review_needs_generation: false

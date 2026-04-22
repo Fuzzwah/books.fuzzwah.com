@@ -13,26 +13,32 @@ year_published: 2022
 publisher: MCD
 binding: Hardcover
 cover: the-mountain-in-the-sea.jpg
-blurb: "When pioneering marine biologist Dr. Ha Nguyen is offered the chance to travel\
-  \ to the remote Con Dao Archipelago to investigate a highly intelligent, dangerous\
-  \ octopus species, she doesn't pause long enough to look at the fine print. DIANIMA\
-  \ - a transnational tech corporation best known for its groundbreaking work in artificial\
-  \ intelligence - has purchased the islands, evacuated their population and sealed\
-  \ the archipelago off from the world so that Nguyen can focus on her research.\r\
-  \n\r\nBut the stakes are high: the octopuses hold the key to unprecedented breakthroughs\
-  \ in extrahuman intelligence and there are vast fortunes to be made by whoever can\
-  \ take advantage of their advancements. And no one has yet asked the octopuses what\
-  \ they think. And what they might do about it."
+blurb: Humankind discovers intelligent life in an octopus species with its own language
+  and culture, and sets off a high-stakes global competition to dominate the future.
+  When Dr. Ha Nguyen--a pioneering marine biologist with a very specific, cephalopod-focused
+  résumé--is offered the chance to travel to the remote Con Dao Archipelago to investigate
+  a highly intelligent, dangerous octopus species, she doesn't pause long enough to
+  look at the fine print. She will be the only scientist to have access to these octopuses,
+  who just may hold the key to extrahuman intelligence. DIANIMA--a transnational tech
+  corporation best known for its groundbreaking work in artificial intelligence, including
+  having developed the world's first true android--has purchased the islands, evacuated
+  their population, and sealed the archipelago off from the world. That android, along
+  with a battle-tested security officer, will form the entirety of Nguyen's team as
+  she attempts to understand the octopuses' sophisticated communications. But she
+  may not have much time. Forces larger and more powerful than DIANIMA want access
+  to the octopuses and are ruthless and innovative in their pursuit. And meanwhile,
+  of course, the octopuses themselves may have something to say about it. A near-future
+  thriller about the nature of intelligence, Ray Nayler's The Mountain in the Sea
+  is at once a dazzling literary debut and a mind-blowing inquiry into some of humanity's
+  most alluring questions.
 subjects:
-- Science fiction
-- speculative evolution
-- Fiction, thrillers, general
+- fiction
 recommendations:
-- the-windup-girl
-- the-water-knife
-- spares
-- jurassic-park
-- great-north-road
+- singularity-sky
+- delta-v
+- unsouled
+- the-dispossessed
+- the-last-firewall
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -13,20 +13,34 @@ year_published: 2017
 publisher: PublicAffairs
 binding: Hardcover
 cover: the-storm-before-the-storm-the-beginning-of-the-end-of-the-roman-republic.jpg
-blurb: History, Rome, history, republic, 510-30 b.c., nyt:combined-print-and-e-book-nonfiction=2017-11-12,
-  New York Times bestseller, Roman Empire
+blurb: 'NEW YORK TIMES BESTSELLER The creator of the award-winning podcast series
+  The History of Rome and Revolutions brings to life the bloody battles, political
+  machinations, and human drama that set the stage for the fall of the Roman Republic.
+  The Roman Republic was one of the most remarkable achievements in the history of
+  civilization. Beginning as a small city-state in central Italy, Rome gradually expanded
+  into a wider world filled with petty tyrants, barbarian chieftains, and despotic
+  kings. Through the centuries, Rome''s model of cooperative and participatory government
+  remained remarkably durable and unmatched in the history of the ancient world. In
+  146 BC, Rome finally emerged as the strongest power in the Mediterranean. But the
+  very success of the Republic proved to be its undoing. The republican system was
+  unable to cope with the vast empire Rome now ruled: rising economic inequality disrupted
+  traditional ways of life, endemic social and ethnic prejudice led to clashes over
+  citizenship and voting rights, and rampant corruption and ruthless ambition sparked
+  violent political clashes that cracked the once indestructible foundations of the
+  Republic. Chronicling the years 146-78 BC, The Storm Before the Storm dives headlong
+  into the first generation to face this treacherous new political environment. Abandoning
+  the ancient principles of their forbearers, men like Marius, Sulla, and the Gracchi
+  brothers set dangerous new precedents that would start the Republic on the road
+  to destruction and provide a stark warning about what can happen to a civilization
+  that has lost its way.'
 subjects:
-- History
-- Rome, history, republic, 510-30 b.c.
-- nyt:combined-print-and-e-book-nonfiction=2017-11-12
-- New York Times bestseller
-- Roman Empire
+- history
 recommendations:
 - hero-of-two-worlds-the-marquis-de-lafayette-in-the-age-of-revolution
-- the-three-body-problem
-- sapiens-a-brief-history-of-humankind
-- lionheart
-- genghis-khan-and-the-making-of-the-modern-world
+- the-decline-and-fall-of-the-roman-empire
+- a-column-of-fire
+- the-last-emperox
+- salt-a-world-history
 series_name: ''
 series_index: ''
 review_needs_generation: false

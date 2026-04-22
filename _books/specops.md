@@ -13,23 +13,19 @@ year_published: 2016
 publisher: ''
 binding: ebook
 cover: specops.jpg
-blurb: series:Expeditionary Force, Space warfare, Fiction, Extraterrestrial beings,
-  Human-computer interaction, Guerre spatiale, Romans, nouvelles, Extraterrestres
+blurb: The sequel to 'Columbus Day'. Colonel Joe Bishop made a promise and he's going
+  to keep it; taking the captured alien starship Flying Dutchman back out. He doesn't
+  agree when the UN decides to send almost 70 elite Special Operations troops, hotshot
+  pilots and scientists with him; the mission is a fool's errand he doesn't expect
+  to ever return. At least, this time, the Earth is safe, right?Not so much.
 subjects:
-- series:Expeditionary Force
-- Space warfare
-- Fiction
-- Extraterrestrial beings
-- Human-computer interaction
-- Guerre spatiale
-- Romans, nouvelles
-- Extraterrestres
+- aliens
 recommendations:
-- columbus-day
-- starship-troopers
 - black-ops
-- fulgrim
-- ringworld
+- paradise
+- zero-hour
+- trouble-on-paradise
+- renegades
 series_name: Expeditionary Force
 series_index: 2.0
 review_needs_generation: false

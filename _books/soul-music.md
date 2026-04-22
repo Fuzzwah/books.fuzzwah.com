@@ -13,36 +13,24 @@ year_published: 2003
 publisher: HarperTorch
 binding: Mass Market Paperback
 cover: soul-music.jpg
-blurb: Death goes walk-about and tries everything, including joining the French Foreign
-  Legion, to forget a tragic carriage accident at dead man's curve. His independent-minded
-  teen granddaughter has to surreptitiously take over the reaping biz. Three guys
-  invent music with rocks in it or did the magick in this music invent them? Is time
-  changing or - déjà vu all over again- is it rushing to a new tragedy on Dead Man's
-  Curve?
+blurb: When her dear old Granddad -- the Grim Reaper himself -- goes missing, Susan
+  takes over the family business. The progeny of Death's adopted daughter and his
+  apprentice, she shows real talent for the trade. That is until a little string in
+  her heart goes "twang." With a head full of dreams and a pocketful of lint, Imp
+  the Bard lands in Ankh-Morpork, yearning to become a rock star. Determined to devote
+  his life to music, the unlucky fellow soon finds that all his dreams are coming
+  true. Well almost. In this finger-snapping, toe-tapping tale of youth, Death, and
+  rocks that roll, Terry Pratchett once again demonstrates the wit and genius that
+  have propelled him to the highest echelons of parody next to Mark Twain, Kurt Vonnegut,
+  Douglas Adams, and Carl Hiaasen.
 subjects:
-- Discworld (Imaginary place)
-- Fantasy
-- Ficción
-- Fiction
-- Mundodisco (Lugar imaginario)
-- Novela fantástica
-- humor
-- satire
-- Discworld (Imaginary place) -- Fiction.
-- Discworld (imaginary place), fiction
-- Fiction, fantasy, general
-- Fiction, humorous
-- Modern & contemporary fiction (post c 1945)
-- FICTION / General
-- 'Death (fictitious character : pratchett), fiction'
-- Fiction, humorous, general
-- English literature
+- fiction
 recommendations:
-- wyrd-sisters
-- mort
+- equal-rites
+- the-light-fantastic
+- thud
+- eric
 - hogfather
-- going-postal
-- snuff
 series_name: Discworld
 series_index: 16.0
 review_needs_generation: false

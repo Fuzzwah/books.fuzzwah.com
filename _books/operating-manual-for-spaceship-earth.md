@@ -13,23 +13,14 @@ year_published: 1998
 publisher: Amereon Limited
 binding: Hardcover
 cover: operating-manual-for-spaceship-earth.jpg
-blurb: Edited and re-released by Fuller's grandson, Jamie Snyder, this edition is
-  true to the original manuscript but adds helpful footnotes providing a modern context
-  to some of the figures and predictions throughout the book.
-subjects:
-- Philosophy
-- Technology
-- Technology and civilization
-- Technologie et civilisation
-- Technologie
-- Philosophie
-- Technology, philosophy
+blurb: ''
+subjects: []
 recommendations:
-- the-new-digital-age-reshaping-the-future-of-people-nations-and-business
-- sapiens-a-brief-history-of-humankind
-- connections
-- zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values
-- the-rise-and-fall-of-d-o-d-o
+- the-rum-diary
+- the-player-of-games
+- the-old-man-and-the-sea
+- spares
+- slaughterhouse-five
 series_name: ''
 series_index: ''
 review_needs_generation: false

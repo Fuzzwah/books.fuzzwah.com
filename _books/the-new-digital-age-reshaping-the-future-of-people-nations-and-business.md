@@ -13,8 +13,8 @@ year_published: 2013
 publisher: Hodder And Stoughton Limited
 binding: Hardcover
 cover: the-new-digital-age-reshaping-the-future-of-people-nations-and-business.jpg
-blurb: 'This is the most important - and fascinating - book yet written about how
-  the digital age with affect our world'' Walter Isaacson, author of Steve JobsFrom
+blurb: '''This is the most important - and fascinating - book yet written about how
+  the digital age will affect our world'' Walter Isaacson, author of Steve Jobs From
   two leading thinkers, the widely anticipated book that describes a new, hugely connected
   world of the future, full of challenges and benefits which are ours to meet and
   harness. The New Digital Age is the product of an unparalleled collaboration: full
@@ -35,35 +35,17 @@ blurb: 'This is the most important - and fascinating - book yet written about ho
   scope all the promise and peril awaiting us in the coming decades. A breakthrough
   book - pragmatic, inspirational and totally fascinating. Whether a government, a
   business or an individual, we must understand technology if we want to understand
-  the future.'
+  the future. ''A brilliant guidebook for the next century . . . Schmidt and Cohen
+  offer a dazzling glimpse into how the new digital revolution is changing our lives''
+  Richard Branson'
 subjects:
-- Forecasting
-- Technology and civilization
-- Prognoser
-- Digitala medier
-- Teknik och samhälle
-- Informationsgesellschaft
-- Zukunft
-- Computers and civilization
-- General
-- Digital media
-- Digital electronics
-- Sociala aspekter
-- Technological innovations
-- Technology
-- Information technology
-- nyt:combined-print-and-e-book-nonfiction=2013-05-12
-- New York Times bestseller
-- New York Times reviewed
-- Internet, social aspects
-- Social aspects
-- Political aspects
+- computers and civilization
 recommendations:
-- sapiens-a-brief-history-of-humankind
-- fall-or-dodge-in-hell
-- circe
-- the-world-without-us
-- outliers-the-story-of-success
+- dealers-of-lightning
+- snow-crash
+- the-last-firewall
+- a-i-apocalypse
+- the-tipping-point-how-little-things-can-make-a-big-difference
 series_name: ''
 series_index: ''
 review_needs_generation: false

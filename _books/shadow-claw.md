@@ -13,33 +13,16 @@ year_published: 1994
 publisher: Orb Books
 binding: Paperback
 cover: shadow-claw.jpg
-blurb: '*Shadow and Claw* is an omnibus of the first two books of Gene Wolfe''s *Book
-  of the New Sun*.  It chronicles the life and adventures of journeyman torturer Severian.'
+blurb: Presents three of Gene Wolfe's science fiction novels, set in an alien society
+  with a unique social order.
 subjects:
-- Science fiction
-- Fantasy fiction
-- Fiction, fantasy, epic
-- fantasy
-- science fantasy
-- far future
-- dying sun
-- medieval
-- execution
-- guild
-- torture
-- American literature
-- Fiction, fantasy, general
-- Torturers
-- Fiction
-- Exiles
-- The Future
-- Quests (Expeditions)
+- fiction
 recommendations:
-- ship-of-magic
-- assassin-s-apprentice
-- the-way-of-kings
-- the-mad-ship
-- the-lies-of-locke-lamora
+- the-book-of-the-new-sun
+- doomsday-book
+- citizen-of-the-galaxy
+- faith-and-fire
+- the-turing-exception
 series_name: ''
 series_index: ''
 review_needs_generation: false

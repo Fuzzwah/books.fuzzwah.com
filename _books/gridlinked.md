@@ -13,21 +13,17 @@ year_published: 2004
 publisher: Tor Science Fiction
 binding: Mass Market Paperback
 cover: gridlinked.jpg
-blurb: Disasters, Fiction, Psychopaths, Space colonies, Space ships, Fiction, science
-  fiction, action & adventure
+blurb: This state-of-the-art cyberpunk science fiction tale stars Ian Cormac, a legendary
+  Earth Central Security agent in a wealthy future where "runcibles" (matter transmitters
+  controlled by AIs) allow interstellar travel in the blink of a eye.
 subjects:
-- Disasters
-- Fiction
-- Psychopaths
-- Space colonies
-- Space ships
-- Fiction, science fiction, action & adventure
+- fiction
 recommendations:
-- seveneves
-- the-dreaming-void
-- pandora-s-star
-- judas-unchained
-- hyperion
+- line-war
+- polity-agent
+- the-line-of-polity
+- brass-man
+- weaponized
 series_name: Agent Cormac
 series_index: 1.0
 review_needs_generation: false

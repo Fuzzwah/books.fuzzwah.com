@@ -13,28 +13,18 @@ year_published: 2024
 publisher: Head of Zeus
 binding: Hardcover
 cover: days-of-shattered-faith.jpg
-blurb: "Welcome to Alkhalend, tomorrow's frontline in the Palleseen's relentless march\
-  \ to being Perfection and Correctness to an imperfect world.\r\nLoret is fresh off\
-  \ the boat, and just in time. She's the new aide to the Palleseen Resident, Sage-Invigilator\
-  \ Angilly of the Outreach department. And Sage-Invigilator Angilly  - Gil to her\
-  \ friends - needs a second in the spectacularly illegal, culturally offensive and\
-  \ diplomatically inadvisable duel she's about to fight.\r\nOutreach, that part of\
-  \ the Pal machine that has to work within the imperfection of the rest of the world,\
-  \ has a lot of room for the unconventional, but just how much unorthodoxy can Gil\
-  \ and Loret get away with?\r\nAs a succession crisis looms, as pirate kings, lizard\
-  \ armies and demons gather, as old gods wane and new gods wax, as a long-forgotten\
-  \ feat of necromantic engineering nears fruition, sooner or later Gil and Loret\
-  \ will have to settle their ledger.\r\nJust as well they are both very, very good\
-  \ with a blade..."
+blurb: Arthur C. Clarke winner and Sunday Times bestseller Adrian Tchaikovsky returns
+  to the darkly exhuberant world of the Tyrant Philosophers series (City of Last Chances;
+  House of Open Wounds) with the third interconnected standalone, Days of Shattered
+  Faith.
 subjects:
-- Fiction
-- Fantasy
+- fiction
 recommendations:
-- the-trouble-with-peace
-- the-book-of-elsewhere
-- guards-guards
-- wyrd-sisters
-- wrath-of-empire
+- house-of-open-wounds
+- city-of-last-chances
+- lords-of-uncreation
+- the-doors-of-eden
+- children-of-ruin
 series_name: The Tyrant Philosophers
 series_index: 3.0
 review_needs_generation: false

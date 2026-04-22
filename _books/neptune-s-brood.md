@@ -16,16 +16,13 @@ cover: neptune-s-brood.jpg
 blurb: After being stalked across the galaxy by an assassin, post-human Krina Alzon-114
   journeys to the water-world Shin-Tethys in search of her sister.
 subjects:
-- Fiction
-- Androids
-- Life on other planets
-- Fiction, science fiction, general
+- fiction
 recommendations:
-- to-be-taught-if-fortunate
-- the-mote-in-god-s-eye
-- the-collapsing-empire
-- terms-of-enlistment
-- seveneves
+- iron-sunrise
+- the-bloodline-feud
+- the-traders-war
+- toast-and-other-stories
+- singularity-sky
 series_name: Freyaverse
 series_index: 2.0
 review_needs_generation: false

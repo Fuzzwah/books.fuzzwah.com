@@ -13,20 +13,19 @@ year_published: 2002
 publisher: Corgi Books
 binding: Mass Market Paperback
 cover: the-dark-side-of-the-sun.jpg
-blurb: Fiction in English, Fiction, general, English Science fiction, English Fantasy
-  fiction, Fiction, fantasy, general
+blurb: DOM SALABOS HAD A LOT OF ADVANTAGES As heir to a huge fortune, he had an excellent
+  robot servant (with Man-Friday subcircuitry), a planet (the First Syrian Bank) as
+  godfather, a security chief who even ran checks on himself, and on Dom's home world
+  even death was not always fatal. Why, then, in an age when prediction was a science,
+  was his future in doubt?
 subjects:
-- Fiction in English
-- Fiction, general
-- English Science fiction
-- English Fantasy fiction
-- Fiction, fantasy, general
+- fiction
 recommendations:
-- wyrd-sisters
-- unseen-academicals
-- thud
+- the-last-hero-a-discworld-fable
 - thief-of-time
-- the-fifth-elephant
+- reaper-man
+- sourcery
+- night-watch
 series_name: ''
 series_index: ''
 review_needs_generation: false

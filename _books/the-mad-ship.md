@@ -13,33 +13,21 @@ year_published: 2008
 publisher: Harper Voyager
 binding: Mass Market Paperback
 cover: the-mad-ship.jpg
-blurb: In the second breathtaking volume of Robin Hobb's Liveship Traders trilogy,
-  a new tide of glory and terror sweeps forward the story of the Vestrit clan, their
-  liveship Vivacia, and all who strive to possess her.As the ancient tradition of
-  Bingtown's Old Traders slowly erodes under the cold new order of a corrupt ruler,
-  the Vestrits anxiously await the return of their liveship--a rare magic ship carved
-  from sentient wizardwood, which bonds the ships mystically with those who sail them.
-  And Althea Vestrit waits even more avidly, living only to reclaim the ship as her
-  lost inheritance and captain her on the high seas. But the Vivacia has been seized
-  by the ruthless pirate captain Kennit, who holds Althea's nephew and his father
-  hostage. Althea and her onetime sea mate Brashen resolve to liberate the liveship--but
-  their plan may prove more dangerous than leaving the Vivacia in Kennit's ambitious
-  grasp....From the Paperback edition.
+blurb: Fantasy master Robin Hobb delivers the stunning second volume of her Liveship
+  Traders trilogy, returning to the timeless city of Bingtown, where pirates now plague
+  the coasts and the dreaded slave trade flourishes. Althea Vestrit doesnt have time
+  to be afraid, for her familys newly awakened Liveship, Vivacia, has been seized
+  by the ruthless pirate Kennit. So Althea hatches a bold plan. But to carry it out,
+  she must recruit a Liveship that has already slain two crews -- and is said to be
+  insane.
 subjects:
-- Sailing ships
-- Fiction
-- Pirates
-- Magic
-- Quests (Expeditions)
-- Fantasy
-- Fiction, fantasy, general
-- Fiction, fantasy, epic
+- fiction
 recommendations:
+- ship-of-magic
+- ship-of-destiny
+- royal-assassin
 - assassin-s-quest
 - assassin-s-apprentice
-- wrath-of-empire
-- the-way-of-kings
-- shadow-claw
 series_name: Liveship Traders
 series_index: 2.0
 review_needs_generation: false

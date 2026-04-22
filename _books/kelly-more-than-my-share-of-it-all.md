@@ -13,16 +13,18 @@ year_published: 1989
 publisher: Smithsonian Books
 binding: Paperback
 cover: kelly-more-than-my-share-of-it-all.jpg
-blurb: Aeronautics, military, United states, biography
+blurb: Clarence L. “Kelly” Johnson led the design of such crucial aircraft as the
+  P-38 and Constellation, but he will be more remembered for the U-2 and SR-71 spy
+  planes. His extraordinary leadership of the Lockheed “Skunk Works” cemented his
+  reputation as a legendary figure in American aerospace management.
 subjects:
-- Aeronautics, military
-- United states, biography
+- technology & engineering
 recommendations:
-- the-autobiography-of-benjamin-franklin
-- the-smoke-ring
-- the-integral-trees
 - the-great-shark-hunt
-- the-dharma-bums
+- horus-rising
+- the-andromeda-strain
+- broken-angels
+- the-autobiography-of-benjamin-franklin
 series_name: ''
 series_index: ''
 review_needs_generation: false

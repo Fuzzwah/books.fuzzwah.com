@@ -13,33 +13,16 @@ year_published: 2002
 publisher: HMH Books for Young Readers
 binding: Paperback
 cover: moby-dick.jpg
-blurb: Ishmael, a sailor, recounts the ill-fated voyage of a whaling ship led by the
-  fanatical Captain Ahab in search of the white whale that had crippled him. Presented
-  in comic book format.
+blurb: An illustrated adaptation of Herman Melville's classic novel is accompanied
+  by information about whales and the whaling village of New Bedford, Massachusetts.
 subjects:
-- Graphic novels
-- American Sea stories
-- Whaling
-- Literary recreations
-- Juvenile fiction
-- Whalers (Persons)
-- Comic books, strips
-- Children's fiction
-- Whales, fiction
-- Whaling, fiction
-- Ahab, captain (fictitious character), fiction
-- Sea stories
-- Captain Ahab (Fictitious character)
-- Whaling ships
-- Ship captains
-- Mentally ill
-- Whales
+- juvenile fiction
 recommendations:
 - treasure-island
-- the-wee-free-men
-- the-amazing-maurice-and-his-educated-rodents
-- the-adventures-of-huckleberry-finn
-- peter-pan
+- honeybee
+- questions-for-a-soldier
+- house-of-open-wounds
+- broken-angels
 series_name: ''
 series_index: ''
 review_needs_generation: false

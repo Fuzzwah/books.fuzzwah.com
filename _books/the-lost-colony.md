@@ -3,7 +3,7 @@ layout: book
 slug: the-lost-colony
 title: 'The Lost Colony (The Long Winter, #3)'
 author: A.G. Riddle
-isbn: '1940026288'
+isbn: '9781940026275'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,15 +13,18 @@ year_published: 2019
 publisher: Legion Books
 binding: Kindle Edition
 cover: the-lost-colony.jpg
-blurb: American literature
+blurb: '"Can humanity survive on a new world? On Eos, the last survivors of the Long
+  Winter face their greatest challenge yet--and race to unravel the deepest secrets
+  of the grid. The thrilling conclusion to the Long Winter trilogy"--Publisher''s
+  description.'
 subjects:
-- American literature
+- fiction
 recommendations:
-- to-be-taught-if-fortunate
-- the-way-of-kings
-- the-mote-in-god-s-eye
-- skyward
-- blood-of-empire
+- winter-world
+- the-solar-war
+- children-of-time
+- nero-s-killing-machine-the-true-story-of-rome-s-remarkable-14th-legion
+- a-wizard-of-earthsea
 series_name: The Long Winter
 series_index: 3.0
 review_needs_generation: false

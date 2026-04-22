@@ -3,37 +3,37 @@ layout: book
 slug: alien-clay
 title: Alien Clay
 author: Adrian Tchaikovsky
-isbn: '9781035013746'
+isbn: '9781035013777'
 shelf: read
-my_rating: 0
-date_read: '2024-07-10'
-date_added: '2024-07-10'
-pages: 14
+my_rating: 5
+date_read: '2024-07-27'
+date_added: '2024-07-12'
+pages: 396
 year_published: 2024
 publisher: Tor
-binding: Audiobook
+binding: Kindle Edition
 cover: alien-clay.jpg
-blurb: "On the distant world of Kiln lie the ruins of an alien civilization. It’s\
-  \ the greatest discovery in humanity’s spacefaring history – yet who were its builders\
-  \ and where did they go?\r\n\r\nProfessor Arton Daghdev had always wanted to study\
-  \ alien life up close. Then his wishes become a reality in the worst way. His political\
-  \ activism sees him exiled from Earth to Kiln’s extrasolar labour camp. There, he’s\
-  \ condemned to work under an alien sky until he dies.\r\n\r\nKiln boasts a ravenous,\
-  \ chaotic ecosystem like nothing seen on Earth. The monstrous alien life interacts\
-  \ in surprising, sometimes shocking ways with the human body, so Arton will risk\
-  \ death on a daily basis. However, the camp’s oppressive regime might just kill\
-  \ him first. If Arton can somehow escape both fates, the world of Kiln holds a wondrous,\
-  \ terrible secret. It will redefine life and intelligence as he knows it, and might\
-  \ just set him free…"
+blurb: Alien Clay is a thrilling far-future adventure by acclaimed Arthur C. Clarke
+  Award-winning author Adrian Tchaikovsky. ‘Unputdownable’ – Stephen Baxter, author
+  of Proxima They travelled into the unknown and left themselves behind . . . Professor
+  Arton Daghdev has always wanted to study alien life in person. But when his political
+  activism sees him exiled to the planet Kiln, condemned to work under an unfamiliar
+  sky until he dies, his idealistic wish becomes a terrible reality. Kiln boasts a
+  ravenous, chaotic ecosystem. Its monstrous alien life means Arton will risk death
+  on a daily basis – if the camp’s oppressive regime doesn’t kill him first. But,
+  if he survives, Kiln’s lost civilization holds a wondrous, terrible secret. It will
+  redefine life and intelligence as he knows it – and might just set him free. ‘A
+  warning for a future we don’t want . . . Highly recommended’ – Tade Thompson ‘An
+  excellent story told with Adrian’s trademark skill and flair’ – James Oswald ‘An
+  intriguing puzzle with plenty of thrills’ – The Guardian
 subjects:
-- English literature
-- Science fiction
+- fiction
 recommendations:
-- shards-of-earth
-- lords-of-uncreation
+- children-of-memory
+- the-doors-of-eden
+- walking-to-aldebaran
 - children-of-ruin
-- thief-of-time
-- the-dreaming-void
+- shards-of-earth
 series_name: ''
 series_index: ''
 review_needs_generation: false

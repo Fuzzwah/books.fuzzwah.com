@@ -3,7 +3,7 @@ layout: book
 slug: the-ruin-a-cormac-reilly-novel
 title: 'The Ruin: A Cormac Reilly Novel'
 author: Dervla McTiernan
-isbn: 0751569305
+isbn: '9781460708675'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,35 +13,33 @@ year_published: 2018
 publisher: HarperAudio
 binding: Audible Audio
 cover: the-ruin-a-cormac-reilly-novel.jpg
-blurb: It's been twenty years since Cormac Reilly discovered the body of Hilaria Blake
-  in her crumbling Georgian home. But he's never forgotten the two children she left
-  behind ... When Aisling Conroy's boyfriend Jack is found in the freezing black waters
-  of the river Corrib, the police tell her it was suicide. A surgical resident, she
-  throws herself into study and work, trying to forget--until Jack's sister Maude
-  shows up. Maude suspects foul play, and she is determined to prove it. Cormac Reilly
-  is the detective assigned with the re-investigation of a seemingly accidental overdose
-  twenty years ago--the overdose of Jack and Maude's drug and alcohol addled mother.
-  Detective Reilly is under increasing pressure to charge Maude for murder when his
-  colleague Danny uncovers a piece of evidence that will change everything. This unsettling
-  small-town noir draws us deep into the dark heart of Ireland, where corruption,
-  desperation, and crime run rife. A gritty look at trust and betrayal where the written
-  law isn't the only one, The Ruin asks who will protect you when the authorities
-  can't--or won't.
+blurb: 'The Top Ten fiction bestseller and critically acclaimed crime debut featuring
+  everyone''s favourite new detective, Cormac Reilly ''The Ruin is spectacularly good.
+  So CONFIDENT ... excellently written and, at times, heartachingly sad'' Marian Keyes
+  ''Corruption, clandestine cover-ups and criminal conspiracy ... as moving as it
+  is fast-paced'' Val McDermid ''Dervla McTiernan''s first novel outclasses some of
+  the genre''s stalwarts making her a crime writer to watch ... fans of Ian Rankin
+  and Tana French will feel right at home'' Bookseller + Publisher (4.5 stars) Galway
+  1993: Young Garda Cormac Reilly is called to a scene he will never forget. Two silent,
+  neglected children - fifteen-year-old Maude and five-year-old Jack - are waiting
+  for him at a crumbling country house. Upstairs, their mother lies dead. Twenty years
+  later, a body surfaces in the icy black waters of the River Corrib. At first it
+  looks like an open-and-shut case, but then doubt is cast on the investigation''s
+  findings - and the integrity of the police. Cormac is thrown back into the cold
+  case that has haunted him his entire career - what links the two deaths, two decades
+  apart? As he navigates his way through police politics and the ghosts of the past,
+  Detective Reilly uncovers shocking secrets and finds himself questioning who among
+  his colleagues he can trust. What really did happen in that house where he first
+  met Maude and Jack? The Ruin draws us deep into the dark heart of Ireland and asks
+  who will protect you when the authorities can''t - or won''t.'
 subjects:
-- Murder
-- Investigation
-- Detective and mystery stories
-- Betrayal
-- Cold cases (Criminal investigation)
-- Fiction
-- Fiction, mystery & detective, general
-- Dublin (ireland), fiction
+- fiction
 recommendations:
-- half-a-king
-- the-silver-pigs
-- altered-carbon
-- the-border-lords
-- the-autumn-republic
+- scrublands
+- the-suspect
+- the-three-body-problem
+- red-country
+- surface-detail
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -13,16 +13,17 @@ year_published: 2012
 publisher: Pantheon
 binding: Hardcover
 cover: subliminal-how-your-unconscious-mind-rules-your-behavior.jpg
-blurb: Subconsciousness, Subliminal projection
+blurb: An examination of the ways in which the unconscious mind shapes everyday life
+  traces recent scientific advances to reveal the pivotal role of the subliminal mind
+  in influencing experiences and relationships.
 subjects:
-- Subconsciousness
-- Subliminal projection
+- business & economics
 recommendations:
-- zero-hour
-- year-zero
-- wrath-of-empire
-- words-of-radiance
-- wolves
+- pyramids
+- the-andromeda-strain
+- fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
+- the-expert-system-s-brother
+- out-of-your-mind
 series_name: ''
 series_index: ''
 review_needs_generation: false

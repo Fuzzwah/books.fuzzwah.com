@@ -13,37 +13,19 @@ year_published: 2012
 publisher: Michael Joseph
 binding: Hardcover
 cover: the-wolves-of-the-north.jpg
-blurb: In the fifth novel in Harry Sidebottom's acclaimed and bestselling Warrior
-  of Rome historical fiction series, Ballista returns to undertake yet another epic
-  mission -- while the Roman Empire reels in chaos around him. In AD 263, the Roman
-  Empire is close to turmoil, violent uprising threatening to shatter the fragile
-  balance of power. In the north, the tribes are increasingly bold in their raids
-  on the Imperium. Ballista must undertake his most treacherous journey yet. He must
-  face the Heruli -- the Eaters of Flesh, the Wolves of the North -- the most brutal
-  tribe of them all, and try to turn them against one another. As Ballista and his
-  retinue make their journey, someone -- or something -- is hunting them, picking
-  them off one by one, and leaving a trail of mutilated corpses and terror. Ballista
-  is in a strange land, among strange people, but is it possible that the greatest
-  threat may come from within his own circle? Renowned for their skilled blending
-  of action and historical accuracy, Sidebottom's Warrior of Rome novels take the
-  reader from the shouts of the battlefield to the whisperings of the emperor's inner
-  circle. Rich in detail and punctuated by harrowing action, there's no better way
-  to transport yourself back to the days of the Roman Empire.
+blurb: AD263 - barbarian invasions and violent uprisings threaten to tear apart the
+  imperium of Rome. In the north, the tribes are increasingly bold in their raids
+  on the imperium - their savagery unlike anything Rome has known before. Ballista
+  must undertake his most treacherous journey yet - a covert attempt to turn the barbarians
+  of the Steppes against each other -- back cover.
 subjects:
-- Fiction
-- Quests (Expeditions)
-- History
-- Fiction, historical
-- Rome, fiction
-- 'Ballista (Fictitious character : Sidebottom)'
-- Fiction, action & adventure
-- Fiction, historical, general
+- fiction
 recommendations:
-- the-amber-road
 - the-caspian-gates
-- hannibal-enemy-of-rome
-- dragon-teeth
-- the-system-of-the-world
+- king-of-kings
+- the-amber-road
+- fire-in-the-east
+- lion-of-the-sun
 series_name: Warrior of Rome
 series_index: 5.0
 review_needs_generation: false

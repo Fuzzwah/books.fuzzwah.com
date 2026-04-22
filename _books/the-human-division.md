@@ -17,14 +17,11 @@ blurb: B Team leader Lieutenant Harry Wilson counters hostile alien forces, angr
   humans and unpredictable elements from the universe in order to protect the interests
   of the Colonial Union.
 subjects:
-- Space colonies
-- Fiction
-- Fiction, science fiction, general
-- Fiction, science fiction, space opera
+- fiction
 recommendations:
 - zoe-s-tale
-- the-collapsing-empire
-- the-last-colony
+- after-the-coup
+- the-sagan-diary
 - the-ghost-brigades
 - old-man-s-war
 series_name: Old Man's War

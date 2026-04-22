@@ -13,15 +13,16 @@ year_published: 2006
 publisher: Cosmos Books
 binding: Paperback
 cover: the-engineer-reconditioned.jpg
-blurb: Fiction, short stories (single author)
+blurb: Mysterious aliens, ruthless terrorists, androids with attitude, genetic manipulation,
+  punch-ups with lasers and giant spaceships! What more do you want?
 subjects:
-- Fiction, short stories (single author)
+- fiction
 recommendations:
 - the-line-of-polity
-- polity-agent
 - line-war
 - gridlinked
 - brass-man
+- weaponized
 series_name: ''
 series_index: ''
 review_needs_generation: false

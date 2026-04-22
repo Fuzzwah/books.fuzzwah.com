@@ -13,17 +13,14 @@ year_published: 1995
 publisher: Gollancz
 binding: Hardcover
 cover: the-dragons-of-heorot.jpg
-blurb: Life on other planets, Fiction, Space colonies
-subjects:
-- Life on other planets
-- Fiction
-- Space colonies
+blurb: ''
+subjects: []
 recommendations:
-- hyperion
 - beowulf-s-children
-- zoe-s-tale
-- the-last-colony
-- the-dreaming-void
+- witches-abroad
+- voyage
+- to-say-nothing-of-the-dog
+- the-victorian-internet-the-remarkable-story-of-the-telegraph-and-the-nineteenth-century-s-on-line-pioneers
 series_name: Heorot
 series_index: 2.0
 review_needs_generation: false

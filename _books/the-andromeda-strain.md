@@ -13,52 +13,16 @@ year_published: 2003
 publisher: Avon
 binding: Mass Market Paperback
 cover: the-andromeda-strain.jpg
-blurb: "The Andromeda Strain is a 1969 techno-thriller novel by Michael Crichton,\
-  \ his first novel under his own name and his sixth novel overall. It is written\
-  \ as a report documenting the efforts of a team of scientists investigating the\
-  \ outbreak of a deadly extraterrestrial microorganism in New Mexico. The Andromeda\
-  \ Strain appeared in the New York Times Best Seller list, establishing Michael Crichton\
-  \ as a genre writer.\r\n\r\n\r\n----------\r\nThis work also contained in:\r\n\r\
-  \n - [The Andromeda Strain / Terminal Man](https://openlibrary.org/works/OL46874W)\r\
-  \n - [The Great Train Robbery / The Andromeda Strain](https://openlibrary.org/works/OL24159635W)\r\
-  \n - [Rising Sun / The Andromeda Strain / Binary](https://openlibrary.org/works/OL23658811W)"
+blurb: For five days, American scientists struggle to identify and control a deadly
+  new form of life.
 subjects:
-- American Science fiction
-- Fiction
-- Fiction in English
-- Alien life forms in fiction
-- Biological weapons
-- Science fiction
-- Extraterrestrial microorganisms
-- Military satellites
-- aerial surveillance
-- duty officers
-- extraterrestrial life
-- contamination
-- microorganisms
-- biological agents
-- blood clotting
-- suicide
-- Sterno
-- meteors
-- chemical elements
-- crystal structures
-- DNA
-- RNA
-- proteins
-- amino acids
-- pH
-- alkali
-- human blood
-- acidocis
-- aspirin
-- hyperventilation
+- fiction
 recommendations:
-- the-dispossessed
-- planet-of-the-damned
-- earth-abides
-- the-mote-in-god-s-eye
-- stranger-in-a-strange-land
+- jurassic-park
+- dragon-teeth
+- in-the-shadow-of-lightning
+- slaughterhouse-five
+- pyramids
 series_name: Andromeda
 series_index: 1.0
 review_needs_generation: false

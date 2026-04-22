@@ -20,18 +20,13 @@ blurb: 'In Mars Rover Curiosity: An Inside Account from Curiosity''s Chief Engin
   technical setbacks, fights over inadequate resources, and the challenges of leading
   an army of brilliant, passionate, and often frustrated experts.'
 subjects:
-- Roving vehicles (Astronautics)
-- Exploration
-- Curiosity (Spacecraft)
-- Mars (planet)
-- Exploration of Mars (Planet)
-- Marsfahrzeug
+- jet propulsion laboratory (u.s.)
 recommendations:
-- to-be-taught-if-fortunate
-- seveneves
-- salvation
-- chasing-new-horizons-inside-the-epic-first-mission-to-pluto
-- chasing-new-horizons-inside-humankind-s-first-mission-to-pluto
+- the-last-man-who-knew-everything-the-life-and-times-of-enrico-fermi-father-of-the-nuclear-age
+- rocket-men-the-daring-odyssey-of-apollo-8-and-the-astronauts-who-made-man-s-first-journey-to-the-moon
+- the-player-of-games
+- the-singularity-trap
+- shadow-cities-a-billion-squatters-a-new-urban-world
 series_name: ''
 series_index: ''
 review_needs_generation: false

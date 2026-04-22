@@ -13,22 +13,24 @@ year_published: 2016
 publisher: Hodder & Stoughton
 binding: Hardcover
 cover: a-closed-and-common-orbit.jpg
-blurb: "Once, Lovelace had eyes and ears everywhere. She was a ship's artificial intelligence\
-  \ system - possessing a personality and very human emotions. But when her ship was\
-  \ badly damaged, Lovelace was forced to reboot and reset. Now housed in an illegal\
-  \ synthetic body, she's never felt so isolated.\r\nBut Lovelace is not alone. Pepper,\
-  \ an engineer who risked her life to reinstall Lovelace's program, has remained\
-  \ by her side and is determined to help her."
+blurb: Lovelace was once merely a ship's artificial intelligence. When she wakes up
+  in an new body, following a total system shut-down and reboot, she has to start
+  over in a synthetic body, in a world where her kind are illegal. She's never felt
+  so alone. But she's not alone, not really. Pepper, one of the engineers who risked
+  life and limb to reinstall Lovelace, is determined to help her adjust to her new
+  world. Because Pepper knows a thing or two about starting over. Together, Pepper
+  and Lovey will discover that, huge as the galaxy may be, it's anything but empty.
+  A Closed and Common Orbit is the stand-alone sequel to The Long Way to a Small,
+  Angry Planet and is perfect for fans of Firefly, Joss Whedon, Mass Effect and Star
+  Wars.
 subjects:
-- Fiction in English
-- Science Fiction
-- Fiction, science fiction, general
+- interplanetary voyages
 recommendations:
-- the-mote-in-god-s-eye
-- the-dispossessed
-- stranger-in-a-strange-land
-- planet-of-the-damned
-- imperial-earth
+- record-of-a-spaceborn-few
+- the-long-way-to-a-small-angry-planet
+- to-be-taught-if-fortunate
+- will-destroy-the-galaxy-for-cash
+- children-of-memory
 series_name: Wayfarers
 series_index: 2.0
 review_needs_generation: false

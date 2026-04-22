@@ -3,7 +3,7 @@ layout: book
 slug: the-stand
 title: The Stand
 author: Stephen  King
-isbn: 0451169530
+isbn: '9781848940833'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,50 +13,25 @@ year_published: 2021
 publisher: BBC Audio
 binding: Audiobook
 cover: the-stand.jpg
-blurb: "One man escapes from a biological weapon facility after an accident, carrying\
-  \ with him the deadly virus known as Captain Tripps, a rapidly mutating flu that\
-  \ - in the ensuing weeks - wipes out most of the world's population. In the aftermath,\
-  \ survivors choose between following an elderly black woman to Boulder or the dark\
-  \ man, Randall Flagg, who has set up his command post in Las Vegas. The two factions\
-  \ prepare for a confrontation between the forces of good and evil.\r\n([source][1])\r\
-  \n\r\n\r\n  [1]: https://stephenking.com/library/novel/stand_the.html"
+blurb: Stephen King's apocalyptic vision of a world blasted by virus and tangled in
+  an elemental struggle between good and evil remains as riveting and eerily plausible
+  as when it was first published. Soon to be a television series. 'THE STAND is a
+  masterpiece' (Guardian). Set in a virus-decimated US, King's thrilling American
+  fantasy epic, is a Classic. First come the days of the virus. Then come the dreams.
+  Dark dreams that warn of the coming of the dark man. The apostate of death, his
+  worn-down boot heels tramping the night roads. The warlord of the charnel house
+  and Prince of Evil. His time is at hand. His empire grows in the west and the Apocalypse
+  looms. When a man crashes his car into a petrol station, he brings with him the
+  foul corpses of his wife and daughter. He dies and it doesn't take long for the
+  virus which killed him to spread across America and the world.
 subjects:
-- suspense & thriller
-- gothic & horror
-- biological warfare
-- research
-- horror fiction
-- horror tales
-- Fiction
-- Thrillers
-- Suspense
-- Horror
-- Science Fiction
-- Apocalyptic & Post-Apocalyptic science fiction
-- nuclear weapons
-- cordon sanitaire
-- index cases
-- martial law
-- post-apocalyptic
-- influenza
-- pandemic
-- End of the World
-- survival
-- plague
-- epidemics
-- Fiction in English
-- Virus diseases
-- Thriller
-- Good and evil
-- Fiction, horror
-- Apocalyptic & Post-Apocalyptic
-- nyt:trade-fiction-paperback=2021-01-03
+- fiction
 recommendations:
-- the-book-of-elsewhere
-- earth-abides
-- world-without-end
-- the-martian
-- dark-matter
+- last-argument-of-kings
+- the-tainted-cup
+- age-of-death
+- the-last-hero-a-discworld-fable
+- dungeon-crawler-carl
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -3,7 +3,7 @@ layout: book
 slug: dealers-of-lightning
 title: Dealers of Lightning
 author: Michael A. Hiltzik
-isbn: 0694521302
+isbn: '9781842030004'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,39 +13,24 @@ year_published: 2005
 publisher: HarperAudio
 binding: Audiobook
 cover: dealers-of-lightning.jpg
-blurb: In the bestselling tradition of The Soul of a New Machine, Dealers of Lightning
-  is a fascinating journey of intellectual creation. In the 1970s and '80s, Xerox
-  Corporation brought together a brain-trust of engineering geniuses, a group of computer
-  eccentrics dubbed PARC. This brilliant group created several monumental innovations
-  that triggered a technological revolution, including the first personal computer,
-  the laser printer, and the graphical interface (one of the main precursors of the
-  Internet), only to see these breakthroughs rejected by the corporation. Yet, instead
-  of giving up, these determined inventors turned their ideas into empires that radically
-  altered contemporary life and changed the world.Based on extensive interviews with
-  the scientists, engineers, administrators, and executives who lived the story, this
-  riveting chronicle details PARC's humble beginnings through its triumph as a hothouse
-  for ideas, and shows why Xerox was never able to grasp, and ultimately exploit,
-  the cutting-edge innovations PARC delivered. Dealers of Lightning offers an unprecedented
-  look at the ideas, the inventions, and the individuals that propelled Xerox PARC
-  to the frontier of technohistory--and the corporate machinations that almost prevented
-  it from achieving greatness.
+blurb: During the 1970s and 1980s, a number of brilliant computer eccentrics were
+  thrown together by Xerox at the Xerox PARC centre in Palo Alto, California. These
+  people created inventions such as the first personal computer, the graphic user
+  interface, the mouse and one of the precursors of the Internet. However, the bosses
+  at Xerox never really appreciated these men or their innovations, and accused them
+  of just fooling around. Then along came the outsiders, such as Steve Jobs of Apple
+  Computing, who left the PARC with ideas that they would later exploit and make vast
+  fortunes on, propelling them to the cutting edge of technology. This book offers
+  a glimpse of business and technology. It is a story of missed opportunities, but
+  also one that marks the dawn of the computer age.
 subjects:
-- History
-- Research
-- Xerox Corporation. Palo Alto Research Center
-- Computer science
-- Xerox Corporation
-- Microcomputers
-- Grafische gebruikersinterfaces
-- Computer scientists
-- Computers, history
-- Computer industry
+- computer science
 recommendations:
-- longitude-the-true-story-of-a-lone-genius-who-solved-the-greatest-scientific-problem-of-his-time
-- the-x-15-rocket-plane-flying-the-first-wings-into-space
-- world-without-end
-- what-the-dog-saw-and-other-adventures
-- the-system-of-the-world
+- blink-the-power-of-thinking-without-thinking
+- the-new-digital-age-reshaping-the-future-of-people-nations-and-business
+- blue-remembered-earth
+- seveneves
+- the-tipping-point-how-little-things-can-make-a-big-difference
 series_name: ''
 series_index: ''
 review_needs_generation: false

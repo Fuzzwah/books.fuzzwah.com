@@ -3,7 +3,7 @@ layout: book
 slug: sourcery
 title: 'Sourcery (Discworld, #5)'
 author: Terry Pratchett
-isbn: 0753140284
+isbn: '9780552152624'
 shelf: read
 my_rating: 0
 date_read: ''
@@ -13,32 +13,21 @@ year_published: 1989
 publisher: Corgi Books
 binding: Paperback
 cover: sourcery.jpg
-blurb: When last seen, the singularly inept wizard Rincewind had fallen off the edge
-  of the world. Now magically, he's turned up again, and this time he's brought the
-  Luggage.But that's not all...Once upon a time, there was an eighth son of an eighth
-  son who was, of course, a wizard. As if that wasn't complicated enough, said wizard
-  then had seven sons. And then he had an eighth son -- a wizard squared (that's all
-  the math, really). Who of course, was a source of magic -- a sorcerer.
+blurb: 'All this books and stuff, that isn''t what it should all be about. What we
+  need is real wizardry. All is not well within the Unseen University. The endemic
+  politics of the place have ensured that it has finally got what it wished for: the
+  most powerful wizard on the disc. Which could mean that the death of all wizardry
+  is at hand. And the world is going to end, depending on whom you listen to. Unless
+  of course one inept wizard can take the University''s most precious artefact, the
+  very embodiment of magic itself, and deliver it halfway across the disc to safety...'
 subjects:
-- Discworld (Imaginary place)
-- Fiction
-- Fantasy
-- English Fantasy fiction
-- Wizards
-- Discworld (imaginary place), fiction
-- Fiction, fantasy, general
-- Fiction, humorous
-- Rincewind the wizard (fictitious character), fiction
-- Fiction, humorous, general
-- Literature and fiction, fantasy
-- Motion picture plays
-- English literature
+- fiction
 recommendations:
-- wyrd-sisters
-- equal-rites
+- the-last-hero-a-discworld-fable
+- thief-of-time
+- the-last-continent
 - the-light-fantastic
-- hogfather
-- unseen-academicals
+- eric
 series_name: Discworld
 series_index: 5.0
 review_needs_generation: false

@@ -4,7 +4,7 @@ slug: the-brain-that-changes-itself-stories-of-personal-triumph-from-the-frontie
 title: 'The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers
   of Brain Science'
 author: Norman Doidge
-isbn: '9780670038305'
+isbn: '9780141038872'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -14,51 +14,28 @@ year_published: 2007
 publisher: Viking
 binding: Hardcover
 cover: the-brain-that-changes-itself-stories-of-personal-triumph-from-the-frontiers-of-brain-science.jpg
-blurb: An astonishing new science called neuroplasticity is overthrowing the centuries-old
-  notion that the human brain is immutable. Psychiatrist and psychoanalyst, Norman
-  Doidge, M.D., traveled the country to meet both the brilliant scientists championing
-  neuroplasticity and the people whose lives they've transformed—people whose mental
-  limitations or brain damage were seen as unalterable. We see a woman born with half
-  a brain that rewired itself to work as a whole, blind people who learn to see, learning
-  disorders cured, IQs raised, aging brains rejuvenated, stroke patients learning
-  to speak, children with cerebral palsy learning to move with more grace, depression
-  and anxiety disorders successfully treated, and lifelong character traits changed.
-  Using these marvelous stories to probe mysteries of the body, emotion, love, sex,
-  culture, and education, Dr. Doidge has written an immensely moving, inspiring book
-  that will permanently alter the way we look at our brains, human nature, and human
-  potential.
+blurb: Meet the ninety year old doctor, who, with the aid of a few simple exercises,
+  is still practising medicine. His is just one of the incredible stories brain expert
+  Norman Doidge tells as he reveals our brain's remarkable ability to repair itself
+  through the power of positive thought. In The Brain That Changes Itself Doidge introduces
+  us to the fascinating stories at the cutting edge of the brain science and the emerging
+  discipline of 'neuroplasticity' . We meet the stroke victim who unable to feed or
+  dress himself learned to move and talk again, the woman with a rare brain condition
+  that left her feeling as though she was perpetually falling but who through a series
+  of exercises rewired her brain to overcome this and the maverick scientists over
+  turning centuries of assumptions about the brain and it's capacity for renewal.
+  Doidge shows how their incredible work is helping the blind to see, the deaf to
+  hear and causing Nobel laureates to rethink our model of the brain. This remarkable
+  book will leave you with a sense of wonder at the capabilities of the human brain
+  and the power to change which lies within all of us.
 subjects:
-- Diseases
-- Psychology
-- Science
-- Medical
-- Brain damage
-- Brain
-- Patients
-- Chronic Brain Damage
-- Neuronal Plasticity
-- Psychiatry
-- Case Reports
-- Wounds and injuries
-- Nonfiction
-- Mental Disorders
-- Rehabilitation
-- Neuroplasticity
-- Treatment
-- Brain damage, patients
-- Mental disorders--rehabilitation
-- Brain damage, chronic--rehabilitation
-- Brain damage--patients--rehabilitation
-- Qp363.3 .d65 2007
-- 2007 e-847
-- Wl 102 d657b 2007
-- '612.8'
+- family & relationships
 recommendations:
-- zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values
-- what-the-dog-saw-and-other-adventures
-- the-tipping-point-how-little-things-can-make-a-big-difference
-- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
-- outliers-the-story-of-success
+- how-the-scots-invented-the-modern-world-the-true-story-of-how-western-europes-poorest-nation-created-our-world-everything-in-it
+- network-effect
+- firepower-how-weapons-shaped-warfare
+- the-body-a-guide-for-occupants
+- on-intelligence
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -3,7 +3,7 @@ layout: book
 slug: suspect
 title: 'Suspect (Joseph O''Loughlin, #1)'
 author: Michael Robotham
-isbn: '9781582881294'
+isbn: '9780748113965'
 shelf: read
 my_rating: 4
 date_read: ''
@@ -13,54 +13,31 @@ year_published: 2007
 publisher: W. F. Howes Ltd
 binding: Audible Audio
 cover: suspect.jpg
-blurb: 'At forty-two, psychiatrist Joe O''Loughlin seems to have it all: a thriving
-  practice, a beautiful wife, an adoring daughter. But Joe''s snug, happy world is
-  crumbling. Recently diagnosed with Parkinson''s disease, he''s dreading the inevitable
-  and all too palpable deterioration of his body and mind. Then, when the police ask
-  for his help in solving the brutal murder of a woman they assume is a prostitute,
-  he''s horrified to recognize the victim as a nurse he once worked with, and with
-  whom he had a bit of a past. As Joe begins to suspect that one of his patients may
-  be responsible, the police zero in on him. Michael Robotham possesses the rare ability
-  to create fully believable characters, fashion terrific dialogue, and generate nonstop
-  suspense. Suspect is a powerhouse first novel, intricately crafted and chillingly
-  authentic.'
+blurb: 'The first book in the Joe O''Loughlin series, from the multi-million-copy
+  bestselling author. NOW A MAJOR ITV DRAMA STARRING AIDAN TURNER. Liar, liar . .
+  . Joe O''Loughlin appears to have the perfect life - a beautiful wife, a loving
+  daughter and a successful career as a clinical psychologist. But nothing can be
+  taken for granted. Even the most flawless existence is only a loose thread away
+  from unravelling. All it takes is a murdered girl, a troubled young patient and
+  the biggest lie of his life. Caught in a complex web of deceit and haunted by images
+  of the slain girl, he embarks upon a search that will take him from London to Liverpool
+  and into the darkest recesses of the human mind. Ultimately, he will risk everything
+  to unmask the killer and save his family. Can''t get enough? The next book in the
+  Joe O''Loughlin series is The Drowning Man. And don''t miss the #1 bestseller''s
+  nail-biting new thriller Lying Beside You, out now. Praise for Michael Robotham''s
+  thrillers: ''I love this guy''s books'' Lee Child ''Will have you turning the pages
+  compulsively'' The Times ''An absolute master'' Stephen King ''He writes in a voice
+  with a haunting sense of soul'' Peter James ''Heart-stopping and heart-breaking''
+  Val McDermid ''The real deal'' David Baldacci ''Superbly exciting . . . a terrific
+  read'' Guardian'
 subjects:
-- Nurses
-- Psychotherapist and patient
-- Married people
-- Revenge
-- Crimes against
-- Fiction
-- Suspense fiction
-- Fugitives from justice
-- Thriller
-- Psychiatrists
-- Psychiatrists -- Fiction
-- Psychotherapist and patient -- Fiction
-- Nurses -- Crimes against -- Fiction
-- Fugitives from justice -- Fiction
-- Married people -- Fiction
-- London (England) -- Fiction
-- Revenge -- Fiction
-- Large type books
-- Clinical psychologists
-- Married people, fiction
-- London (england), fiction
-- Fiction, psychological
-- Fiction, suspense
-- Psychiatrists, fiction
-- Psychological fiction
-- Psychiatres
-- Romans, nouvelles
-- Relations psychothérapeutiques
-- Infirmières
-- Crimes contre
+- fiction
 recommendations:
 - the-suspect
-- the-system-of-the-world
-- the-pillars-of-the-earth
-- starship-troopers
-- shades-of-grey
+- the-body-a-guide-for-occupants
+- dark-matter
+- a-wrinkle-in-time
+- echo-of-worlds
 series_name: Joseph O'Loughlin
 series_index: 1.0
 review_needs_generation: false

@@ -13,47 +13,29 @@ year_published: 2018
 publisher: Gollancz
 binding: Hardcover
 cover: skyward.jpg
-blurb: "**SPENSA'S WORLD HAS BEEN UNDER ATTACK FOR DECADES.**\r\n\r\nNow pilots are\
-  \ the heroes of what's left of the human race, and becoming one has always been\
-  \ Spensa's dream. Since she was a little girl, she has imagined soaring skyward\
-  \ and proving her bravery. But her fate is intertwined with her father's--a pilot\
-  \ himself who was killed years ago when he abruptly deserted his team, leaving Spensa\
-  \ the daughter of a coward, her chances of attending Flight School slim to none.\r\
-  \n\r\nNo one will let Spensa forget what her father did, yet fate works in mysterious\
-  \ ways. Flight school might be a long shot, but she is determined to fly. And an\
-  \ accidental discovery in a long-forgotten cavern might just provide her with a\
-  \ way to claim the stars.\r\n\r\nThis description comes from the publisher."
+blurb: 'Spensa''s world has been under attack for hundreds of years. An alien race
+  called the Krell leads onslaught after onslaught from the sky in a never-ending
+  campaign to destroy humankind. Humanity''s only defense is to take to their ships
+  and fight the enemy in the skies. Pilots have become the heroes of what''s left
+  of the human race. Spensa has always dreamed of being one of them; of soaring above
+  Earth and proving her bravery. But her fate is intertwined with her father''s -
+  a pilot who was killed years ago when he abruptly deserted his team, placing Spensa''s
+  chances of attending flight school somewhere between slim and none.No one will let
+  Spensa forget what her father did, but she is still determined to fly. And the Krell
+  just made that a possibility. They''ve doubled their fleet, making Spensa''s world
+  twice as dangerous . . . but their desperation to survive might just take her skyward
+  . . .Praise for Brandon Sanderson''s #1 New York Times Bestselling Reckoners series:''Another
+  win for Sanderson . . . he''s simply a brilliant writer'' Patrick Rothfuss''Action-packed''
+  EW.com''Compelling . . . Sanderson uses plot twists that he teases enough for readers
+  to pick up on to distract from the more dramatic reveals he has in store'' AV Club'
 subjects:
-- Science fiction
-- Air pilots
-- Extraterrestrial beings
-- Survival
-- War
-- Fiction
-- nyt:young-adult-hardcover=2018-11-25
-- New York Times bestseller
-- Children's fiction
-- Survival, fiction
-- War, fiction
-- Extraterrestrial beings, fiction
-- American literature
-- Young adult fiction, science fiction, general
-- Young adult fiction, dystopian
-- Young adult fiction, action & adventure, survival stories
-- series:Skyward
-- Juvenile fiction
-- War stories
-- Young adult fiction
-- Action & Adventure
-- Survival Stories
-- Dystopian
-- Survival after airplane accidents, shipwrecks
+- air pilots
 recommendations:
-- the-drowned-cities
 - starsight
-- the-water-knife
-- the-martian
-- ship-breaker
+- rhythm-of-war
+- oathbringer
+- the-way-of-kings
+- the-hero-of-ages
 series_name: Skyward
 series_index: 1.0
 review_needs_generation: false

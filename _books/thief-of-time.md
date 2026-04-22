@@ -13,39 +13,24 @@ year_published: 2008
 publisher: HarperTorch
 binding: Paperback
 cover: thief-of-time.jpg
-blurb: In Discworld, time is a resource managed by the highly capable Monks of History.
-  Everybody wants more time, which is why on Discworld only the experts can manage
-  it. While everyone always talks about slowing down, one young horologist is about
-  to do the unthinkable. He's going to stop. Well, stop time that is, by building
-  the world's first truly accurate clock. Which means esteemed History Monk Lu-Tze
-  and his apprentice Lobsang Ludd have to put on some speed to stop the timepiece
-  before it starts. For if the perfect clock starts ticking, time, as we know it,
-  will end. And then the trouble will really begin.
+blurb: Everybody wants more time, which is why on Discworld only the experts can manage
+  it -- the venerable Monks of History who store it and pump it from where it's wasted,
+  like underwater (how much time does a codfish really need?), to places like cities,
+  where busy denizens lament, "Oh where does the time go?" While everyone always talks
+  about slowing down, one young horologist is about to do the unthinkable. He's going
+  to stop. Well, stop time that is, by building the world's first truly accurate clock.
+  Which means esteemed History Monk Lu-Tze and his apprentice Lobsang Ludd have to
+  put on some speed to stop the timepiece before it starts. For if the Perfect Clock
+  starts ticking, Time -- as we know it -- will end. And then the trouble will really
+  begin...
 subjects:
-- English Fantasy fiction
-- Discworld (Imaginary place)
-- Discworld (Imaginary place
-- Fiction
-- Fantasy
-- Science fiction
-- Time
-- Humorous fiction
-- Clocks and watches
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- English literature
-- Fiction, humorous
-- Fiction, humorous, general
-- Translations into Spanish
-- Temps
-- Romans, nouvelles
-- Disque-monde (Lieu imaginaire)
+- fiction
 recommendations:
-- wyrd-sisters
-- equal-rites
-- moving-pictures
-- going-postal
-- carpe-jugulum
+- the-last-hero-a-discworld-fable
+- a-hat-full-of-sky
+- night-watch
+- sourcery
+- small-gods
 series_name: Discworld
 series_index: 26.0
 review_needs_generation: false
