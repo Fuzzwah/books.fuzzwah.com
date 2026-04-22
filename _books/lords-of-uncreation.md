@@ -5,13 +5,13 @@ title: 'Lords of Uncreation (The Final Architecture, #3)'
 author: Adrian Tchaikovsky
 isbn: '9780316705929'
 shelf: read
-my_rating: 0
-date_read: '2023-07-28'
-date_added: '2023-07-28'
-pages: 20
+my_rating: 5
+date_read: '2023-08-10'
+date_added: '2023-07-27'
+pages: 608
 year_published: 2023
-publisher: Tor
-binding: Audiobook
+publisher: Orbit
+binding: Hardcover
 cover: lords-of-uncreation.jpg
 blurb: Sequel to *Eyes of the Void*.
 subjects:

@@ -61,7 +61,7 @@ recommendations:
 - the-pillars-of-the-earth
 - the-tournament
 - a-gentleman-in-moscow
-- the-silver-pigs
+- lionheart
 series_name: Kingsbridge
 series_index: 3.0
 review_needs_generation: false

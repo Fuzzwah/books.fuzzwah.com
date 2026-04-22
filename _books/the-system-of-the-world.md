@@ -67,8 +67,8 @@ recommendations:
 - quicksilver
 - world-without-end
 - the-confusion
+- before-they-are-hanged
 - the-wolves-of-the-north
-- the-tournament
 series_name: The Baroque Cycle
 series_index: 3.0
 review_needs_generation: false

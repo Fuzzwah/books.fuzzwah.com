@@ -21,8 +21,8 @@ recommendations:
 - wrath-of-empire
 - the-way-of-kings
 - the-lies-of-locke-lamora
-- the-blade-itself
 - jingo
+- half-a-war
 series_name: Cradle
 series_index: 1.0
 review_needs_generation: false

@@ -44,8 +44,8 @@ recommendations:
 - the-way-of-kings
 - the-autumn-republic
 - oathbringer
+- a-little-hatred
 - last-argument-of-kings
-- before-they-are-hanged
 series_name: The Firemane Saga
 series_index: 1.0
 review_needs_generation: false

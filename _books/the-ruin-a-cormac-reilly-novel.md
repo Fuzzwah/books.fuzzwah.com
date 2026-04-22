@@ -37,8 +37,8 @@ subjects:
 - Fiction, mystery & detective, general
 - Dublin (ireland), fiction
 recommendations:
-- the-silver-pigs
 - half-a-king
+- the-silver-pigs
 - altered-carbon
 - the-border-lords
 - the-autumn-republic

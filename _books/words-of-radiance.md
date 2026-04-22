@@ -3,15 +3,15 @@ layout: book
 slug: words-of-radiance
 title: 'Words of Radiance (The Stormlight Archive, #2)'
 author: Brandon Sanderson
-isbn: '9780575099043'
-shelf: to-read
-my_rating: 0
-date_read: ''
-date_added: '2021-07-05'
-pages: 0
+isbn: '9780765326362'
+shelf: read
+my_rating: 4
+date_read: '2021-08-05'
+date_added: '2021-07-04'
+pages: 1088
 year_published: 2014
-publisher: Orion
-binding: Audiobook
+publisher: Tor Books
+binding: Hardcover
 cover: words-of-radiance.jpg
 blurb: "The eagerly awaited sequel to the New York Times bestselling The Way of Kings.\r\
   \n\r\nSix years ago, the Assassin in White, a hireling of the inscrutable Parshendi,\

@@ -28,9 +28,9 @@ subjects:
 - Politics
 - Fiction, fantasy, general
 recommendations:
+- watership-down
 - last-argument-of-kings
 - before-they-are-hanged
-- watership-down
 - assassin-s-apprentice
 - the-way-of-kings
 series_name: The Chronicles of Osreth

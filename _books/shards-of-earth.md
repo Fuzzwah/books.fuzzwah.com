@@ -6,11 +6,11 @@ author: Adrian Tchaikovsky
 isbn: '9781549106392'
 shelf: read
 my_rating: 4
-date_read: '2022-05-24'
-date_added: '2026-04-20'
-pages: 457
+date_read: '2022-07-02'
+date_added: '2021-12-18'
+pages: 0
 year_published: 2021
-publisher: Pan Macmillan - Tor
+publisher: Orbit
 binding: Audiobook
 cover: shards-of-earth.jpg
 blurb: Eighty years ago, Earth was destroyed by an alien 'Architect'. Some escaped,

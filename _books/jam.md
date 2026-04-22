@@ -25,7 +25,7 @@ recommendations:
 - the-redemption-of-time-remembrance-of-earths-past
 - seveneves
 - children-of-time
-- best-served-cold
+- triplanetary
 series_name: ''
 series_index: ''
 review_needs_generation: false

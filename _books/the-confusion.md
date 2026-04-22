@@ -54,8 +54,8 @@ recommendations:
 - quicksilver
 - the-system-of-the-world
 - world-without-end
+- the-silver-pigs
 - the-gates-of-rome
-- genghis-birth-of-an-empire
 series_name: The Baroque Cycle
 series_index: 2.0
 review_needs_generation: false

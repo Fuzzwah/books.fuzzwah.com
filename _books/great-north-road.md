@@ -13,9 +13,8 @@ year_published: 2013
 publisher: Del Rey
 binding: Kindle Edition
 cover: great-north-road.jpg
-blurb: Futuristic speculation combines with murder when a scientific expedition on
-  a faraway planet searches for an alien species only to be stalked by a determined
-  killer who may be a hostile alien or a member of their own team.
+blurb: Science Fiction, Fiction, England, fiction, Fiction, science fiction, general,
+  Twenty-second century, Human-alien encounters, Life on other planets, Cloning
 subjects:
 - Science Fiction
 - Fiction

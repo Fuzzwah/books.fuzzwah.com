@@ -6,6 +6,7 @@ import csv
 import datetime as dt
 import hashlib
 import json
+import os
 import re
 import time
 import unicodedata
@@ -138,6 +139,21 @@ def parse_series_info(title: str) -> Tuple[str, Optional[float]]:
     return "", None
 
 
+def load_dotenv(path: Path = Path(".env")) -> None:
+    """Populate os.environ from a KEY=VALUE file. Existing env vars win."""
+    if not path.exists():
+        return
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
 def load_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return default
@@ -147,11 +163,18 @@ def load_json(path: Path, default: Any) -> Any:
         return default
 
 
+_REDACT_QUERY_KEYS_RE = re.compile(r"([?&])(key|api_key|apikey)=[^&]*", re.IGNORECASE)
+
+
+def _redact_url(url: str) -> str:
+    return _REDACT_QUERY_KEYS_RE.sub(r"\1\2=REDACTED", url)
+
+
 def fetch_json(url: str, cache_path: Path, timeout: int = 20) -> Dict[str, Any]:
     if cache_path.exists():
-        vprint(f"    [cache] {url}")
+        vprint(f"    [cache] {_redact_url(url)}")
         return json.loads(cache_path.read_text(encoding="utf-8"))
-    vprint(f"    [net]   {url}")
+    vprint(f"    [net]   {_redact_url(url)}")
     t0 = time.monotonic()
     req = urllib.request.Request(url, headers={"User-Agent": "books-site-generator/1.0"})
     with urllib.request.urlopen(req, timeout=timeout) as response:
@@ -225,13 +248,33 @@ def search_openlibrary_isbn(title: str, author: str, cache_dir: Path, slug: str)
     return ""
 
 
+_ENGLISH_STOPWORDS = {"the", "and", "of", "was", "were", "with", "that", "which", "from", "they"}
+
+
+def looks_english(text: str) -> bool:
+    """Heuristic: English prose typically contains multiple of these stopwords;
+    Spanish/French/German/Italian translations almost never do."""
+    if not text:
+        return False
+    words = re.findall(r"[A-Za-z]+", text.lower())
+    if len(words) < 20:
+        return True  # too short to judge reliably — accept
+    hits = sum(1 for w in words if w in _ENGLISH_STOPWORDS)
+    return hits >= 3
+
+
 def extract_description(work_data: Dict[str, Any]) -> str:
     description = work_data.get("description")
     if isinstance(description, str):
-        return description.strip()
-    if isinstance(description, dict):
-        return clean_value(description.get("value"))
-    return ""
+        text = description.strip()
+    elif isinstance(description, dict):
+        text = clean_value(description.get("value"))
+    else:
+        return ""
+    if not looks_english(text):
+        vprint(f"    [lang]  dropping non-English description ({len(text)} chars)")
+        return ""
+    return text
 
 
 def normalize_subjects(values: Any) -> List[str]:
@@ -267,40 +310,144 @@ def write_placeholder_cover(destination: Path) -> None:
     image.save(destination, format="JPEG", quality=80, optimize=True)
 
 
+def _download_bytes(url: str) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": "books-site-generator/1.0"})
+    with urllib.request.urlopen(req, timeout=20) as response:
+        return response.read()
+
+
+# MD5 of the generic "No image available" JPEG that Google Books serves when
+# a volume has no cover; rejected so the OpenLibrary fallback can run.
+_GOOGLE_BOOKS_PLACEHOLDER_MD5 = "a64fa89d7ebc97075c1d363fc5fea71f"
+
+
+def _fetch_json_with_429_retry(url: str, cache_path: Path, max_attempts: int = 4) -> Dict[str, Any]:
+    """Like fetch_json, but retries with exponential backoff on HTTP 429."""
+    for attempt in range(max_attempts):
+        try:
+            return fetch_json(url, cache_path)
+        except urllib.error.HTTPError as exc:
+            if exc.code != 429 or attempt == max_attempts - 1:
+                raise
+            backoff = 2 ** (attempt + 1)
+            vprint(f"    [wait]  HTTP 429, backing off {backoff}s (attempt {attempt + 1}/{max_attempts})")
+            time.sleep(backoff)
+    raise RuntimeError("unreachable")
+
+
+def fetch_cover_from_google_books(isbn: str, cache_dir: Path) -> Optional[bytes]:
+    """Return cover image bytes from Google Books, or None if unavailable."""
+    params = {"q": f"isbn:{isbn}"}
+    api_key = os.environ.get("GOOGLE_BOOKS_API_KEY", "")
+    if api_key:
+        params["key"] = api_key
+    url = f"https://www.googleapis.com/books/v1/volumes?{urllib.parse.urlencode(params)}"
+    cache_path = cache_dir / f"gbooks-{isbn}.json"
+    try:
+        data = _fetch_json_with_429_retry(url, cache_path)
+    except (urllib.error.URLError, urllib.error.HTTPError, json.JSONDecodeError, TimeoutError) as exc:
+        vprint(f"    [warn]  Google Books lookup failed for {isbn}: {exc}")
+        return None
+
+    for item in data.get("items") or []:
+        image_links = (item.get("volumeInfo") or {}).get("imageLinks") or {}
+        thumbnail = image_links.get("thumbnail") or image_links.get("smallThumbnail")
+        if not thumbnail:
+            continue
+        # zoom=0 returns the largest reliable size (~575px wide); strip the curl effect.
+        thumbnail = thumbnail.replace("http://", "https://", 1)
+        thumbnail = re.sub(r"&zoom=\d+", "&zoom=0", thumbnail)
+        thumbnail = thumbnail.replace("&edge=curl", "")
+        try:
+            image_data = _download_bytes(thumbnail)
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as exc:
+            vprint(f"    [warn]  Google Books image fetch failed: {exc}")
+            continue
+        if not image_data:
+            continue
+        if hashlib.md5(image_data).hexdigest() == _GOOGLE_BOOKS_PLACEHOLDER_MD5:
+            vprint("    [none]  Google Books returned 'no image available' placeholder")
+            continue
+        return image_data
+    return None
+
+
+def fetch_cover_from_openlibrary(isbn: str) -> Optional[bytes]:
+    """Return cover image bytes from OpenLibrary, or None if unavailable."""
+    url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg?default=false"
+    try:
+        data = _download_bytes(url)
+    except urllib.error.HTTPError as exc:
+        if exc.code != 404:
+            vprint(f"    [warn]  OpenLibrary cover HTTP {exc.code}: {exc.reason}")
+        return None
+    except (urllib.error.URLError, TimeoutError) as exc:
+        vprint(f"    [warn]  OpenLibrary cover fetch failed: {exc}")
+        return None
+    return data or None
+
+
+def _cover_already_recorded(source: str) -> bool:
+    if not source:
+        return False
+    # "covers.openlibrary.org" substring preserves pre-migration entries in cover_sources.json.
+    return (
+        source.startswith("google:")
+        or source.startswith("openlibrary:")
+        or "covers.openlibrary.org" in source
+    )
+
+
+def _save_cover_source(
+    cover_sources: Dict[str, str], cover_meta_path: Path, slug: str, marker: str
+) -> None:
+    cover_sources[slug] = marker
+    cover_meta_path.parent.mkdir(parents=True, exist_ok=True)
+    cover_meta_path.write_text(
+        json.dumps(cover_sources, indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+
 def ensure_cover(slug: str, isbn: str, covers_dir: Path, cache_dir: Path) -> None:
     cover_path = covers_dir / f"{slug}.jpg"
     cover_meta_path = cache_dir / "cover_sources.json"
     cover_sources = load_json(cover_meta_path, {})
-    cover_url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg?default=false"
 
-    if cover_path.exists() and cover_sources.get(slug) == cover_url:
+    existing_source = cover_sources.get(slug, "")
+    if cover_path.exists() and _cover_already_recorded(existing_source):
         vprint(f"    [cache] cover {cover_path.name}")
         return
 
-    vprint(f"    [net]   cover {cover_url}")
+    vprint(f"    [net]   google books cover for ISBN {isbn}")
     t0 = time.monotonic()
-    try:
-        req = urllib.request.Request(cover_url, headers={"User-Agent": "books-site-generator/1.0"})
-        with urllib.request.urlopen(req, timeout=20) as response:
-            data = response.read()
-        if not data:
-            raise ValueError("empty response body")
-        resize_and_save_cover(data, cover_path)
-        cover_sources[slug] = cover_url
-        cover_meta_path.parent.mkdir(parents=True, exist_ok=True)
-        cover_meta_path.write_text(json.dumps(cover_sources, indent=2, sort_keys=True), encoding="utf-8")
-        vprint(f"    [net]   -> cover {len(data)} bytes in {time.monotonic() - t0:.2f}s")
-    except urllib.error.HTTPError as exc:
-        if exc.code == 404:
-            vprint(f"    [none]  no cover on OpenLibrary for ISBN {isbn}")
-        else:
-            vprint(f"    [warn]  cover fetch HTTP {exc.code}: {exc.reason}")
-        if not cover_path.exists():
-            write_placeholder_cover(cover_path)
-    except Exception as exc:
-        vprint(f"    [warn]  cover fetch failed: {exc}")
-        if not cover_path.exists():
-            write_placeholder_cover(cover_path)
+    data = fetch_cover_from_google_books(isbn, cache_dir)
+    if data:
+        try:
+            resize_and_save_cover(data, cover_path)
+            _save_cover_source(cover_sources, cover_meta_path, slug, f"google:isbn:{isbn}")
+            vprint(f"    [net]   -> google cover {len(data)} bytes in {time.monotonic() - t0:.2f}s")
+            return
+        except Exception as exc:
+            vprint(f"    [warn]  google cover save failed: {exc}")
+    else:
+        vprint(f"    [none]  no Google Books cover for ISBN {isbn}")
+
+    vprint(f"    [net]   openlibrary cover for ISBN {isbn}")
+    t0 = time.monotonic()
+    data = fetch_cover_from_openlibrary(isbn)
+    if data:
+        try:
+            resize_and_save_cover(data, cover_path)
+            _save_cover_source(cover_sources, cover_meta_path, slug, f"openlibrary:isbn:{isbn}")
+            vprint(f"    [net]   -> openlibrary cover {len(data)} bytes in {time.monotonic() - t0:.2f}s")
+            return
+        except Exception as exc:
+            vprint(f"    [warn]  openlibrary cover save failed: {exc}")
+    else:
+        vprint(f"    [none]  no OpenLibrary cover for ISBN {isbn}")
+
+    if not cover_path.exists():
+        write_placeholder_cover(cover_path)
 
 
 def openlibrary_book_data(isbn: str, cache_dir: Path) -> Optional[Tuple[str, List[str]]]:
@@ -434,6 +581,7 @@ def choose_input_path(path_arg: Optional[str]) -> Path:
 
 
 def main() -> int:
+    load_dotenv()
     parser = argparse.ArgumentParser(description="Generate Jekyll book markdown files from a Goodreads CSV export.")
     parser.add_argument("--input", help="Path to Goodreads CSV export")
     parser.add_argument("--books-dir", default="_books", help="Output directory for markdown files")
@@ -505,9 +653,10 @@ def main() -> int:
             old_front, old_body = parse_markdown(target)
 
         body = old_body.strip()
-        review_needs_generation = bool(resolved.row.my_rating > 0 and not body)
-        if body:
-            review_needs_generation = False
+        if "review_needs_generation" in old_front:
+            review_needs_generation = bool(old_front.get("review_needs_generation"))
+        else:
+            review_needs_generation = bool(resolved.row.my_rating > 0 and not body)
 
         recommendations = old_front.get("recommendations", [])
         if not isinstance(recommendations, list):

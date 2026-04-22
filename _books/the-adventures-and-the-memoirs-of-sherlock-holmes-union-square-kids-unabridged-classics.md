@@ -68,10 +68,10 @@ subjects:
 - English children's stories
 - Detective Fiction
 recommendations:
+- the-silver-pigs
 - peter-pan
 - a-wizard-of-earthsea
 - watership-down
-- the-silver-pigs
 - the-ruin-a-cormac-reilly-novel
 series_name: ''
 series_index: ''

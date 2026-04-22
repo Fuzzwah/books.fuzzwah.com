@@ -31,11 +31,11 @@ subjects:
 - Robbers and outlaws
 - Fiction, fantasy, epic
 recommendations:
-- last-argument-of-kings
-- before-they-are-hanged
 - watership-down
 - ship-of-magic
 - shadow-claw
+- last-argument-of-kings
+- before-they-are-hanged
 series_name: Gentleman Bastard
 series_index: 1.0
 review_needs_generation: false

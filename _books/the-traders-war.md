@@ -26,9 +26,9 @@ subjects:
 recommendations:
 - the-bloodline-feud
 - snuff
-- last-argument-of-kings
 - jingo
 - wyrd-sisters
+- witches-abroad
 series_name: The Merchant Princes
 series_index: 3.0
 review_needs_generation: false

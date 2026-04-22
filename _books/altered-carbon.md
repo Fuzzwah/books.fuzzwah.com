@@ -13,23 +13,9 @@ year_published: 2006
 publisher: Del Rey / Ballantine Books
 binding: Mass Market Paperback
 cover: altered-carbon.jpg
-blurb: "Da questo romanzo la serie tv Netflix Original\r\n\r\n«In questo esaltante\
-  \ romanzo, Morgan ci fa immaginare un XXV secolo colorato di noir» – The New York\
-  \ Times\r\n\r\n«Ispirato da tutti i romanzi hard boiled che ho letto, arricchito\
-  \ da tutti i film francesi e giapponesi che ho visto, dalle opere di William Gibson\
-  \ e, ovviamente, dall'influenza di Blade Runner, ecco la mia versione del futuro.\
-  \ Un futuro noir.» Così Richard Morgan presenta il suo stupefacente esordio narrativo.\
-  \ \"Altered Carbon\" è un romanzo duro, provocatorio, dalla trama intrigante e sorprendente\
-  \ che ci proietta nel buco nero del nostro futuro, tecnologicamente avanzato ma\
-  \ moralmente corrotto, e assai simile al nostro presente, dato che le pulsioni degli\
-  \ esseri umani attraversano, immutate, anche i cambiamenti più radicali. Quale,\
-  \ per esempio, la possibilità di digitalizzare la propria coscienza e trasferirla\
-  \ in un altro corpo, come avviene per Takeshi Kovacs, un ex soldato che si ritrova\
-  \ suo malgrado in un corpo «nuovo» a Bay City – una metropoli in piena decadenza,\
-  \ in mano a politici arroganti e spacciatori di droghe sintetiche – per far luce\
-  \ su un omicidio. Le indagini lo trascinano nei meccanismi perversi di una società\
-  \ che ha snaturato il senso della vita e della morte, una società per cui gli individui\
-  \ sono solo pedine in un gioco condotto da chi si può permettere l'immortalità..."
+blurb: Science Fiction, Cyberpunk, Thriller, Life on other planets, Fiction, Fiction,
+  science fiction, hard science fiction, Fiction, science fiction, general, Long Now
+  Manual for Civilization
 subjects:
 - Science Fiction
 - Cyberpunk

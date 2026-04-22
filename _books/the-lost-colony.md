@@ -19,9 +19,9 @@ subjects:
 recommendations:
 - to-be-taught-if-fortunate
 - the-way-of-kings
+- the-mote-in-god-s-eye
 - skyward
 - blood-of-empire
-- assassin-s-quest
 series_name: The Long Winter
 series_index: 3.0
 review_needs_generation: false

@@ -28,9 +28,9 @@ subjects:
 recommendations:
 - a-column-of-fire
 - the-tournament
-- the-silver-pigs
 - a-gentleman-in-moscow
 - world-without-end
+- the-system-of-the-world
 series_name: Plantagenets
 series_index: 4.0
 review_needs_generation: false

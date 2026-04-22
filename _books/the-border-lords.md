@@ -28,10 +28,10 @@ subjects:
 - California, fiction
 recommendations:
 - the-suspect
-- the-silver-pigs
 - the-ruin-a-cormac-reilly-novel
 - reamde
 - great-north-road
+- dragon-teeth
 series_name: Charlie Hood
 series_index: 4.0
 review_needs_generation: false

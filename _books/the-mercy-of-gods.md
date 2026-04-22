@@ -1,17 +1,17 @@
 ---
 layout: book
 slug: the-mercy-of-gods
-title: 'The Mercy of Gods (The Captive''s War #1)'
+title: 'The Mercy of Gods (The Captive''s War, #1)'
 author: James S.A. Corey
-isbn: '9780316525596'
-shelf: to-read
-my_rating: 0
-date_read: ''
+isbn: '9780316525572'
+shelf: read
+my_rating: 5
+date_read: '2024-09-30'
 date_added: '2024-09-24'
-pages: 15
+pages: 432
 year_published: 2024
-publisher: Recorded Books
-binding: Audiobook
+publisher: Orbit
+binding: Hardcover
 cover: the-mercy-of-gods.jpg
 blurb: "A spectacular new space opera that sees humanity fighting for its survival\
   \ in a war as old as the universe itself.\r\n\r\nHow humanity came to the planet\

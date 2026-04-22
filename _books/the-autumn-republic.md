@@ -32,8 +32,8 @@ subjects:
 - Fiction, fantasy, general
 recommendations:
 - the-way-of-kings
-- last-argument-of-kings
 - king-of-ashes
+- last-argument-of-kings
 - oathbringer
 - half-a-king
 series_name: Powder Mage

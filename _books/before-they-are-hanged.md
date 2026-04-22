@@ -3,15 +3,15 @@ layout: book
 slug: before-they-are-hanged
 title: 'Before They Are Hanged (The First Law, #2)'
 author: Joe Abercrombie
-isbn: 159606403X
+isbn: '9780575077881'
 shelf: read
-my_rating: 0
-date_read: '2023-10-18'
-date_added: '2023-10-18'
-pages: 23
-year_published: 2010
-publisher: Orion Publishing Group
-binding: Audiobook
+my_rating: 5
+date_read: '2023-11-06'
+date_added: '2023-10-17'
+pages: 441
+year_published: 2007
+publisher: Gollancz
+binding: Trade Paperback
 cover: before-they-are-hanged.jpg
 blurb: "Superior Glokta has a problem. How do you defend a city surrounded by enemies\
   \ and riddled with traitors, when your allies can by no means be trusted, and your\
@@ -57,7 +57,7 @@ recommendations:
 - half-a-war
 - words-of-radiance
 - a-little-hatred
-- the-way-of-kings
+- wyrd-sisters
 series_name: The First Law
 series_index: 2.0
 review_needs_generation: false

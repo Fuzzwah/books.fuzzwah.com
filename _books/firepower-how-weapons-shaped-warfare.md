@@ -3,15 +3,15 @@ layout: book
 slug: firepower-how-weapons-shaped-warfare
 title: 'Firepower: How Weapons Shaped Warfare'
 author: Paul Lockhart
-isbn: '9781541674929'
+isbn: '9781541672963'
 shelf: read
-my_rating: 0
-date_read: '2023-01-05'
-date_added: '2023-01-05'
-pages: 0
+my_rating: 4
+date_read: '2023-01-21'
+date_added: '2023-01-07'
+pages: 624
 year_published: 2021
 publisher: Basic Books
-binding: Audiobook
+binding: Hardcover
 cover: firepower-how-weapons-shaped-warfare.jpg
 blurb: '"The history of warfare cannot be fully understood without considering the
   technology of killing. In Firepower, acclaimed historian Paul Lockhart tells the

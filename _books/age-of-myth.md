@@ -45,8 +45,8 @@ recommendations:
 - the-way-of-kings
 - the-heroes
 - the-autumn-republic
-- last-argument-of-kings
 - king-of-ashes
+- jingo
 series_name: The Legends of the First Empire
 series_index: 1.0
 review_needs_generation: false

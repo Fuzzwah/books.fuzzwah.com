@@ -13,9 +13,8 @@ year_published: 2012
 publisher: HarperCollins Harper
 binding: Hardcover
 cover: the-long-earth.jpg
-blurb: Terry Pratchett, other than lending his name to this book, wasn't a part of
-  it.  No humor and dark reading.  Mr. Baxter should have published it under his own
-  name, he can write, just not to my liking.    gmb 3/15/20
+blurb: Fiction, Science Fiction, Recluses, Space and time, Time travel, Fiction, science
+  fiction, general, nyt:hardcover-fiction=2012-07-08, New York Times bestseller
 subjects:
 - Fiction
 - Science Fiction

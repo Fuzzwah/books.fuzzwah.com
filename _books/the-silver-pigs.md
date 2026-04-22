@@ -1,21 +1,21 @@
 ---
 layout: book
 slug: the-silver-pigs
-title: 'The Silver Pigs (Marcus Didius Falco Series #1)'
+title: 'The Silver Pigs (Marcus Didius Falco, #1)'
 author: Lindsey Davis
-isbn: '0517573636'
+isbn: '9780312357771'
 shelf: read
-my_rating: 0
-date_read: '2020-08-15'
-date_added: '2020-08-15'
-pages: 0
-year_published: 2010
-publisher: AudioGO
-binding: MP3 Book
+my_rating: 5
+date_read: '2020-08-31'
+date_added: '2020-08-14'
+pages: 329
+year_published: 2006
+publisher: Minotaur Books
+binding: Mass Market Paperback
 cover: the-silver-pigs.jpg
-blurb: Falco travels to Britain searching for stolen imperial ingots, and meets a
-  senator's daughter, Helena Justina. Despite his romantic feelings for her, she is
-  connected to those he has sworn to expose.
+blurb: Fiction, History, Private investigators, Marcus Didius Falco (Fictitious character),
+  Helena Justina (Fictitious character), Detective and mystery stories, Historical
+  fiction, English fiction
 subjects:
 - Fiction
 - History
@@ -38,9 +38,9 @@ recommendations:
 - shadows-in-bronze
 - venus-in-copper
 - the-iron-hand-of-mars
-- a-column-of-fire
 - the-gates-of-rome
-series_name: Marcus Didius Falco Series
+- a-column-of-fire
+series_name: Marcus Didius Falco
 series_index: 1.0
 review_needs_generation: false
 ---

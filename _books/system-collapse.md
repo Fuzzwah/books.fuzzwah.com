@@ -3,15 +3,15 @@ layout: book
 slug: system-collapse
 title: 'System Collapse (The Murderbot Diaries, #7)'
 author: Martha Wells
-isbn: '9781705041024'
+isbn: '9781250826978'
 shelf: read
-my_rating: 0
-date_read: '2023-12-18'
-date_added: '2023-12-18'
-pages: 0
+my_rating: 5
+date_read: '2024-01-31'
+date_added: '2023-07-20'
+pages: 245
 year_published: 2023
-publisher: Recorded Books
-binding: Audiobook
+publisher: Tor Publishing Group/Tordotcom
+binding: Hardcover
 cover: system-collapse.jpg
 blurb: "*Am I making it worse? I think I'm making it worse.*\r\n\r\nEveryone's favorite\
   \ lethal SecUnit is back.\r\n\r\nFollowing the events in Network Effect, the Barish-Estranza\

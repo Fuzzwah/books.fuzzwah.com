@@ -31,7 +31,7 @@ recommendations:
 - dragon-teeth
 - the-system-of-the-world
 - the-wolves-of-the-north
-- the-silver-pigs
+- the-caspian-gates
 series_name: ''
 series_index: ''
 review_needs_generation: false

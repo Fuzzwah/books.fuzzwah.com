@@ -22,10 +22,10 @@ subjects:
 - Fiction, science fiction, general
 recommendations:
 - to-be-taught-if-fortunate
+- the-mote-in-god-s-eye
 - the-collapsing-empire
 - terms-of-enlistment
 - seveneves
-- great-north-road
 series_name: Freyaverse
 series_index: 2.0
 review_needs_generation: false

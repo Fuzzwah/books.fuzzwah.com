@@ -3,15 +3,15 @@ layout: book
 slug: best-served-cold
 title: Best Served Cold
 author: Joe Abercrombie
-isbn: '1478910828'
+isbn: '9780575082458'
 shelf: read
-my_rating: 0
-date_read: '2023-11-23'
-date_added: '2023-11-23'
-pages: 28
-year_published: 2010
-publisher: Orion
-binding: Audiobook
+my_rating: 4
+date_read: '2023-12-15'
+date_added: '2023-11-22'
+pages: 534
+year_published: 2009
+publisher: Gollancz
+binding: Hardcover
 cover: best-served-cold.jpg
 blurb: "War may be hell, but for Monza Murcatto, a solider of considerable fortune;\
   \ it's a damn good way of making money too.  Her victories have made her popular\
@@ -38,11 +38,11 @@ subjects:
 - Fiction, general
 - Fiction, fantasy, general
 recommendations:
+- the-mad-ship
+- going-postal
 - wrath-of-empire
 - the-way-of-kings
 - the-lies-of-locke-lamora
-- assassin-s-quest
-- a-dance-with-dragons
 series_name: ''
 series_index: ''
 review_needs_generation: false

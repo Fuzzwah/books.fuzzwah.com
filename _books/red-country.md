@@ -26,8 +26,8 @@ subjects:
 - Fiction, action & adventure
 recommendations:
 - before-they-are-hanged
-- last-argument-of-kings
 - half-a-king
+- last-argument-of-kings
 - best-served-cold
 - the-wolves-of-the-north
 series_name: ''

@@ -1,17 +1,17 @@
 ---
 layout: book
 slug: the-mote-in-god-s-eye
-title: The Mote in God's Eye
+title: 'The Mote in God''s Eye (Moties, #1)'
 author: Larry Niven
-isbn: '9780671491758'
+isbn: '9781568650548'
 shelf: read
-my_rating: 5
-date_read: ''
-date_added: '2012-12-26'
-pages: 560
-year_published: 1983
-publisher: Pocket
-binding: Paperback
+my_rating: 0
+date_read: '2023-09-23'
+date_added: '2023-09-05'
+pages: 596
+year_published: 2011
+publisher: Spectrum Literary Agency
+binding: ebook
 cover: the-mote-in-god-s-eye.jpg
 blurb: "Science fiction classic about the rise, fall and subsequent rise of a civilization\
   \ where the peak catastrophe is known as the \"crazy eddy point\". Introduces the\
@@ -30,12 +30,12 @@ subjects:
 - American literature
 recommendations:
 - the-dispossessed
-- stranger-in-a-strange-land
 - the-left-hand-of-darkness
+- stranger-in-a-strange-land
 - planet-of-the-damned
 - earth-abides
-series_name: ''
-series_index: ''
+series_name: Moties
+series_index: 1.0
 review_needs_generation: false
 ---
 

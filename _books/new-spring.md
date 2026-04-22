@@ -42,10 +42,10 @@ subjects:
 - Fantasy fiction
 recommendations:
 - the-well-of-ascension
-- shadow-claw
 - before-they-are-hanged
+- shadow-claw
+- last-argument-of-kings
 - the-way-of-kings
-- the-lies-of-locke-lamora
 series_name: The Wheel of Time
 series_index: 0.0
 review_needs_generation: false

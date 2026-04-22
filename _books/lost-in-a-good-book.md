@@ -51,9 +51,9 @@ subjects:
 recommendations:
 - the-eyre-affair
 - wyrd-sisters
+- last-argument-of-kings
 - good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
 - carpe-jugulum
-- last-argument-of-kings
 series_name: Thursday Next
 series_index: 2.0
 review_needs_generation: false

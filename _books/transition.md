@@ -24,7 +24,7 @@ recommendations:
 - the-neutronium-alchemist
 - new-spring
 - mistborn-the-final-empire
-- the-stand
+- before-they-are-hanged
 series_name: ''
 series_index: ''
 review_needs_generation: false

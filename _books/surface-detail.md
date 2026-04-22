@@ -41,8 +41,8 @@ recommendations:
 - matter
 - we-are-legion-we-are-bob
 - to-be-taught-if-fortunate
+- the-mote-in-god-s-eye
 - infinity-engine
-- great-north-road
 series_name: Culture
 series_index: 9.0
 review_needs_generation: false

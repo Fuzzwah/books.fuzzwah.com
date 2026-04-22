@@ -22,10 +22,10 @@ subjects:
 - Fiction, historical, general
 recommendations:
 - the-wolves-of-the-north
-- the-silver-pigs
 - the-caspian-gates
 - hannibal-enemy-of-rome
 - venus-in-copper
+- the-silver-pigs
 series_name: Vespasian
 series_index: 1.0
 review_needs_generation: false

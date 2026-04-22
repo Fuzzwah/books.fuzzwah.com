@@ -20,9 +20,9 @@ subjects:
 recommendations:
 - the-autobiography-of-benjamin-franklin
 - the-smoke-ring
-- the-mote-in-god-s-eye
 - the-integral-trees
 - the-great-shark-hunt
+- the-dharma-bums
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -16,9 +16,9 @@ cover: the-smoke-ring.jpg
 blurb: ''
 subjects: []
 recommendations:
-- the-mote-in-god-s-eye
 - the-integral-trees
 - a-world-out-of-time
+- the-mote-in-god-s-eye
 - ringworld
 - beowulf-s-children
 series_name: The State

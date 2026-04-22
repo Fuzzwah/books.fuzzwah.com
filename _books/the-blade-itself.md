@@ -3,15 +3,15 @@ layout: book
 slug: the-blade-itself
 title: 'The Blade Itself (The First Law, #1)'
 author: Joe Abercrombie
-isbn: '9781409111443'
+isbn: '9780575079793'
 shelf: read
-my_rating: 0
-date_read: '2023-01-05'
-date_added: '2023-01-05'
-pages: 23
-year_published: 2010
-publisher: Orion Publishing Group
-binding: Audiobook
+my_rating: 5
+date_read: ''
+date_added: '2023-01-21'
+pages: 515
+year_published: 2007
+publisher: Gollancz
+binding: Paperback
 cover: the-blade-itself.jpg
 blurb: "Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught\
   \ in one feud too many, he’s on the verge of becoming a dead barbarian – leaving\
@@ -36,11 +36,11 @@ subjects:
 - Fantasy
 - Fiction
 recommendations:
-- the-lies-of-locke-lamora
 - wyrd-sisters
 - the-hero-of-ages
 - small-gods
-- ship-of-magic
+- ship-of-destiny
+- good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
 series_name: The First Law
 series_index: 1.0
 review_needs_generation: false

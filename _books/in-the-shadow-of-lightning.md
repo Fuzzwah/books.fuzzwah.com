@@ -5,13 +5,13 @@ title: 'In the Shadow of Lightning (Glass Immortals, #1)'
 author: Brian  McClellan
 isbn: '9781250755698'
 shelf: read
-my_rating: 0
-date_read: '2025-03-03'
-date_added: '2025-03-03'
-pages: 0
+my_rating: 4
+date_read: '2025-03-07'
+date_added: '2022-05-31'
+pages: 576
 year_published: 2022
-publisher: Macmillan Audio
-binding: Audiobook
+publisher: Tor Books
+binding: Hardcover
 cover: in-the-shadow-of-lightning.jpg
 blurb: ''
 subjects: []

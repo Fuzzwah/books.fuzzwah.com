@@ -19,8 +19,8 @@ subjects:
 - Science fiction
 - Fiction, science fiction, general
 recommendations:
-- the-mote-in-god-s-eye
 - a-world-out-of-time
+- the-mote-in-god-s-eye
 - ringworld
 - stranger-in-a-strange-land
 - triplanetary

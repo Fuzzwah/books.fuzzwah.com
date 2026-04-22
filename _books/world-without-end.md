@@ -13,11 +13,8 @@ year_published: 2007
 publisher: Dutton
 binding: Hardcover
 cover: world-without-end.jpg
-blurb: 'En 1327, quatre enfants sont les témoins d''une poursuite meurtrière dans
-  les bois : un chevalier tue deux soldats au service de la reine, avant d''enfouir
-  dans le sol une lettre mystérieuse, dont le secret pourrait bien mettre en danger
-  la couronne d''Angleterre. Depuis ce jour, le destin des enfants se trouve lié à
-  jamais.'
+blurb: Fiction, Great Britain, New York Times bestseller, Peste Negra, Historia, Plague,
+  Historical fiction, Peste bubónica
 subjects:
 - Fiction
 - Great Britain

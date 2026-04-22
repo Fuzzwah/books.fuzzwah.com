@@ -3,15 +3,15 @@ layout: book
 slug: hero-of-two-worlds-the-marquis-de-lafayette-in-the-age-of-revolution
 title: 'Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution'
 author: Mike     Duncan
-isbn: '9781549193071'
+isbn: '9781541730335'
 shelf: read
-my_rating: 4
-date_read: '2023-01-29'
-date_added: '2026-04-20'
-pages: 18
+my_rating: 5
+date_read: '2023-10-18'
+date_added: '2023-01-28'
+pages: 512
 year_published: 2021
 publisher: PublicAffairs
-binding: Audiobook
+binding: Hardcover
 cover: hero-of-two-worlds-the-marquis-de-lafayette-in-the-age-of-revolution.jpg
 blurb: '"Few in history can match the breadth and depth of the revolutionary career
   of the Marquis de Lafayette. Over fifty incredible years at the heart of the Age

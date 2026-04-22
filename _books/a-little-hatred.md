@@ -49,7 +49,7 @@ recommendations:
 - the-way-of-kings
 - a-dance-with-dragons
 - words-of-radiance
-- last-argument-of-kings
+- the-trouble-with-peace
 series_name: The Age of Madness
 series_index: 1.0
 review_needs_generation: false

@@ -3,15 +3,15 @@ layout: book
 slug: the-book-of-elsewhere
 title: The Book of Elsewhere
 author: Keanu Reeves
-isbn: '1420518720'
+isbn: '9780593446591'
 shelf: read
-my_rating: 0
-date_read: '2024-12-05'
-date_added: '2024-12-05'
-pages: 0
+my_rating: 5
+date_read: '2025-02-07'
+date_added: '2025-01-29'
+pages: 352
 year_published: 2024
-publisher: Penguin
-binding: Audiobook
+publisher: Del Rey
+binding: Hardcover
 cover: the-book-of-elsewhere.jpg
 blurb: "*She said, We needed a tool. So I asked the gods.*\r\n\r\nThere have always\
   \ been whispers. Legends. The warrior who cannot be killed. Who’s seen a thousand\

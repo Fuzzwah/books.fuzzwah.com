@@ -55,7 +55,7 @@ recommendations:
 - world-without-end
 - the-wee-free-men
 - the-system-of-the-world
-- the-confusion
+- the-silver-pigs
 series_name: Conqueror
 series_index: 1.0
 review_needs_generation: false

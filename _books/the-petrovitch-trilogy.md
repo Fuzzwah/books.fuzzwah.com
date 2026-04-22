@@ -28,9 +28,9 @@ subjects:
 recommendations:
 - the-redemption-of-time-remembrance-of-earths-past
 - jam
-- best-served-cold
 - triplanetary
 - titan
+- the-windup-girl
 series_name: Samuil Petrovitch
 series_index: 1.0
 review_needs_generation: false

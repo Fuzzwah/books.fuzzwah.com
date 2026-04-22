@@ -13,8 +13,8 @@ year_published: 2019
 publisher: Penguin Books
 binding: Paperback
 cover: a-gentleman-in-moscow.jpg
-blurb: A Gentleman in Moscow is a 2016 novel by Amor Towles. It is his second novel,
-  published five years after his New York Times best seller, Rules of Civility (2011).
+blurb: historical fiction, literary fiction, political fiction, Aristocracy (Social
+  class), Home detention, FICTION / Literary, FICTION / Political, Fiction
 subjects:
 - historical fiction
 - literary fiction
