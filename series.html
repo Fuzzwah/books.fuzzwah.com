@@ -13,17 +13,18 @@ permalink: /series/
   {% for group in grouped_series %}
   {% if group.name and group.name != "" %}
   <section class="series-block">
-    <h2>{{ group.name }}</h2>
-    <ol class="series-books">
-      {% assign ordered = group.items | sort: "series_index" %}
+    <h2 class="series-name">{{ group.name }}</h2>
+    {% assign ordered = group.items | sort: "series_index" %}
+    <div class="card-grid">
       {% for book in ordered %}
-      <li>
-        <a href="{{ book.url | relative_url }}">{{ book.title }}</a>
-        <span>— {{ book.author }}</span>
-        {% if book.series_index %}<span>(#{{ book.series_index | replace: '.0', '' }})</span>{% endif %}
-      </li>
+      <a class="card" href="{{ book.url | relative_url }}">
+        <img src="{{ '/images/covers/' | append: book.cover | relative_url }}" alt="Cover of {{ book.title }}" loading="lazy">
+        <h3>{{ book.title }}</h3>
+        <p>{{ book.author }}</p>
+        {% if book.series_index %}<p class="series-num">Book {{ book.series_index | replace: '.0', '' }}</p>{% endif %}
+      </a>
       {% endfor %}
-    </ol>
+    </div>
   </section>
   {% endif %}
   {% endfor %}
