@@ -3,7 +3,7 @@ layout: book
 slug: echo-of-worlds
 title: 'Echo of Worlds (Pandominion, #2)'
 author: M.R. Carey
-isbn: '9780356518060'
+isbn: 0316504696
 shelf: read
 my_rating: 5
 date_read: '2025-02-27'
@@ -16,11 +16,11 @@ cover: echo-of-worlds.jpg
 blurb: ''
 subjects: []
 recommendations:
-- the-devils
-- system-collapse
-- shroud
-- project-hail-mary
-- in-the-shadow-of-lightning
+- infinity-gate
+- weaponized
+- wayward-galaxy
+- unruly-a-history-of-england-s-kings-and-queens
+- the-wisdom-of-crowds
 series_name: Pandominion
 series_index: 2.0
 review_needs_generation: false

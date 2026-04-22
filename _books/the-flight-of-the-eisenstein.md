@@ -11,16 +11,20 @@ date_added: '2019-12-23'
 pages: 416
 year_published: 2007
 publisher: Black Library
-binding: Paperback
+binding: Mass Market Paperback
 cover: the-flight-of-the-eisenstein.jpg
-blurb: ''
-subjects: []
+blurb: Warhammer (Game), Fiction, Science fiction, Civil war
+subjects:
+- Warhammer (Game)
+- Fiction
+- Science fiction
+- Civil war
 recommendations:
-- legion
-- horus-rising
-- galaxy-in-flames
-- fulgrim
-- false-gods
+- titan
+- thief-of-time
+- the-windup-girl
+- the-line-of-polity
+- the-left-hand-of-darkness
 series_name: The Horus Heresy
 series_index: 4.0
 review_needs_generation: false

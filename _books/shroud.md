@@ -13,14 +13,15 @@ year_published: 2025
 publisher: Tor
 binding: Hardcover
 cover: shroud.jpg
-blurb: ''
-subjects: []
+blurb: English literature
+subjects:
+- English literature
 recommendations:
+- shards-of-earth
+- lords-of-uncreation
+- firewalkers
+- bear-head
 - alien-clay
-- the-devils
-- system-collapse
-- project-hail-mary
-- in-the-shadow-of-lightning
 series_name: ''
 series_index: ''
 review_needs_generation: false

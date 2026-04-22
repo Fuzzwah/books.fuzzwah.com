@@ -4,8 +4,10 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
+import hashlib
 import json
 import re
+import time
 import unicodedata
 import urllib.error
 import urllib.parse
@@ -18,9 +20,16 @@ from PIL import Image
 
 from book_utils import dump_markdown, parse_markdown
 
-DEFAULT_INPUT = Path("/Users/fuzzwah/Documents/goodreads_library_export.csv")
+DEFAULT_INPUT = Path("data/goodreads_library_export.csv")
 DEFAULT_SANITIZED_INPUT = Path("data/goodreads_sanitized.csv")
 ALLOWED_SHELVES = {"read", "currently-reading", "to-read"}
+
+VERBOSE = False
+
+
+def vprint(message: str) -> None:
+    if VERBOSE:
+        print(message, flush=True)
 
 
 @dataclass
@@ -90,8 +99,16 @@ def iso_date(value: Optional[dt.date]) -> str:
     return value.isoformat() if value else ""
 
 
+_TRAILING_SERIES_RE = re.compile(r"\s*\([^)]*#\d+[^)]*\)\s*$")
+
+
+def strip_series_suffix(title: str) -> str:
+    stripped = _TRAILING_SERIES_RE.sub("", title).strip()
+    return stripped or title
+
+
 def slugify_title(title: str) -> str:
-    stripped = re.sub(r"\s*\([^)]*#\d+[^)]*\)\s*$", "", title).strip()
+    stripped = strip_series_suffix(title)
     norm = unicodedata.normalize("NFKD", stripped).encode("ascii", "ignore").decode("ascii")
     slug = re.sub(r"[^a-zA-Z0-9]+", "-", norm.lower()).strip("-")
     return slug or "book"
@@ -132,28 +149,79 @@ def load_json(path: Path, default: Any) -> Any:
 
 def fetch_json(url: str, cache_path: Path, timeout: int = 20) -> Dict[str, Any]:
     if cache_path.exists():
+        vprint(f"    [cache] {url}")
         return json.loads(cache_path.read_text(encoding="utf-8"))
+    vprint(f"    [net]   {url}")
+    t0 = time.monotonic()
     req = urllib.request.Request(url, headers={"User-Agent": "books-site-generator/1.0"})
     with urllib.request.urlopen(req, timeout=timeout) as response:
         payload = response.read().decode("utf-8")
     cache_path.parent.mkdir(parents=True, exist_ok=True)
     cache_path.write_text(payload, encoding="utf-8")
+    vprint(f"    [net]   -> {len(payload)} bytes in {time.monotonic() - t0:.2f}s")
     return json.loads(payload)
 
 
+_TRAILING_PAREN_RE = re.compile(r"\s*\([^)]*\)\s*$")
+_NAME_SUFFIX_RE = re.compile(r"^(?:jr|sr|i{1,3}|iv|v)\.?$", re.IGNORECASE)
+
+
+def _last_name(author: str) -> str:
+    tokens = [t for t in author.split() if not _NAME_SUFFIX_RE.match(t)]
+    return tokens[-1] if tokens else ""
+
+
+def _search_attempts(title: str, author: str) -> List[Tuple[str, str]]:
+    """Produce (title, author) pairs in order of specificity for OpenLibrary search."""
+    attempts: List[Tuple[str, str]] = []
+
+    def add(t: str, a: str) -> None:
+        pair = (t.strip(), a.strip())
+        if pair[0] and pair[1] and pair not in attempts:
+            attempts.append(pair)
+
+    base_title = strip_series_suffix(title)
+    add(base_title, author)
+
+    loose_title = _TRAILING_PAREN_RE.sub("", base_title).strip() or base_title
+    add(loose_title, author)
+
+    before_colon = loose_title.split(":", 1)[0].strip()
+    add(before_colon, author)
+
+    before_slash = (before_colon or loose_title).split("/", 1)[0].strip()
+    add(before_slash, author)
+
+    last_name = _last_name(author)
+    if last_name:
+        add(before_slash or before_colon or loose_title, last_name)
+
+    return attempts
+
+
 def search_openlibrary_isbn(title: str, author: str, cache_dir: Path, slug: str) -> str:
-    params = urllib.parse.urlencode({"title": title, "author": author, "limit": 5})
-    cache_path = cache_dir / f"search-{slug}.json"
-    try:
-        data = fetch_json(f"https://openlibrary.org/search.json?{params}", cache_path)
-    except (urllib.error.URLError, urllib.error.HTTPError, json.JSONDecodeError, TimeoutError):
-        return ""
-    docs = data.get("docs", [])
-    for doc in docs:
-        for candidate in doc.get("isbn", []):
-            isbn = clean_isbn(candidate)
-            if isbn:
-                return isbn
+    for search_title, search_author in _search_attempts(title, author):
+        params = urllib.parse.urlencode(
+            {
+                "title": search_title,
+                "author": search_author,
+                "limit": 5,
+                "fields": "isbn,key,cover_i,cover_edition_key",
+            }
+        )
+        url = f"https://openlibrary.org/search.json?{params}"
+        url_hash = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
+        cache_path = cache_dir / f"search-{slug}-{url_hash}.json"
+        try:
+            data = fetch_json(url, cache_path)
+        except (urllib.error.URLError, urllib.error.HTTPError, json.JSONDecodeError, TimeoutError):
+            continue
+        for doc in data.get("docs", []):
+            for candidate in doc.get("isbn", []):
+                isbn = clean_isbn(candidate)
+                if isbn:
+                    vprint(f"    [srch]  matched {search_title!r} + {search_author!r} -> {isbn}")
+                    return isbn
     return ""
 
 
@@ -203,30 +271,47 @@ def ensure_cover(slug: str, isbn: str, covers_dir: Path, cache_dir: Path) -> Non
     cover_path = covers_dir / f"{slug}.jpg"
     cover_meta_path = cache_dir / "cover_sources.json"
     cover_sources = load_json(cover_meta_path, {})
-    cover_url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
+    cover_url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg?default=false"
 
     if cover_path.exists() and cover_sources.get(slug) == cover_url:
+        vprint(f"    [cache] cover {cover_path.name}")
         return
 
+    vprint(f"    [net]   cover {cover_url}")
+    t0 = time.monotonic()
     try:
         req = urllib.request.Request(cover_url, headers={"User-Agent": "books-site-generator/1.0"})
         with urllib.request.urlopen(req, timeout=20) as response:
-            content_type = response.headers.get("Content-Type", "")
             data = response.read()
-        if "image" not in content_type.lower() or not data:
-            raise ValueError("Cover URL did not return an image")
+        if not data:
+            raise ValueError("empty response body")
         resize_and_save_cover(data, cover_path)
         cover_sources[slug] = cover_url
         cover_meta_path.parent.mkdir(parents=True, exist_ok=True)
         cover_meta_path.write_text(json.dumps(cover_sources, indent=2, sort_keys=True), encoding="utf-8")
-    except Exception:
+        vprint(f"    [net]   -> cover {len(data)} bytes in {time.monotonic() - t0:.2f}s")
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            vprint(f"    [none]  no cover on OpenLibrary for ISBN {isbn}")
+        else:
+            vprint(f"    [warn]  cover fetch HTTP {exc.code}: {exc.reason}")
+        if not cover_path.exists():
+            write_placeholder_cover(cover_path)
+    except Exception as exc:
+        vprint(f"    [warn]  cover fetch failed: {exc}")
         if not cover_path.exists():
             write_placeholder_cover(cover_path)
 
 
-def openlibrary_book_data(isbn: str, cache_dir: Path) -> Tuple[str, List[str]]:
+def openlibrary_book_data(isbn: str, cache_dir: Path) -> Optional[Tuple[str, List[str]]]:
+    """Fetch blurb + subjects for an ISBN. Returns None if OpenLibrary has no record."""
     isbn_cache = cache_dir / f"{isbn}.json"
-    isbn_data = fetch_json(f"https://openlibrary.org/isbn/{isbn}.json", isbn_cache)
+    try:
+        isbn_data = fetch_json(f"https://openlibrary.org/isbn/{isbn}.json", isbn_cache)
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            return None
+        raise
 
     work_key = ""
     works = isbn_data.get("works") or []
@@ -237,7 +322,11 @@ def openlibrary_book_data(isbn: str, cache_dir: Path) -> Tuple[str, List[str]]:
     if work_key:
         work_id = work_key.strip("/").replace("/", "-")
         work_cache = cache_dir / f"{work_id}.json"
-        work_data = fetch_json(f"https://openlibrary.org{work_key}.json", work_cache)
+        try:
+            work_data = fetch_json(f"https://openlibrary.org{work_key}.json", work_cache)
+        except urllib.error.HTTPError as exc:
+            if exc.code != 404:
+                raise
 
     subjects = normalize_subjects(work_data.get("subjects") or isbn_data.get("subjects"))
     blurb = extract_description(work_data)
@@ -300,16 +389,39 @@ def dedupe_rows(rows: List[BookRow]) -> List[BookRow]:
 
 def resolve_book(row: BookRow, cache_dir: Path) -> Tuple[Optional[ResolvedBook], Optional[str]]:
     slug = slugify_title(row.title)
-    isbn = row.isbn13 or row.isbn10
+    csv_isbn = row.isbn13 or row.isbn10
+
+    isbn = ""
+    blurb = ""
+    subjects: List[str] = []
+
+    if csv_isbn:
+        try:
+            result = openlibrary_book_data(csv_isbn, cache_dir)
+        except (urllib.error.URLError, json.JSONDecodeError, TimeoutError) as exc:
+            vprint(f"    [warn]  ISBN lookup failed for {csv_isbn}: {exc}")
+            result = None
+        if result is not None:
+            isbn = csv_isbn
+            blurb, subjects = result
+        else:
+            vprint(f"    [warn]  CSV ISBN {csv_isbn} not in OpenLibrary; searching by title+author")
+
     if not isbn:
-        isbn = search_openlibrary_isbn(row.title, row.author, cache_dir, slug)
+        searched = search_openlibrary_isbn(row.title, row.author, cache_dir, slug)
+        if searched:
+            try:
+                result = openlibrary_book_data(searched, cache_dir)
+            except (urllib.error.URLError, json.JSONDecodeError, TimeoutError) as exc:
+                vprint(f"    [warn]  ISBN lookup failed for {searched}: {exc}")
+                result = None
+            isbn = searched
+            if result is not None:
+                blurb, subjects = result
+
     if not isbn:
         return None, f"{slug}: unable to resolve ISBN"
 
-    try:
-        blurb, subjects = openlibrary_book_data(isbn, cache_dir)
-    except (urllib.error.URLError, urllib.error.HTTPError, json.JSONDecodeError, TimeoutError):
-        blurb, subjects = "", []
     return ResolvedBook(row=row, slug=slug, isbn=isbn, blurb=blurb, subjects=subjects), None
 
 
@@ -328,7 +440,23 @@ def main() -> int:
     parser.add_argument("--cache-dir", default="_cache/openlibrary", help="OpenLibrary cache directory")
     parser.add_argument("--covers-dir", default="images/covers", help="Directory for downloaded cover JPGs")
     parser.add_argument("--dry-run", action="store_true", help="Print actions without writing files")
+    parser.add_argument(
+        "--only",
+        action="append",
+        default=[],
+        metavar="SLUG[,SLUG...]",
+        help="Process only books whose slug matches (comma-separated or repeatable).",
+    )
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        help="Log per-book progress, cache hits, network fetches, and timing",
+    )
     args = parser.parse_args()
+
+    global VERBOSE
+    VERBOSE = args.verbose
 
     input_path = choose_input_path(args.input)
     if not input_path.exists():
@@ -343,14 +471,29 @@ def main() -> int:
     rows = read_rows(input_path)
     rows = dedupe_rows(rows)
 
+    only_slugs = {s.strip().lower() for item in args.only for s in item.split(",") if s.strip()}
+    if only_slugs:
+        filtered = [r for r in rows if slugify_title(r.title) in only_slugs]
+        missed = only_slugs - {slugify_title(r.title) for r in filtered}
+        if missed:
+            print(f"Warning: --only slugs not found in CSV: {sorted(missed)}", flush=True)
+        if not filtered:
+            parser.error(f"No books matched --only {sorted(only_slugs)}")
+        rows = filtered
+
     unresolved: List[str] = []
     missing_blurbs: List[str] = []
     written = 0
+    total = len(rows)
+    print(f"Processing {total} books from {input_path}", flush=True)
 
-    for row in rows:
+    for index, row in enumerate(rows, start=1):
+        book_start = time.monotonic()
+        vprint(f"[{index}/{total}] {row.title!r} — {row.author}")
         resolved, error = resolve_book(row, cache_dir)
         if error:
             unresolved.append(error)
+            vprint(f"    [skip]  {error}")
             continue
         assert resolved is not None
 
@@ -400,11 +543,17 @@ def main() -> int:
         content = dump_markdown(front_matter, body)
         if args.dry_run:
             print(f"[dry-run] would write {target}")
+            vprint(f"    [done]  {time.monotonic() - book_start:.2f}s (dry-run)")
             continue
         target.parent.mkdir(parents=True, exist_ok=True)
-        if not target.exists() or target.read_text(encoding="utf-8") != content:
+        changed = not target.exists() or target.read_text(encoding="utf-8") != content
+        if changed:
             target.write_text(content, encoding="utf-8")
             written += 1
+        vprint(
+            f"    [done]  {'wrote' if changed else 'unchanged'} {target} "
+            f"in {time.monotonic() - book_start:.2f}s"
+        )
 
     print(f"Processed {len(rows)} books. Updated {written} markdown files.")
     if missing_blurbs:

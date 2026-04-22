@@ -13,14 +13,25 @@ year_published: 2017
 publisher: Independently published
 binding: Paperback
 cover: columbus-day.jpg
-blurb: ''
-subjects: []
+blurb: series:Expeditionary Force, Space warfare, Human-alien encounters, Fiction,
+  Interstellar travel, Guerre spatiale, Rencontres avec les extraterrestres, Romans,
+  nouvelles
+subjects:
+- series:Expeditionary Force
+- Space warfare
+- Human-alien encounters
+- Fiction
+- Interstellar travel
+- Guerre spatiale
+- Rencontres avec les extraterrestres
+- Romans, nouvelles
+- Voyages interstellaires
 recommendations:
+- the-judge-of-ages
 - specops
-- sapiens-a-brief-history-of-humankind
-- the-flight-of-the-eisenstein
-- the-devils
-- system-collapse
+- fulgrim
+- the-uplift-war
+- the-left-hand-of-darkness
 series_name: Expeditionary Force
 series_index: 1.0
 review_needs_generation: false

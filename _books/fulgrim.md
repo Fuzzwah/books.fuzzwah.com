@@ -1,26 +1,30 @@
 ---
 layout: book
 slug: fulgrim
-title: 'Fulgrim (The Horus Heresy, #5)'
+title: 'Fulgrim (The Horus Heresy #5)'
 author: Graham McNeill
-isbn: '9781844164769'
+isbn: '1844164764'
 shelf: read
-my_rating: 5
-date_read: '2020-02-16'
-date_added: '2019-12-23'
-pages: 512
-year_published: 2007
-publisher: Games Workshop
-binding: Paperback
+my_rating: 0
+date_read: '2020-01-26'
+date_added: '2020-01-26'
+pages: 0
+year_published: 2013
+publisher: The Black Library
+binding: Audiobook
 cover: fulgrim.jpg
-blurb: ''
-subjects: []
+blurb: Space warfare, Fiction, Guerre spatiale, Romans, nouvelles
+subjects:
+- Space warfare
+- Fiction
+- Guerre spatiale
+- Romans, nouvelles
 recommendations:
-- false-gods
-- the-flight-of-the-eisenstein
-- legion
-- horus-rising
-- galaxy-in-flames
+- specops
+- columbus-day
+- starship-troopers
+- ringworld
+- line-war
 series_name: The Horus Heresy
 series_index: 5.0
 review_needs_generation: false
