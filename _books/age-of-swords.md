@@ -13,23 +13,18 @@ year_published: 2017
 publisher: Del Rey
 binding: Hardcover
 cover: age-of-swords.jpg
-blurb: '"Age of Swords continues the epic story of the war between humankind and the
-  elves--and of ordinary people becoming legendary heroes. It introduces a set of
-  new characters: the dwarves, whose magical weaponcraft could decide the war. It''s
-  up to our heroes to win over the dwarves to the side of humankind...or else lose
-  the war forever"--'
+blurb: In Age of Myth, fantasy master Michael J. Sullivan launched readers on an epic
+  journey of magic and adventure, heroism and betrayal, love and loss. Now the thrilling
+  saga continues as the human uprising is threatened by powerful enemies from without
+  and bitter rivalries from within.
 subjects:
-- Imaginary wars and battles
-- Fiction
-- Magic
-- Elves
-- Dwarfs (Folklore)
+- fiction
 recommendations:
-- words-of-radiance
-- the-way-of-kings
-- oathbringer
-- a-little-hatred
-- a-dance-with-dragons
+- age-of-legend
+- age-of-war
+- age-of-myth
+- age-of-empyre
+- age-of-death
 series_name: The Legends of the First Empire
 series_index: 2.0
 review_needs_generation: false

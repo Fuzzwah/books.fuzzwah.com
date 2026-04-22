@@ -13,33 +13,23 @@ year_published: 1998
 publisher: Bantam Books
 binding: Mass Market Paperback
 cover: to-say-nothing-of-the-dog.jpg
-blurb: "Connie Willis' entertaining comedy inspired by Jerome K. Jerome's [Three Men\
-  \ in a Boat (to say nothing of the dog)][1]. \r\n\r\n[Robert A. Heinlein][2] mentioned\
-  \ the earlier work in [Have Spacesuit will Travel][3] as Kip's father's favorite.\r\
-  \n\r\n\r\n  [1]: https://openlibrary.org/works/OL1793164W/Three_Men_in_a_Boat_(to_say_nothing_of_the_dog)\r\
-  \n  [2]: https://openlibrary.org/authors/OL28641A/Robert_A._Heinlein\r\n  [3]: https://openlibrary.org/works/OL59727W/Have_Space_Suit_Will_Travel"
+blurb: From Connie Willis, winner of multiple Hugo and Nebula Awards, comes a comedic
+  romp through an unpredictable world of mystery, love, and time travel . . . Ned
+  Henry is badly in need of a rest. He’s been shuttling between the 21st century and
+  the 1940s searching for a Victorian atrocity called the bishop's bird stump. It’s
+  part of a project to restore the famed Coventry Cathedral, destroyed in a Nazi air
+  raid over a hundred years earlier. But then Verity Kindle, a fellow time traveler,
+  inadvertently brings back something from the past. Now Ned must jump back to the
+  Victorian era to help Verity put things right—not only to save the project but to
+  prevent altering history itself.
 subjects:
-- Hugo Award Winner
-- award:hugo_award=1999
-- award:hugo_award=novel
-- Time travel
-- Fiction
-- Fiction, science fiction, general
-- Fiction, historical, general
-- England, fiction
-- Fantasy
-- Science Fiction
-- Fiction, historical
-- Large type books
-- American Fantasy fiction
-- Architecture
-- Conservation and restoration
+- fiction
 recommendations:
 - blackout
+- all-clear-oxford-time-travel-4
 - doomsday-book
-- the-three-body-problem
-- starship-troopers
-- the-uplift-war
+- dark-intelligence
+- the-expert-systems-champion
 series_name: Oxford Time Travel
 series_index: 2.0
 review_needs_generation: false

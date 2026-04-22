@@ -13,24 +13,16 @@ year_published: 1995
 publisher: Roberts Rinehart
 binding: Paperback
 cover: death-in-yellowstone-accidents-and-foolhardiness-in-the-first-national-park.jpg
-blurb: Yellowstone National Park has a long history of deaths by everything from earthquakes
-  to bear attacks, poison gas, and lightning. Since 1870 there have been 300 deaths,
-  all brought together in this fascinating book by a long-time chronicler of Yellowstone's
-  history.
+blurb: Intriguing stories of how people have died in Yellowstone warn about the many
+  dangers that exist there and in wild areas in general.
 subjects:
-- Anecdotes
-- Violent deaths
-- Accidents
-- Prevention
-- History
-- Yellowstone national park
-- West (u.s.), history, anecdotes
+- history
 recommendations:
-- voyage
-- venus-in-copper
-- the-victorian-internet-the-remarkable-story-of-the-telegraph-and-the-nineteenth-century-s-on-line-pioneers
-- the-mother-tongue-english-and-how-it-got-that-way
-- the-making-of-the-atomic-bomb
+- the-turing-exception
+- outland
+- watership-down
+- slow-gods
+- mercy-kill
 series_name: ''
 series_index: ''
 review_needs_generation: false

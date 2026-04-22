@@ -13,23 +13,20 @@ year_published: 1993
 publisher: Ballantine Books
 binding: Mass Market Paperback
 cover: venus-in-copper.jpg
-blurb: More escapade in the life of our trepid Roman investigater, brought to life
-  in the writing of Lindsey Davis
+blurb: '"Delectably funny...A novel that gives new meaning to the term ''classic detective
+  fiction.''" THE WASHINGTON POST BOOK WORLD In 70 A.D. in ancient Rome, no one is
+  a saint. Or so thinks Marcus Didius Falco, a private investigator first introduced
+  in the award-winning SILVER PIGS, who''s trying to prevent a murder before it happens.
+  When every man a woman marries dies, Falco knows there''s smoke and fire--and he''ll
+  stop at nothing to untangle the Gordion knot that proves it.'
 subjects:
-- Marcus Didius Falco (Fictitious character)
-- Private investigators
-- History
-- Fiction
-- Fiction, mystery & detective, hard-boiled
-- Fiction, historical, general
-- Falco, marcus didius (fictitious character), fiction
-- Rome, fiction
+- fiction
 recommendations:
 - the-iron-hand-of-mars
 - shadows-in-bronze
 - the-silver-pigs
-- tribune-of-rome
-- the-wolves-of-the-north
+- blackout
+- all-clear-oxford-time-travel-4
 series_name: Marcus Didius Falco
 series_index: 3.0
 review_needs_generation: false

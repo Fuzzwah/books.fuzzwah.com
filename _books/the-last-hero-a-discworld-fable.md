@@ -13,18 +13,23 @@ year_published: 2001
 publisher: Harper
 binding: Hardcover
 cover: the-last-hero-a-discworld-fable.jpg
-blurb: An illustrated storybook.
+blurb: Cohen the Barbarian. He's been a legend in his own lifetime. He can remember
+  the good old days of high adventure, when being a Hero meant one didn't have to
+  worry about aching backs and lawyers and civilization. But these days, he can't
+  always remember just where he put his teeth... So now, with his ancient (yet still
+  trusty) sword and new walking stick in hand, Cohen gathers a group of his old --
+  very old -- friends to embark on one final quest. He's going to climb the highest
+  mountain of Discworld and meet the gods. It's time the Last Hero in the world returns
+  what the first hero stole. Trouble is, that'll mean the end of the world, if no
+  one stops him in time.
 subjects:
-- Discworld (Imaginary place)
-- Fiction
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
+- fiction
 recommendations:
-- wyrd-sisters
-- unseen-academicals
-- thud
 - thief-of-time
-- the-light-fantastic
+- a-hat-full-of-sky
+- men-at-arms
+- sourcery
+- the-wee-free-men
 series_name: Discworld
 series_index: 27.0
 review_needs_generation: false

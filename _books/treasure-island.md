@@ -13,24 +13,19 @@ year_published: 2005
 publisher: Puffin Books
 binding: Paperback
 cover: treasure-island.jpg
-blurb: While going through the possessions of a deceased guest who owed them money,
-  the mistress of the inn and her son find a treasure map that leads to a pirate treasure
-  as well as great danger. Presented in comic book format.
+blurb: The Graphic Novelization of a Classic Tale! When Jim Hawkins uncovers the key
+  to a pirate’s treasure map he sets out on a quest to find the buried treasure with
+  the help of pirate captain Long John Silver. Artist Tim Hamilton brings the pirates
+  and villains to life in this graphic novel adaptation of Robert Louis Stevenson’s
+  classic.
 subjects:
-- Treasure troves
-- Juvenile fiction
-- Graphic novels
-- Pirates
-- Buried treasure
-- Fiction
-- Adventure and adventurers
-- Cartoons and comics
+- juvenile fiction
 recommendations:
-- the-confusion
-- peter-pan
-- watership-down
-- the-wee-free-men
-- the-mad-ship
+- moby-dick
+- questions-for-a-soldier
+- anvil-of-stars
+- will-destroy-the-galaxy-for-cash
+- the-rum-diary
 series_name: ''
 series_index: ''
 review_needs_generation: false

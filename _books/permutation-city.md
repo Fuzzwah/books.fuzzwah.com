@@ -13,29 +13,17 @@ year_published: 1995
 publisher: HarperPrism
 binding: Mass Market Paperback
 cover: permutation-city.jpg
-blurb: "Immortality can be yours . . . at a price\r\n\r\nPermutation city is the tale\
-  \ of a man with a vision - how to create immortality - and how that vision becomes\
-  \ grows beyond his control. Encompassing the lives and struggles of an artificial\
-  \ life junkie desperate to save her dying mother, a billionaire banker scarred by\
-  \ a terrible crime, the lovers for whom, in their timeless virtual world, love is\
-  \ not enough - and much more - Permutation city is filled with the sense of wonder\
-  \ and dread.\r\n\r\nCan what makes you human be distilled into data? And what happens\
-  \ if you can't afford to pay?"
+blurb: Transformed into an electronic code, a Copy must discover an alternate way
+  out, back into its real body, because the original avenue of escape has been cut
+  off by the human version from which its was originally copied. Original.
 subjects:
-- Twenty-first century in fiction
-- Twenty-first century
-- Fiction
-- Fiction, science fiction, general
-- Distopian
-- Apocalyptic literature
-- Post-apocalyptic
-- Fiction, science fiction, hard science fiction
+- fiction
 recommendations:
-- the-uplift-war
-- spares
-- only-forward
-- a-fire-upon-the-deep
-- the-naked-god
+- the-redemption-of-time-remembrance-of-earths-past
+- witches-abroad
+- einstein-s-shutter
+- forever-free
+- horus-rising
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -13,50 +13,35 @@ year_published: 2011
 publisher: Crown Publishers
 binding: Hardcover
 cover: ready-player-one.jpg
-blurb: "In the year 2044. reality is an ugly place. The only time teenage Wade Watts\
-  \ *really* feels alive is when he's jacked into the virtual utopia known as the\
-  \ OASIS. Wade's devoted his life to studying the puzzles hidden within this world's\
-  \ digital confines--puzzles that are based on their creator's obsession with the\
-  \ pop culture of decades past and that promise massive power and fortune to whoever\
-  \ can unlock them. \r\n\r\nBut when Wade stumbles upon the first clue, he finds\
-  \ himself beset by players willing to kill to take this ultimate prize. The race\
-  \ is on, and if Wade's going to survive, he'll have to win--and confront the real\
-  \ world he's always been so desperate to escape. (Provided by publisher)."
+blurb: '#1 NEW YORK TIMES BESTSELLER • Now a major motion picture directed by Steven
+  Spielberg. “Enchanting . . . Willy Wonka meets The Matrix.”—USA Today • “As one
+  adventure leads expertly to the next, time simply evaporates.”—Entertainment Weekly
+  A world at stake. A quest for the ultimate prize. Are you ready? In the year 2045,
+  reality is an ugly place. The only time Wade Watts really feels alive is when he’s
+  jacked into the OASIS, a vast virtual world where most of humanity spends their
+  days. When the eccentric creator of the OASIS dies, he leaves behind a series of
+  fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever
+  is first to solve them will inherit his vast fortune—and control of the OASIS itself.
+  Then Wade cracks the first clue. Suddenly he’s beset by rivals who’ll kill to take
+  this prize. The race is on—and the only way to survive is to win. NAMED ONE OF THE
+  BEST BOOKS OF THE YEAR BY Entertainment Weekly • San Francisco Chronicle • Village
+  Voice • Chicago Sun-Times • iO9 • The AV Club “Delightful . . . the grown-up’s Harry
+  Potter.”—HuffPost “An addictive read . . . part intergalactic scavenger hunt, part
+  romance, and all heart.”—CNN “A most excellent ride . . . Cline stuffs his novel
+  with a cornucopia of pop culture, as if to wink to the reader.”—Boston Globe “Ridiculously
+  fun and large-hearted . . . Cline is that rare writer who can translate his own
+  dorky enthusiasms into prose that’s both hilarious and compassionate.”—NPR “[A]
+  fantastic page-turner . . . starts out like a simple bit of fun and winds up feeling
+  like a rich and plausible picture of future friendships in a world not too distant
+  from our own.”—iO9'
 subjects:
-- Regression (Civilization)
-- Utopias
-- Virtual reality
-- Fiction
-- Puzzles
-- Fiction, science fiction, action & adventure
-- Fiction, dystopian
-- Shared virtual environments
-- YOUNG ADULT FICTION / Computers & Digital Media
-- YOUNG ADULT FICTION / Dystopian
-- YOUNG ADULT FICTION / Media Tie-In
-- YOUNG ADULT FICTION / Mysteries & Detective Stories
-- YOUNG ADULT FICTION / Science Fiction / General
-- nyt:trade-fiction-paperback=2012-06-24
-- New York Times bestseller
-- New York Times reviewed
-- Gaming
-- video games
-- cyberpunk
-- science fiction
-- action
-- adventure
-- dystopian
-- Future
-- Realidad virtual
-- Ficcion
-- Regresión (Civilización)
-- Rompecabezas
+- fiction
 recommendations:
-- waking-gods
-- the-water-knife
-- the-three-body-problem
 - the-martian
-- skyward
+- red-rising
+- dungeon-crawler-carl
+- project-hail-mary
+- network-effect
 series_name: Ready Player One
 series_index: 1.0
 review_needs_generation: false

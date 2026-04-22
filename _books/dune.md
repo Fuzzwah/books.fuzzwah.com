@@ -3,7 +3,7 @@ layout: book
 slug: dune
 title: 'Dune (Dune Chronicles, #1)'
 author: Frank Patrick Herbert
-isbn: 0575116781
+isbn: '9789632117669'
 shelf: read
 my_rating: 5
 date_read: ''
@@ -13,43 +13,15 @@ year_published: 2005
 publisher: Ace Books
 binding: Paperback
 cover: dune.jpg
-blurb: "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides,\
-  \ heir to a noble family tasked with ruling an inhospitable world where the only\
-  \ thing of value is the \"spice\" melange, a drug capable of extending life and\
-  \ enhancing consciousness. Coveted across the known universe, melange is a prize\
-  \ worth killing for...\r\n\r\nWhen House Atreides is betrayed, the destruction of\
-  \ Paul's family will set the boy on a journey toward a destiny greater than he could\
-  \ ever have imagined. And as he evolves into the mysterious man known as Muad'Dib,\
-  \ he will bring to fruition humankind's most ancient and unattainable dream.\r\n\
-  \r\nA stunning blend of adventure and mysticism, environmentalism and politics,\
-  \ Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of\
-  \ what is undoubtedly the grandest epic in science fiction."
+blurb: ''
 subjects:
-- Dune (Imaginary place)
-- Fiction
-- Fiction, science fiction, general
-- Dune (imaginary place), fiction
-- New York Times reviewed
-- Science fiction
-- Science-fiction
-- American literature
-- nyt:mass-market-monthly=2021-11-07
-- New York Times bestseller
-- award:nebula_award=novel
-- nyt:trade-fiction-paperback=2021-11-07
-- Hugo Award Winner
-- award:hugo_award=1966
-- award:hugo_award=novel
-- American Science fiction
-- Long Now Manual for Civilization
-- Ecology
-- Fantasy fiction
+- science fiction, american
 recommendations:
-- the-left-hand-of-darkness
-- the-dispossessed
-- ringworld
-- a-canticle-for-leibowitz
 - dune-messiah
+- children-of-dune
+- the-system-of-the-world
+- the-silver-pigs
+- the-reality-dysfunction
 series_name: Dune Chronicles
 series_index: 1.0
 review_needs_generation: false

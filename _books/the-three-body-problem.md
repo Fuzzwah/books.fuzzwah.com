@@ -1,58 +1,40 @@
 ---
 layout: book
 slug: the-three-body-problem
-title: 'The Three-Body Problem (Remembrance of Earth’s Past #1)'
+title: 'The Three-Body Problem (Remembrance of Earth’s Past, #1)'
 author: Liu Cixin
-isbn: '9781510003972'
+isbn: '9781784971540'
 shelf: read
-my_rating: 0
-date_read: '2023-01-29'
-date_added: '2023-01-29'
-pages: 15
-year_published: 2015
-publisher: Avid Audiobooks
-binding: Audiobook
+my_rating: 4
+date_read: '2023-05-05'
+date_added: '2020-05-01'
+pages: 472
+year_published: 2014
+publisher: Tor Books
+binding: Hardcover
 cover: the-three-body-problem.jpg
-blurb: "Cixin Liu's trilogy-opening novel about first contact with aliens and the\
-  \ clandestine struggle with them over Earth's future, and its scientific progress\
-  \ in particular.\r\n\r\nSet against the backdrop of China's Cultural Revolution,\
-  \ a secret military project sends signals into space in an attempt to make contact\
-  \ with aliens—and they succeed. An alien civilization on the brink of destruction\
-  \ captures the signal and plans to invade Earth. Now, on Earth, different factions\
-  \ start forming, planning to either welcome the superior beings and help them take\
-  \ over a world seen as corrupt, or fight against the invasion. The result is a science\
-  \ fiction masterpiece of enormous scope and vision."
+blurb: 'Read the award-winning, critically acclaimed, multi-million-copy-selling science-fiction
+  phenomenon – now a major Netflix Original Series from the creators of Game of Thrones.
+  1967: Ye Wenjie witnesses Red Guards beat her father to death during China''s Cultural
+  Revolution. This singular event will shape not only the rest of her life but also
+  the future of mankind. Four decades later, Beijing police ask nanotech engineer
+  Wang Miao to infiltrate a secretive cabal of scientists after a spate of inexplicable
+  suicides. Wang''s investigation will lead him to a mysterious online game and immerse
+  him in a virtual world ruled by the intractable and unpredictable interaction of
+  its three suns. This is the Three-Body Problem and it is the key to everything:
+  the key to the scientists'' deaths, the key to a conspiracy that spans light-years
+  and the key to the extinction-level threat humanity now faces. Praise for The Three-Body
+  Problem: ''Your next favourite sci-fi novel'' Wired ''Immense'' Barack Obama ''Unique''
+  George R.R. Martin ''SF in the grand style'' Guardian ''Mind-altering and immersive''
+  Daily Mail Winner of the Hugo and Galaxy Awards for Best Novel'
 subjects:
-- Hugo Award Winner
-- award:hugo_award=2015
-- award:hugo_award=novel
-- Human-alien encounters
-- Imaginary wars and battles
-- Fiction
-- Chinese fiction
-- FICTION / Science Fiction / General
-- Science fiction
-- General
-- Fiction, science fiction, general
-- nyt:trade-fiction-paperback=2020-09-27
-- New York Times bestseller
-- Encuentros humanos con extraterrestres
-- Guerras imaginarias
-- Ciencia-ficción
-- Ficcion
-- Fiction, science fiction, alien contact
-- china
-- fantasy
-- Translations into English
-- History
-- 'Cultural Revolution (China : 1966-1976) fast (OCoLC)fst01352662'
-- Chinese Science fiction
+- fiction
 recommendations:
 - the-dark-forest
-- the-uplift-war
-- the-left-hand-of-darkness
-- stranger-in-a-strange-land
-- doomsday-book
+- death-s-end
+- to-be-taught-if-fortunate
+- the-last-firewall
+- the-mote-in-god-s-eye
 series_name: Remembrance of Earth’s Past
 series_index: 1.0
 review_needs_generation: false

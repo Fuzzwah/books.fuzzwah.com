@@ -19,22 +19,17 @@ blurb: AD262 - the Imperium is in turmoil after the struggle for the throne. Fur
   the gods who have punished them. Yet an even greater threat to the Empire advances
   from the North. The barbaric Goth tribes sail towards Ephesus, determined to pillage
   the city. Only Ballista, Warrior of Rome, knows the ways of the barbarians, and
-  only he can defeat them.
+  only he can defeat them. The Goths' appetite for brutality and destruction is limitless
+  and before long Ballista is locked into a deadly bloodfeud, with an enemy that has
+  sworn to destroy him - and the Imperium - at all costs.
 subjects:
-- Military History
-- Fiction
-- 'Ballista (Fictitious character : Sidebottom)'
-- History
-- Rome, fiction
-- Fiction, historical
-- Fiction, war & military
-- Fiction, historical, general
+- fiction
 recommendations:
 - the-wolves-of-the-north
-- the-amber-road
-- hannibal-enemy-of-rome
+- king-of-kings
 - fire-in-the-east
-- shadows-in-bronze
+- lion-of-the-sun
+- the-amber-road
 series_name: Warrior of Rome
 series_index: 4.0
 review_needs_generation: false

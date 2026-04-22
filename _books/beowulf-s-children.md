@@ -13,21 +13,16 @@ year_published: 1996
 publisher: Tor Science Fiction
 binding: Paperback
 cover: beowulf-s-children.jpg
-blurb: A new generation is growing up on the island paradise of Camelot, ignorant
-  of the Great Grendel Wars fought when their parents and grandparents first arrived
-  from Earth.
+blurb: A group of young rebels from the island paradise of Camelot, head toward the
+  mainland unaware of the monsters which await them.
 subjects:
-- Space colonies
-- Life on other planets
-- Fiction
-- Fiction, science fiction, general
-- Fiction, general
+- fiction
 recommendations:
-- hyperion
-- zoe-s-tale
-- titan
-- the-last-colony
-- the-dreaming-void
+- the-dragons-of-heorot
+- a-world-out-of-time
+- the-smoke-ring
+- the-integral-trees
+- the-mote-in-god-s-eye
 series_name: Heorot
 series_index: 2.0
 review_needs_generation: false

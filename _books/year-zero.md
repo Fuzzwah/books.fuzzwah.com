@@ -13,21 +13,17 @@ year_published: 2012
 publisher: Del Rey
 binding: Hardcover
 cover: year-zero.jpg
-blurb: Extraterrestrial beings, Fiction, nyt:e-book-fiction=2013-11-03, New York Times
-  bestseller, Fiction, science fiction, general, Fiction, humorous, general
+blurb: In the hilarious tradition of "The Hitchhiker's Guide to the Galaxy," Reid
+  goes on a headlong journey through the outer reaches of the universe--and the inner
+  workings of our absurdly dysfunctional music industry.
 subjects:
-- Extraterrestrial beings
-- Fiction
-- nyt:e-book-fiction=2013-11-03
-- New York Times bestseller
-- Fiction, science fiction, general
-- Fiction, humorous, general
+- fiction
 recommendations:
-- the-water-knife
-- the-three-body-problem
-- the-rise-and-fall-of-d-o-d-o
-- the-martian
-- the-long-way-to-a-small-angry-planet
+- zoe-s-tale
+- the-hitchhikers-guide-to-the-galaxy
+- not-till-we-are-lost
+- fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
+- the-collapsing-empire
 series_name: ''
 series_index: ''
 review_needs_generation: false

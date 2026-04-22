@@ -13,15 +13,19 @@ year_published: 2018
 publisher: ''
 binding: Kindle Edition
 cover: renegades.jpg
-blurb: series:Expeditionary Force
+blurb: '"The battle-scarred star carrier Flying Dutchman is finally on her way back
+  to Earth, after an exceptionally successful series of missions that have once again
+  Saved The World. The ship needs a serious refit, and her exhausted crew just wants
+  a break from constant clandestine warfare against a vicious and superior enemy.
+  Wishes come true, right? Not for the Merry Band of Pirates"--Cover, page 4.'
 subjects:
-- series:Expeditionary Force
+- aliens
 recommendations:
-- zero-hour
-- trouble-on-paradise
-- specops
-- paradise
 - mavericks
+- paradise
+- black-ops
+- specops
+- trouble-on-paradise
 series_name: Expeditionary Force
 series_index: 7.0
 review_needs_generation: false

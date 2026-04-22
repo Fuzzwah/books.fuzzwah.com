@@ -13,27 +13,24 @@ year_published: 2008
 publisher: Orbit
 binding: Paperback
 cover: consider-phlebas.jpg
-blurb: Consider Phlebas is perhaps one of the lesser-known, but nevertheless the first,
-  of the revelationary late Iain M. Banks' science fiction books. Consider Phlebas
-  introduces us to the complex world of the mind-controlling, ubiquitous utopia of
-  the Culture, which contrasts to their mortal sentient enemies. Iain Banks creates
-  an imaginative and encapsulating premise to keep the reader hooked for more, with
-  hints of science fiction and alien humour to liven a deadly race against an omnipotent
-  foe.
+blurb: '"Dazzlingly original." -- Daily Mail "Gripping, touching and funny." -- TLS
+  The war raged across the galaxy. Billions had died, billions more were doomed. Moons,
+  planets, the very stars themselves, faced destruction, cold-blooded, brutal, and
+  worse, random. The Idirans fought for their Faith; the Culture for its moral right
+  to exist. Principles were at stake. There could be no surrender. Within the cosmic
+  conflict, an individual crusade. Deep within a fabled labyrinth on a barren world,
+  a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture
+  and the Idirans sought it. It was the fate of Horza, the Changer, and his motley
+  crew of unpredictable mercenaries, human and machine, actually to find it, and with
+  it their own destruction.'
 subjects:
-- Fiction
-- Imaginary wars and battles
-- OverDrive
-- Science Fiction
-- Accessible book
-- Protected DAISY
-- Long now manual for civilization
+- fiction
 recommendations:
-- the-player-of-games
-- ringworld
+- surface-detail
 - matter
 - look-to-windward
-- the-windup-girl
+- the-player-of-games
+- the-hydrogen-sonata
 series_name: Culture
 series_index: 1.0
 review_needs_generation: false

@@ -13,19 +13,23 @@ year_published: 2012
 publisher: Dark Horse
 binding: Paperback
 cover: jam.jpg
-blurb: Prophecies, Jam, End of the world, Fiction, Fiction, general
+blurb: 'We were prepared for an earthquake. We had a flood plan in place. We could
+  even have dealt with zombies. Probably. But no one expected the end to be quite
+  so . . . sticky . . . or strawberry scented. Yahtzee Croshaw (Mogworld, Zero Punctuation
+  Reviews) returns to print with a follow-up to his smash-hit debut: Jam, a dark comedy
+  about the one apocalypse no one predicted. * The hilarious new novel by the author
+  of Mogworld! * Croshaw''s Zero Punctuation Reviews is the most viewed video game
+  review on the web! * For lovers of bizarre horror and unforgettable characters!
+  “[Croshaw is] able to pull off slapstick comedy in print, and that''s no easy feat.”
+  –ComicsAlliance'
 subjects:
-- Prophecies
-- Jam
-- End of the world
-- Fiction
-- Fiction, general
+- fiction
 recommendations:
-- good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
-- the-redemption-of-time-remembrance-of-earths-past
-- seveneves
-- children-of-time
-- triplanetary
+- will-save-the-galaxy-for-food
+- mogworld
+- will-destroy-the-galaxy-for-cash
+- differently-morphous
+- blackout
 series_name: ''
 series_index: ''
 review_needs_generation: false

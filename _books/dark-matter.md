@@ -13,34 +13,29 @@ year_published: 2016
 publisher: Ballantine Books
 binding: Hardcover
 cover: dark-matter.jpg
-blurb: One night after an evening out, Jason Dessen, forty-year-old physics professor
-  living with his wife and son in Chicago, is kidnapped at gunpoint by a masked man,
-  driven to an abandoned industrial site and injected with a powerful drug. As he
-  wakes, a man Jason's never met smiles down at him and says, "Welcome back, my friend."
-  But this life is not the one he knows. His wife is not his wife; his son was never
-  born; and he's not an ordinary college professor, but a celebrated genius who has
-  achieved something impossible. Is it this world or the other that's the dream? How
-  can he possibly make it back to the family he loves? The answers lie in a journey
-  more wondrous and horrifying than anything he could have imagined--one that will
-  force him to confront the darkest parts of himself as he battles a terrifying, seemingly
-  unbeatable foe. --
+blurb: NEW YORK TIMES BESTSELLER • OVER ONE MILLION COPIES SOLD! • NOW STREAMING ON
+  APPLE TV+ A “mind-blowing” (Entertainment Weekly) speculative thriller about an
+  ordinary man who awakens in a world inexplicably different from the reality he thought
+  he knew—from the author of Upgrade, Recursion, and the Wayward Pines trilogy “Are
+  you happy with your life?” Those are the last words Jason Dessen hears before the
+  kidnapper knocks him unconscious. Before he awakens to find himself strapped to
+  a gurney, surrounded by strangers in hazmat suits. Before a man he’s never met smiles
+  down at him and says, “Welcome back, my friend.” In this world he’s woken up to,
+  Jason’s life is not the one he knows. His wife is not his wife. His son was never
+  born. And Jason is not an ordinary college professor but a celebrated genius who
+  has achieved something remarkable. Something impossible. Is it this life or the
+  other that’s the dream? And even if the home he remembers is real, how will Jason
+  make it back to the family he loves? From the bestselling author Blake Crouch, Dark
+  Matter is a mind-bending thriller about choices, paths not taken, and how far we’ll
+  go to claim the lives we dream of.
 subjects:
-- Kidnapping
-- Fiction
-- Reality
-- Science Fiction
-- Psychological
-- New York Times bestseller
-- Technological
-- Suspense
-- Thrillers
-- Mystery
+- fiction
 recommendations:
-- the-stand
+- queen-of-storms
+- suspect
+- project-hail-mary
 - the-book-of-elsewhere
-- waking-gods
-- the-water-knife
-- the-three-body-problem
+- the-rise-and-fall-of-d-o-d-o
 series_name: ''
 series_index: ''
 review_needs_generation: false

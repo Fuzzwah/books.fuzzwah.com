@@ -13,27 +13,19 @@ year_published: 2002
 publisher: Pocket Books/Simon & Schuster (NY)
 binding: Mass Market Paperback
 cover: look-to-windward.jpg
-blurb: "It was one of the less glorious incidents of a long-ago war.\r\n\r\nIt led\
-  \ to the destruction of two suns and the billions of lives they supported.\r\n\r\
-  \nNow, eight hundred years later, the light from the first of those ancient mistakes\
-  \ has reached the Culture Orbital, Masaq.\r\n\r\nThe light from the second may not."
+blurb: Eight hundred years after the most horrific battle of the Idiran war, light
+  from its world-destroying detonations is about to reach the Masaq Orbital, home
+  to the Culture. Major Quilan has supposedly come to take the exiled Composer Ziller
+  back to their war-ravaged home world, Chel. But despite the major's civilized veneer,
+  his true mission may be the death and destruction of an entire civilization.
 subjects:
-- Long Now Manual for Civilization
-- Space warfare
-- Utopies
-- Life on other planets
-- Utopias
-- Vie extraterrestre
-- Science-fiction
-- Fiction
-- Protected DAISY
-- Conspiracy
+- fiction
 recommendations:
-- ringworld
-- the-left-hand-of-darkness
-- the-dispossessed
-- old-man-s-war
-- altered-carbon
+- the-hydrogen-sonata
+- consider-phlebas
+- the-player-of-games
+- surface-detail
+- matter
 series_name: Culture
 series_index: 7.0
 review_needs_generation: false

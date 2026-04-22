@@ -13,26 +13,18 @@ year_published: 2014
 publisher: Tor Books
 binding: Hardcover
 cover: the-goblin-emperor.jpg
-blurb: Fantasy novel by Sarah Monette under the pseudonym Katherine Addison.
+blurb: Reluctantly elevated to the throne when his father and brothers are killed
+  in a suspicious accident, an exiled half-goblin is rapidly overwhelmed by ambitious
+  sycophants, imperial burdens, and dangerous plots while searching for friendship
+  and love.
 subjects:
-- Fantasy fiction
-- Goblins
-- Kings and rules
-- Fiction
-- Kings and rulers
-- Man-woman relationships
-- Kings, queens, rulers
-- Choice
-- Survival
-- Secrets
-- Politics
-- Fiction, fantasy, general
+- fiction
 recommendations:
-- watership-down
-- last-argument-of-kings
-- before-they-are-hanged
-- assassin-s-apprentice
-- the-way-of-kings
+- half-the-world
+- galaxy-in-flames
+- a-column-of-fire
+- zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values
+- the-heroes
 series_name: The Chronicles of Osreth
 series_index: 1.0
 review_needs_generation: false

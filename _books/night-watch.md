@@ -26,23 +26,13 @@ blurb: One moment, Sir Sam Vimes is in his old patrolman form, chasing a sweet-t
   him a valuable thing or three about policing, an impressionable young copper named
   Sam Vimes.
 subjects:
-- Fiction
-- Samuel Vimes (Fictitious character)
-- Discworld (Imaginary place)
-- Time travel
-- Vimes, Samuel (Fictitious character) -- Fiction.
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- English literature
-- Fiction, humorous
-- Fiction, humorous, general
-- New York Times reviewed
+- fiction
 recommendations:
-- thud
-- the-light-fantastic
-- the-fifth-elephant
-- equal-rites
-- snuff
+- eric
+- thief-of-time
+- men-at-arms
+- interesting-times
+- the-last-hero-a-discworld-fable
 series_name: Discworld
 series_index: 29.0
 review_needs_generation: false

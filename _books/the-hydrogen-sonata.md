@@ -13,27 +13,28 @@ year_published: 2012
 publisher: Orbit
 binding: Hardcover
 cover: the-hydrogen-sonata.jpg
-blurb: Suspected of involvement after the Regimental High Command is destroyed as
-  they prepared to go to a new level of existence called Sublime, Lieutenant Commander
-  Vyr Cossont must find a nine-thousand-year-old man to clear her name.
+blurb: The Scavenger species are circling. It is, truly, the End Days for the Gzilt
+  civilization. An ancient people, organized on military principles and yet almost
+  perversely peaceful, the Gzilt helped set up the Culture ten thousand years earlier
+  and were very nearly one of its founding societies, deciding not to join only at
+  the last moment. Now they've made the collective decision to follow the well-trodden
+  path of millions of other civilizations; they are going to Sublime, elevating themselves
+  to a new and almost infinitely more rich and complex existence. Amid preparations
+  though, the Regimental High Command is destroyed. Lieutenant Commander (reserve)
+  Vyr Cossont appears to have been involved, and she is now wanted - dead, not alive.
+  Aided only by an ancient, reconditioned android and a suspicious Culture avatar,
+  Cossont must complete her last mission given to her by the High Command. She must
+  find the oldest person in the Culture, a man over nine thousand years old, who might
+  have some idea what really happened all that time ago. It seems that the final days
+  of the Gzilt civilization are likely to prove its most perilous.
 subjects:
-- Fiction
-- Science Fiction
-- Space Opera
-- Space warfare
-- Sabotage
-- Subversive activities
-- Culture conflict
-- Spy stories
-- Fiction, science fiction, general
-- Fiction, science fiction, space opera
-- '[series:IMB_The_Culture]'
+- culture conflict
 recommendations:
-- the-long-way-to-a-small-angry-planet
-- salvation-lost
-- triplanetary
-- the-reality-dysfunction
-- judas-unchained
+- surface-detail
+- look-to-windward
+- matter
+- consider-phlebas
+- the-player-of-games
 series_name: Culture
 series_index: 10.0
 review_needs_generation: false

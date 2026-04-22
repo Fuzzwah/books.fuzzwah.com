@@ -13,24 +13,23 @@ year_published: 2021
 publisher: William Morrow
 binding: Hardcover
 cover: termination-shock.jpg
-blurb: Visionary near- future techno thriller about climate change.
-subjects:
-- Climate
-- climate change
-- technology
-- nyt:combined-print-and-e-book-fiction=2021-12-05
-- New York Times bestseller
-- Long Now Manual for Civilization
-- Climatic changes
-- Fiction
-- World politics
-- Billionaires
+blurb: 'The #1 New York Times bestselling author returns with a visionary technothriller
+  about climate change. Neal Stephenson''s sweeping, prescient new novel transports
+  readers to a near-future world where the greenhouse effect has inexorably resulted
+  in a whirling-dervish troposphere of superstorms, rising sea levels, global flooding,
+  merciless heat waves, and virulent, deadly pandemics. One man has a Big Idea for
+  reversing global warming, a master plan perhaps best described as "elemental." But
+  will it work? And just as important, what are the consequences for the planet and
+  all of humanity should it be applied? As only Stephenson can, Termination Shock
+  sounds a clarion alarm, ponders potential solutions and dire risks, and wraps it
+  all together in an exhilarating, witty, mind-expanding speculative adventure.'
+subjects: []
 recommendations:
-- the-rise-and-fall-of-d-o-d-o
 - seveneves
+- the-rise-and-fall-of-d-o-d-o
+- snow-crash
+- reamde
 - fall-or-dodge-in-hell
-- anathem
-- enders-game
 series_name: ''
 series_index: ''
 review_needs_generation: false

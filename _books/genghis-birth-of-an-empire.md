@@ -13,49 +13,19 @@ year_published: 2008
 publisher: Dell
 binding: Mass Market Paperback
 cover: genghis-birth-of-an-empire.jpg
-blurb: 'Conn Iggulden''s novels are grand historical tales of conquest and vengeance,
-  cruelty and greatness. Now the acclaimed author of Genghis: Birth of an Empire delivers
-  a masterful new novel of the mighty Mongol conqueror--as Genghis Khan sets out to
-  unify an entire continent under his rule....He came from over the horizon, a single
-  Mongol warrior surrounded by his brothers, sons, and fellow tribesmen. With each
-  battle his legend grew and the ranks of his horsemen swelled, as did his ambition.
-  For centuries, primitive tribes had warred with one another. Now, under Genghis
-  Khan, they have united as one nation, setting their sights on a common enemy: the
-  great, slumbering walled empire of the Chin. A man who lived for battle and blood,
-  Genghis leads his warriors across the Gobi Desert and into a realm his people had
-  never seen before--with gleaming cities, soaring walls, and canals. Laying siege
-  to one fortress after another, Genghis called upon his cunning and imagination to
-  crush each enemy in a different way, to overcome moats, barriers, deceptions, and
-  superior firepower--until his army faced the ultimate test of all.In the city of
-  Yenking--modern-day Beijing--the Chin will make their final stand, setting a trap
-  for the Mongol raiders, confident behind their towering walls. But Genghis will
-  strike with breathtaking audacity, never ceasing until the Emperor himself is forced
-  to kneel.From the Hardcover edition.'
+blurb: From the critically acclaimed author of the Emperor series comes a sweeping
+  novel chronicling the rise to power of Genghis Khan, one of the world's most powerful
+  and fearsome rulers, from his tragic beginnings, to the murder of his father, to
+  his legendary exploits as a feared warrior who conquered much of the known world.
+  Reprint.
 subjects:
-- Kings and rulers
-- Fiction
-- Mongols
-- Historical Fiction
-- History
-- Fantasy fiction
-- Juvenile fiction
-- Fireworks
-- Courage
-- Fiction, historical, general
-- Fiction, biographical
-- Mongolia, fiction
-- Family Saga
-- Adventure
-- Historical
-- General
-- Children's fiction
-- Short stories
+- fiction
 recommendations:
 - the-gates-of-rome
-- world-without-end
-- the-wee-free-men
-- the-system-of-the-world
-- the-silver-pigs
+- einstein-s-shutter
+- queen-of-storms
+- blackout
+- the-waking-fire
 series_name: Conqueror
 series_index: 1.0
 review_needs_generation: false

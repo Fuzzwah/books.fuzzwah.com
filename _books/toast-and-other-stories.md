@@ -13,19 +13,18 @@ year_published: 2005
 publisher: Cosmos Books (OH)
 binding: Paperback
 cover: toast-and-other-stories.jpg
-blurb: American Short stories, Comics & graphic novels, general, Fiction (fictional
-  works by one author), Short stories
+blurb: 'Short story collection containing such gems as "Antibodies," "Bear Trap,"
+  "Extracts from the Club Diary," "A Colder War," "TOAST: A con report," "A Boy and
+  His God," "Ship of Fools," "Dechlorinating the Moderator," "Yellow Snow", "Big Brother
+  Iron", "Lobsters".'
 subjects:
-- American Short stories
-- Comics & graphic novels, general
-- Fiction (fictional works by one author)
-- Short stories
+- comics & graphic novels
 recommendations:
-- imperial-earth
-- genghis-birth-of-an-empire
-- the-mongoliad-book-two
-- singularity-sky
 - iron-sunrise
+- singularity-sky
+- the-traders-war
+- neptune-s-brood
+- the-bloodline-feud
 series_name: ''
 series_index: ''
 review_needs_generation: false

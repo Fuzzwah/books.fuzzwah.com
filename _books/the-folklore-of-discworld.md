@@ -13,21 +13,18 @@ year_published: 2008
 publisher: Doubleday
 binding: Hardcover
 cover: the-folklore-of-discworld.jpg
-blurb: Contains additional material on Unseen Academicals
+blurb: '"A beginner''s guide to British and European folklore as reflected, celebrated
+  and affectionately libelled in the phenomenally successful Discworld series. Co-written
+  by Terry Pratchett and renowned British folklorist Jacqueline Simpson." -- Provided
+  by publisher.'
 subjects:
-- Themes, motives
-- Discworld (Imaginary place)
-- Folklore in literature
-- Discworld (imaginary place), fiction
-- Fiction, fantasy, general
-- Fantasy fiction
-- Folklore, themes, motives
+- fiction
 recommendations:
-- wyrd-sisters
-- small-gods
-- going-postal
-- feet-of-clay
+- snuff
+- lords-and-ladies
+- the-light-fantastic
 - equal-rites
+- a-hat-full-of-sky
 series_name: ''
 series_index: ''
 review_needs_generation: false

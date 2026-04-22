@@ -13,27 +13,15 @@ year_published: 2009
 publisher: Macmillan Pub Ltd
 binding: Paperback
 cover: the-line-of-polity.jpg
-blurb: Outlink station Miranda has been destroyed by a nanomycelium and the very nature
-  of this sabotage suggests that the alien bioconstruct Dragon is somehow involved.
-  Agent Cormac must investigate this, also navigate the difficulties of Masada, a
-  world about to be subsumed as the Line of Polity is drawn across it. The wilderness
-  of Masada is without breathable air and full of dangers. Roaming out there is the
-  rogue biophysicist Skellor, who controls something so potent that Polity Als will
-  stop at nothing to prevent him using it and that's besides the monstrous hooders,
-  siluroynes and the weird and terrible gabbleducks ... " --B.cover.
+blurb: Full-scale action SF by one of Britain's most popular new writers.
 subjects:
-- Imaginary places
-- Fiction
-- Imaginary wars and battles
-- Human-alien encounters
-- Artificial intelligence
-- Science fiction
+- fiction
 recommendations:
-- ringworld
-- the-three-body-problem
-- the-dark-forest
-- false-gods
-- death-s-end
+- line-war
+- gridlinked
+- brass-man
+- polity-agent
+- infinity-engine
 series_name: Agent Cormac
 series_index: 2.0
 review_needs_generation: false

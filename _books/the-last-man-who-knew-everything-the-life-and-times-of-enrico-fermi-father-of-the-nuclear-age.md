@@ -4,7 +4,7 @@ slug: the-last-man-who-knew-everything-the-life-and-times-of-enrico-fermi-father
 title: 'The Last Man Who Knew Everything: The Life and Times of Enrico Fermi, Father
   of the Nuclear Age'
 author: David N. Schwartz
-isbn: '9780465072927'
+isbn: '9780465093120'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -19,26 +19,19 @@ blurb: 'The definitive biography of the brilliant, charismatic, and very human p
   what no one had before: a nuclear chain reaction. At the forefront of this breakthrough
   stood Enrico Fermi. Straddling the ages of classical physics and quantum mechanics,
   equally at ease with theory and experiment, Fermi truly was the last man who knew
-  everything--at least about physics. But he was also a complex figure who was a part
-  of both the Italian Fascist Party and the Manhattan Project, and a less-than-ideal
+  everything -- at least about physics. But he was also a complex figure who was a
+  part of both the Italian Fascist Party and the Manhattan Project, and a less-than-ideal
   father and husband who nevertheless remained one of history''s greatest mentors.
   Based on new archival material and exclusive interviews, The Last Man Who Knew Everything
   lays bare the enigmatic life of a colossus of twentieth century physics.'
 subjects:
-- Nuclear physicists
-- Physicists
-- Biography
-- Physicists, biography
-- Nuclear physics, history
-- New York Times reviewed
-- BIOGRAPHY & AUTOBIOGRAPHY / Science & Technology
-- SCIENCE / History
+- biography & autobiography
 recommendations:
-- thinking-fast-and-slow
-- the-rise-and-fall-of-the-dinosaurs-a-new-history-of-a-lost-world
-- the-new-digital-age-reshaping-the-future-of-people-nations-and-business
-- the-body-a-guide-for-occupants
-- talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know
+- the-making-of-the-atomic-bomb
+- mars-rover-curiosity-an-inside-account-from-curiosity-s-chief-engineer
+- the-rational-optimist-how-prosperity-evolves
+- sapiens-a-brief-history-of-humankind
+- cook
 series_name: ''
 series_index: ''
 review_needs_generation: false

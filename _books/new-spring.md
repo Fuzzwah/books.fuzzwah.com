@@ -13,39 +13,26 @@ year_published: 2004
 publisher: Orbit
 binding: Paperback
 cover: new-spring.jpg
-blurb: "Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated\
-  \ millions of readers around the globe with its scope, originality, and compelling\
-  \ characters.\r\n\r\nThe Wheel of Time turns and Ages come and go, leaving memories\
-  \ that become legend. Legend fades to myth, and even myth is long forgotten when\
-  \ the Age that gave it birth returns again. In the Third Age, an Age of Prophecy,\
-  \ the World and Time themselves hang in the balance. What was, what will be, and\
-  \ what is, may yet fall under the Shadow.\r\n\r\nFor three days battle has raged\
-  \ in the snow around the great city of Tar Valon. In the city, a Foretelling of\
-  \ the future is uttered. On the slopes of Dragonmount, the immense mountain that\
-  \ looms over the city, is born an infant prophesied to change the world. That child\
-  \ must be found before the forces of the Shadow have an opportunity to kill him.\r\
-  \n\r\nMoiraine Damodred, a young Accepted soon to be raised to Aes Sedai, and Lan\
-  \ Mandragoran, a soldier fighting in the battle, are set on paths that will bind\
-  \ their lives together. But those paths are filled with complications and dangers,\
-  \ for Moiraine, of the Royal House of Cairhien, whose king has just died, and Lan,\
-  \ considered the uncrowned king of a nation long dead, find their lives threatened\
-  \ by the plots of those seeking power.\r\n\r\n\"New Spring\" related some of these\
-  \ events, in compressed form; New Spring: The Novel tells the whole story."
+blurb: The city of Canluum lies close to the scarred and desolate wastes of the Blight,
+  a walled haven from the dangers away to the north, and a refuge from the ill works
+  of those who serve the Dark One. Or so it is said. The city that greets Al'Lan Mandragoran,
+  exiled king of Malkier and the finest swordsman of his generation, is instead one
+  that is rife with rumour and the whisperings of Shadowspawn. Proof, should he have
+  required it, that the Dark One grows powerful once more and that his minions are
+  at work throughout the lands. And yet it is within Canluum's walls that Lan will
+  meet a woman who will shape his destiny. Moiraine is a young and powerful Aes Sedai
+  who has journeyed to the city in search of a bondsman. She requires aid in a desperate
+  quest to prove the truth of a vague and largely discredited prophecy - one that
+  speaks of a means to turn back the shadow, and of a child who may be the dragon
+  reborn.
 subjects:
-- Fiction, fantasy, general
-- Prophecy
-- Fiction
-- Good and evil
-- Fiction, fantasy, epic
-- American literature
-- series:The Wheel of Time
-- Fantasy fiction
+- fantasy fiction
 recommendations:
-- the-well-of-ascension
-- before-they-are-hanged
-- shadow-claw
+- the-dharma-bums
+- the-lies-of-the-ajungo
 - last-argument-of-kings
-- the-way-of-kings
+- matter
+- the-brain-that-changes-itself-stories-of-personal-triumph-from-the-frontiers-of-brain-science
 series_name: The Wheel of Time
 series_index: 0.0
 review_needs_generation: false

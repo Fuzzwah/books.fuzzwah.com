@@ -3,7 +3,7 @@ layout: book
 slug: the-brothers-karamazov
 title: The Brothers Karamazov
 author: Fyodor Dostoevsky
-isbn: '9781596440777'
+isbn: '9781977518255'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,52 +13,24 @@ year_published: 2005
 publisher: Hovel Audio
 binding: Audiobook
 cover: the-brothers-karamazov.jpg
-blurb: "The Brothers Karamazov, Dostoevsky’s crowning achievement, is a tale of patricide\
-  \ and family rivalry that embodies the moral and spiritual dissolution of an entire\
-  \ society (Russia in the 1870s). It created a national furor comparable only to\
-  \ the excitement stirred by the publication, in 1866, of Crime and Punishment. To\
-  \ Dostoevsky, The Brothers Karamazov captured the quintessence of Russian character\
-  \ in all its exaltation, compassion, and profligacy. Significantly, the book was\
-  \ on Tolstoy’s bedside table when he died. Readers in every language have since\
-  \ accepted Dostoevsky’s own evaluation of this work and have gone further by proclaiming\
-  \ it one of the few great novels of all ages and countries.\r\n([source][1])"
-subjects:
-- Literature - Classics / Criticism
-- Russian
-- 'Literature: Classics'
-- Classics
-- Literary
-- 19th century fiction
-- Russian Novel
-- Crime and criminals
-- Russian literature
-- Fiction
-- fiction classics
-- literary fiction
-- murder
-- Brothers
-- Fathers and sons
-- Social life and customs
-- Romance russo
-- Criticism and interpretation
-- Long Now Manual for Civilization
-- Literature
-- Collections
-- Indexes
-- Translations into English
-- Ancient History
-- History
-- Doctrines
-- Dominicans. English Province
-- Catholic Church
-- Dominicans
-- Continental european fiction (fictional works by one author)
+blurb: The Brothers Karamazov Karamazovy, pronounced , also translated as The Karamazov
+  Brothers, is the final novel by the Russian author Fyodor Dostoyevsky. Dostoyevsky
+  spent nearly two years writing The Brothers Karamazov, which was published as a
+  serial in The Russian Messenger from January 1879 to November 1880. The author died
+  less than four months after its publication.The Brothers Karamazov is a passionate
+  philosophical novel set in 19th-century Russia, that enters deeply into the ethical
+  debates of God, free will, and morality. It is a spiritual drama of moral struggles
+  concerning faith, doubt, judgment, and reason, set against a modernizing Russia,
+  with a plot which revolves around the subject of patricide. Dostoyevsky composed
+  much of the novel in Staraya Russa, which inspired the main setting. Since its publication,
+  it has been acclaimed as one of the supreme achievements in world literature.
+subjects: []
 recommendations:
-- the-devil-in-the-white-city
-- nineteen-eighty-four
-- guns-germs-and-steel-the-fates-of-human-societies
-- cryptonomicon
-- altered-carbon
+- fallen-angels
+- genghis-birth-of-an-empire
+- questions-for-a-soldier
+- pandora-s-star
+- eyes-of-the-void
 series_name: ''
 series_index: ''
 review_needs_generation: false

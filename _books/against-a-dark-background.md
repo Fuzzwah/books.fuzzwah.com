@@ -13,28 +13,17 @@ year_published: 2009
 publisher: Orbit
 binding: Paperback
 cover: against-a-dark-background.jpg
-blurb: Sharrow was once the leader of a personality-attuned combat team in one of
-  the sporadic little commercial wars in the civilization based around the planet
-  Golter.  Now she is hunted by the Huhsz, a religious cult which believes that she
-  is the last obstacle before the faith's apotheosis, and her only hope of escape
-  is to find the last of the apocalyptically powerful Lazy Guns before the Huhsz find
-  her.Her journey through the exotic Golterian system is a destructive and savage
-  odyssey into her past, and that of her family and of the system itself.
+blurb: Fresh off the bestselling success of "Consider Phlebas" and "Use of Weapons,"Banks
+  traverses an amazing new universe in his latest space adventure--filledwith incredible
+  characters, exotic adventure, unbounded imagination, and darkwit.
 subjects:
-- Fiction
-- Science Fiction
-- Science Fiction & Fantasy
-- Fiction, science fiction, general
-- Fiction, science fiction, action & adventure
-- Women soldiers
-- Assassins
-- Fiction, science fiction, space opera
+- fiction
 recommendations:
-- the-reality-dysfunction
-- the-martian
-- the-hydrogen-sonata
-- the-windup-girl
-- the-dreaming-void
+- the-player-of-games
+- surface-detail
+- transition
+- consider-phlebas
+- matter
 series_name: ''
 series_index: ''
 review_needs_generation: false

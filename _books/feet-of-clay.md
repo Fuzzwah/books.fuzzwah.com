@@ -13,35 +13,17 @@ year_published: 2005
 publisher: Corgi
 binding: Paperback
 cover: feet-of-clay.jpg
-blurb: Nineteenth in the Discworld universe and third entry of the City Watch series,
-  this novel follows Captain Carrot, Commander Vimes, and the rest of the Night Watch
-  as they attempt to unravel the mystery of who poisoned Lord Vetinari the Patrician.
+blurb: Someone is murdering old men, the Patrician has been poisoned, the clay workers
+  have started committing suicide, and there is a werewolf suffering from pre-lunar
+  tension.
 subjects:
-- Discworld (Imaginary Place)
-- Science Fiction
-- Fantasy
-- Samuel Vimes (Fictitious character)
-- Fiction
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- 'Carrot (fictitious character : pratchett), fiction'
-- Fiction, humorous
-- Drama (dramatic works by one author)
-- Science fiction, fantasy, horror
-- Fantasy fiction
-- Powieść fantastyczna angielska
-- Tłumaczenia polskie
-- Brujas
-- Witches
-- Literatura inglesa
-- Ficción
-- Golems
+- fiction
 recommendations:
-- jingo
-- small-gods
-- equal-rites
+- maskerade
 - interesting-times
-- wyrd-sisters
+- i-shall-wear-midnight
+- thud
+- unseen-academicals
 series_name: Discworld
 series_index: 19.0
 review_needs_generation: false

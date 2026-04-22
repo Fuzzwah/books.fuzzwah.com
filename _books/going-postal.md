@@ -26,34 +26,13 @@ blurb: 'Suddenly, condemned arch-swindler Moist von Lipwig found himself with a 
   the mail, continue breathing, get the girl, and specially deliver that invaluable
   commodity that every being, human or otherwise, requires: hope.'
 subjects:
-- Fiction
-- Civil service
-- Postal service
-- Discworld (Imaginary place)
-- Fantasy fiction
-- Drama (dramatic works by one author)
-- Drama
-- English Fantasy drama
-- Satire
-- English literature
-- Fiction, humorous
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- Fiction, humorous, general
-- Literature and fiction (general)
-- Fiction, general
-- Fantasy
-- Disque-monde (Lieu imaginaire)
-- Romans, nouvelles
-- Postes
-- Postal service in fiction
-- Civil service in fiction
+- fiction
 recommendations:
-- wyrd-sisters
-- interesting-times
-- thief-of-time
-- moving-pictures
 - making-money
+- night-watch
+- hogfather
+- interesting-times
+- maskerade
 series_name: Discworld
 series_index: 33.0
 review_needs_generation: false

@@ -13,26 +13,17 @@ year_published: 1994
 publisher: Ballantine Books
 binding: Mass Market Paperback
 cover: the-iron-hand-of-mars.jpg
-blurb: Fiction, Marcus Didius Falco (Fictitious character), Private investigators,
-  Private investigators in fiction, Rome in fiction, History, Fiction, mystery & detective,
-  hard-boiled, Fiction, historical, general
+blurb: 'Roman history & the detective story meet: Marcus Didius Falco, a private eye
+  in 70 a.d., becomes involved with a rebel chief, a priestess, a legion, & a missing
+  legate.'
 subjects:
-- Fiction
-- Marcus Didius Falco (Fictitious character)
-- Private investigators
-- Private investigators in fiction
-- Rome in fiction
-- History
-- Fiction, mystery & detective, hard-boiled
-- Fiction, historical, general
-- Rome, fiction
-- Falco, marcus didius (fictitious character), fiction
+- detective and mystery stories
 recommendations:
 - venus-in-copper
 - shadows-in-bronze
 - the-silver-pigs
-- tribune-of-rome
-- the-wolves-of-the-north
+- legion
+- descent-of-angels
 series_name: Marcus Didius Falco
 series_index: 4.0
 review_needs_generation: false

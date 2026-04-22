@@ -13,36 +13,17 @@ year_published: 1976
 publisher: G.P. Putnam's Sons (NY)
 binding: Hardcover
 cover: children-of-dune.jpg
-blurb: The science fiction masterpiece continues in the "major event,"( Los Angeles
-  Times) Children of Dune. With millions of copies sold worldwide, Frank Herbert's
-  Dune novels stand among the major achievements of the human imagination and one
-  of the most significant sagas in the history of literary science fiction. The Children
-  of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul
-  Muad'Dib, disappeared in the deserts of Arrakis. Like their father, they possess
-  supernormal abilities—making them valuable to their aunt Alia, who rules the Empire.
-  If Alia can obtain the secrets of the twins' prophetic visions, her rule will be
-  absolute. But the twins have their own plans for their destiny.
+blurb: For use in schools and libraries only. On the planet of Aurakis, men, nature,
+  and time attend the messianic and evolutionary growth of Leto and his twin sister
+  Ghanima, children and successors of the mighty Muad'Dib.
 subjects:
-- Dune (Imaginary place)
-- Fiction
-- Fiction in English
-- Science Fiction
-- Dune (imaginary place), fiction
-- Fiction, science fiction, general
-- Fiction, fantasy, general
-- American Science fiction
-- Reading Level-Grade 7
-- Reading Level-Grade 9
-- Reading Level-Grade 8
-- Reading Level-Grade 11
-- Reading Level-Grade 10
-- Reading Level-Grade 12
+- fiction
 recommendations:
-- fahrenheit-451
-- a-canticle-for-leibowitz
-- the-martian
-- neuromancer
-- ship-breaker
+- dune-messiah
+- dune
+- lords-of-uncreation
+- the-expert-systems-champion
+- bear-head
 series_name: Dune
 series_index: 3.0
 review_needs_generation: false

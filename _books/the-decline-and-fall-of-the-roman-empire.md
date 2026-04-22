@@ -3,7 +3,7 @@ layout: book
 slug: the-decline-and-fall-of-the-roman-empire
 title: The Decline and Fall of the Roman Empire
 author: Edward Gibbon
-isbn: 0394604024
+isbn: '9780140433951'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,52 +13,26 @@ year_published: 2003
 publisher: Modern Library
 binding: Paperback
 cover: the-decline-and-fall-of-the-roman-empire.jpg
-blurb: Gibbon's masterpiece, which narrates the history of the Roman Empire from the
-  second century a.d. to its collapse in the west in the fifth century and in the
-  east in the fifteenth century, is widely considered the greatest work of history
-  ever written. This abridgment retains the full scope of the original, but in a compass
-  equivalent to a long novel. Casual readers now have access to the full sweep of
-  Gibbon's narrative, while instructors and students have a volume that can be read
-  in a single term. This unique edition emphasizes elements ignored in all other abridgments--in
-  particular the role of religion in the empire and the rise of Islam.From the Trade
-  Paperback edition.
+blurb: Edward Gibbon's Decline and Fall of the Roman Empire compresses thirteen turbulent
+  centuries into an epic narrative shot through with insight, irony and incisive character
+  analysis. Sceptical about Christianity, sympathetic to the barbarian invaders and
+  the Byzantine Empire, constantly aware of how political leaders often achieve the
+  exact opposite of what they intend, Gibbon was both alert to the broad pattern of
+  events and significant revealing details. For more than seventy years, Penguin has
+  been the leading publisher of classic literature in the English-speaking world.
+  With more than 1,700 titles, Penguin Classics represents a global bookshelf of the
+  best works throughout history and across genres and disciplines. Readers trust the
+  series to provide authoritative texts enhanced by introductions and notes by distinguished
+  scholars and contemporary authors, as well as up-to-date translations by award-winning
+  translators.
 subjects:
-- C.
-- 20 av. J.
-- Open Library Staff Picks
-- Histoire
-- Ancient History
-- Historia
-- Rome
-- Imperio Bizantino
-- open_syllabus_project
-- Byzantine Empire
-- Empire
-- 476 A.D.
-- History
-- Rome -- History -- Empire, 30 B.C.-476 A.D.
-- Byzantine Empire -- History -- To 527.
-- To 527
-- Empire, 30 B.C.-476 A.D.
-- Rome, history, empire, 30 b.c.-476 a.d.
-- Byzantine empire, history
-- Romeinse rijk
-- 15.52 Roman Empire
-- Historia Antiga
-- Historia Antiga - Roma (Sociedade)
-- Historia Antiga - Roma (Politica)
-- Roma (Sociedade)
-- Roma (Politica)
-- Money
-- Balance of payments
-- Império romano (história)
-- Portraits
+- history
 recommendations:
-- world-without-end
-- the-making-of-the-atomic-bomb
-- the-autobiography-of-benjamin-franklin
-- guns-germs-and-steel-the-fates-of-human-societies
-- sapiens-a-brief-history-of-humankind
+- the-storm-before-the-storm-the-beginning-of-the-end-of-the-roman-republic
+- the-mongoliad-book-two
+- the-mongoliad-book-three
+- dark-intelligence
+- blood-of-empire
 series_name: ''
 series_index: ''
 review_needs_generation: false

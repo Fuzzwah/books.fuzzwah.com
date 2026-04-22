@@ -3,7 +3,7 @@ layout: book
 slug: the-tipping-point-how-little-things-can-make-a-big-difference
 title: 'The Tipping Point: How Little Things Can Make a Big Difference'
 author: Malcolm Gladwell
-isbn: 0349113467
+isbn: '9780748113231'
 shelf: read
 my_rating: 4
 date_read: ''
@@ -13,57 +13,23 @@ year_published: 2002
 publisher: Time Warner Book Group
 binding: Paperback
 cover: the-tipping-point-how-little-things-can-make-a-big-difference.jpg
-blurb: "\"New Yorker writer Malcolm Gladwell looks at why major changes in our society\
-  \ so often happen suddenly and unexpectedly. Ideas, behavior, messages, and products,\
-  \ he argues, often spread like outbreaks of infectious disease. Just as a single\
-  \ sick person can start an epidemic of the flu, so too can a few fare-beaters and\
-  \ graffiti artists fuel a subway crime wave, or a satisfied customer fill the empty\
-  \ tables of a new restaurant.\r\n\r\nThese are social epidemics, and the moment\
-  \ when they take off, when they reach their critical mass, is the Tipping Point.\"\
-  .\r\n\r\n\"Gladwell introduces us to the particular personality types who are natural\
-  \ pollinators of new ideas and trends, the people who create the phenomenon of word\
-  \ of mouth. He analyzes fashion trends, smoking, children's television, direct mail,\
-  \ and the early days of the American Revolution for clues about making ideas infectious,\
-  \ and visits a religious commune, a successful high-tech company, and one of the\
-  \ world's greatest salesmen to show how to start and sustain social epidemics.\"\
-  --BOOK JACKET."
+blurb: '''A wonderful page-turner about a fascinating idea that should affect the
+  way every thinking person thinks about the world around him'' Michael Lewis In this
+  brilliant and original book, Malcolm Gladwell explains and analyses the ''tipping
+  point'', that magic moment when ideas, trends and social behaviour cross a threshold,
+  tip and spread like wildfire. Taking a look behind the surface of many familiar
+  occurrences in our everyday world, Gladwell explains the fascinating social dynamics
+  that cause rapid change. ''Hip and hopeful, THE TIPPING POINT is like the idea it
+  describes: concise, elegant but packed with social power. A book for anyone who
+  cares about how society works and how we can make it better'' George Stephanopoulos'
 subjects:
-- Contagion (Social psychology)
-- Business
-- Causation
-- nyt:paperback_business_books=2012-02-25
-- Nonfiction
-- Social psychology
-- Context effects (Psychology)
-- New York Times bestseller
-- Causality
-- Erfolg
-- Produkt
-- Psychologie sociale
-- Effets de contexte (Psychologie)
-- Contagion sociale
-- Public opinion
-- Causalité
-- Social adjustment
-- Sociale processen
-- Vernieuwing
-- Contexte (psychologie)
-- Large type books
-- BUSINESS & ECONOMICS
-- PSYCHOLOGY
-- Social Behavior
-- Diffusion of Innovation
-- Leadership
-- Marketing
-- Group Processes
-- Psychology, social
-- Hm1033 .g53 2002
+- business & economics
 recommendations:
 - outliers-the-story-of-success
-- what-the-dog-saw-and-other-adventures
-- blink-the-power-of-thinking-without-thinking
-- salt-a-world-history
 - talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know
+- blink-the-power-of-thinking-without-thinking
+- what-the-dog-saw-and-other-adventures
+- the-dispossessed
 series_name: ''
 series_index: ''
 review_needs_generation: false

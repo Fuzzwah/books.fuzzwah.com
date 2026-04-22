@@ -13,32 +13,22 @@ year_published: 1996
 publisher: HarperPrism
 binding: Mass Market Paperback
 cover: lords-and-ladies.jpg
-blurb: "The fairies are back - but this time they don't just want your teeth...\r\n\
-  \r\nGranny Weatherwax and her tiny coven are up against real elves.\r\n\r\nIt's\
-  \ Midsummer Night.\r\n\r\nNo times for dreaming...\r\n\r\nWith full supporting cast\
-  \ of dwarfs, wizards, trolls, Morris dancers and one orang-utan. And lots of hey-nonny-nonny\
-  \ and blood all over the place."
+blurb: Although they may feature witches and wizards, vampires and dwarves, along
+  with the occasional odd human, Terry Pratchett's bestselling Discworld novels are
+  grounded firmly in the modern world. Taking humorous aim at all our foibles, each
+  novel reveals our true character and nature. It's a dreamy midsummer's night in
+  the Kingdom of Lancre. But music and romance aren't the only things filling the
+  air. Magic and mischief are afoot, threatening to spoil the royal wedding of King
+  Verence and his favorite witch, Magrat Garlick. Invaded by some Fairie Trash, soon
+  it won't be only champagne that's flowing through the streets ...
 subjects:
-- Fiction
-- Discworld (Imaginary place)
-- Fantasy
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- Granny weatherwax (fictitious character), fiction
-- Drama
-- Fiction, humorous
-- Literature and fiction (general)
-- Literature and fiction, fantasy
-- English Fantasy fiction
-- Translations into Dutch
-- Witches
-- English literature
+- fiction
 recommendations:
 - wyrd-sisters
-- equal-rites
+- snuff
+- the-light-fantastic
 - witches-abroad
-- sourcery
-- maskerade
+- a-hat-full-of-sky
 series_name: Discworld
 series_index: 14.0
 review_needs_generation: false

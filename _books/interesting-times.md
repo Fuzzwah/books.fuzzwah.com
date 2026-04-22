@@ -26,28 +26,13 @@ blurb: '"May you live in interesting times" is the worst thing one can wish on a
   believes there are too many heroes already in the world, yet only one Rincewind.
   And he owes it to the world to keep that one alive for as long as possible.'
 subjects:
-- Fantasy fiction
-- Discworld (Imaginary place)
-- Fiction
-- Fantasy
-- Drama (dramatic works by one author)
-- Fiction, fantasy, general
-- Drama
-- English Fantasy drama
-- Discworld (imaginary place), fiction
-- Fiction, humorous
-- Rincewind the wizard (fictitious character), fiction
-- Science fiction, fantasy, horror
-- Wizards
-- Disque-monde (Lieu imaginaire)
-- Romans, nouvelles
-- English literature
+- fiction
 recommendations:
-- going-postal
-- wyrd-sisters
-- moving-pictures
-- the-last-continent
-- thief-of-time
+- eric
+- night-watch
+- guards-guards
+- maskerade
+- the-last-hero-a-discworld-fable
 series_name: Discworld
 series_index: 17.0
 review_needs_generation: false

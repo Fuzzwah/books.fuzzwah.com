@@ -3,7 +3,7 @@ layout: book
 slug: winter-world
 title: 'Winter World (The Long Winter, #1)'
 author: A.G. Riddle
-isbn: '1940026210'
+isbn: '9781940026220'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,16 +13,15 @@ year_published: 2019
 publisher: Legion Books
 binding: Kindle Edition
 cover: winter-world.jpg
-blurb: Fiction, suspense, Fiction, thrillers, general
+blurb: A global ice age... pushes humanity to the brink of extinction.
 subjects:
-- Fiction, suspense
-- Fiction, thrillers, general
+- fiction
 recommendations:
-- the-tournament
-- reamde
-- great-north-road
-- the-water-knife
-- the-turing-exception
+- the-lost-colony
+- the-solar-war
+- broken-angels
+- wolves
+- the-redemption-of-time-remembrance-of-earths-past
 series_name: The Long Winter
 series_index: 1.0
 review_needs_generation: false

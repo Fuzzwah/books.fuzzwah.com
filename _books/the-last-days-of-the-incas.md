@@ -13,27 +13,17 @@ year_published: 2007
 publisher: Simon & Schuster
 binding: Hardcover
 cover: the-last-days-of-the-incas.jpg
-blurb: 'Incas, Excavations (Archaeology), Antiquities, History, American history:
-  pre-Columbian period, BCE to c 1500, Eroberung, Histoire, Conquest of Peru (1522-1548)
-  fast (OCoLC)fst01352533'
+blurb: From Emmy(-winning documentary filmmaker and author MacQuarrie comes a landmark
+  history of the epic conquest of the mighty Inca Empire, and the decades-long insurgency
+  the Incas waged against the Conquistadors. 20 photos & maps.
 subjects:
-- Incas
-- Excavations (Archaeology)
-- Antiquities
-- History
-- 'American history: pre-Columbian period, BCE to c 1500'
-- Eroberung
-- Histoire
-- Conquest of Peru (1522-1548) fast (OCoLC)fst01352533
-- Peru, history
-- Excavations (archaeology), south america
-- Peru, history, to 1548
+- history
 recommendations:
-- 1491-new-revelations-of-the-americas-before-columbus
-- world-without-end
-- the-system-of-the-world
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
-- the-decline-and-fall-of-the-roman-empire
+- alexander-the-great-journey-to-the-end-of-the-earth
+- the-rational-optimist-how-prosperity-evolves
+- blackout
+- thinking-fast-and-slow
+- pandora-s-star
 series_name: ''
 series_index: ''
 review_needs_generation: false

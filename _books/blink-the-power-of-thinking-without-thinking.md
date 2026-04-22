@@ -3,7 +3,7 @@ layout: book
 slug: blink-the-power-of-thinking-without-thinking
 title: 'Blink: The Power of Thinking Without Thinking'
 author: Malcolm Gladwell
-isbn: '9780316010665'
+isbn: '9781448713226'
 shelf: read
 my_rating: 4
 date_read: ''
@@ -13,52 +13,23 @@ year_published: 2007
 publisher: Back Bay Books
 binding: Paperback
 cover: blink-the-power-of-thinking-without-thinking.jpg
-blurb: Intuition is not some magical property that arises unbidden from the depths
-  of our mind. It is a product of long hours and intelligent design, of meaningful
-  work environments and particular rules and principles. This book shows us how we
-  can hone our instinctive ability to know in an instant, helping us to bring out
-  the best in our thinking and become better decision-makers in our homes, offices
-  and in everyday life. Just as he did with his revolutionary theory of the tipping
-  point, Gladwell reveals how the power of 'blink' could fundamentally transform our
-  relationships, the way we consume, create and communicate, how we run our businesses
-  and even our societies.You'll never think about thinking in the same way again.
+blurb: How do we think without thinking, seem to make choices in an instant--in the
+  blink of an eye--that actually aren't as simple as they seem? Why are some people
+  brilliant decision makers, while others are consistently inept? Why do some people
+  follow their instincts and win, while others end up stumbling into error? And why
+  are the best decisions often those that are impossible to explain to others? Drawing
+  on cutting-edge neuroscience and psychology, the author reveals that great decision
+  makers aren't those who process the most information or spend the most time deliberating,
+  but those who have perfected the art of filtering the very few factors that matter
+  from an overwhelming number of variables.
 subjects:
-- Intuition
-- Education
-- Recovery
-- Business
-- Intuïtie
-- Prise de décision (Psychologie)
-- Open Library Staff Picks
-- Besluitvorming
-- Jugement (Logique)
-- History
-- New York Times bestseller
-- Pensée
-- nyt:paperback_nonfiction=2008-05-17
-- Nonfiction
-- Popular Works
-- Decision making
-- Psychology
-- Intuición
-- Decisiones, Teoría de las
-- Large type books
-- Prise de décision
-- Prise de décision (Relations humaines)
-- Toma de decisiones
-- Développement personnel
-- Sciences cognitives
-- Relations humaines
-- Aspects psychologiques
-- SELF-HELP
-- Cognitive Psychology & Cognition
-- LEADERSHIP
+- decision making
 recommendations:
+- outliers-the-story-of-success
+- talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know
 - what-the-dog-saw-and-other-adventures
 - the-tipping-point-how-little-things-can-make-a-big-difference
-- outliers-the-story-of-success
-- the-devil-in-the-white-city
-- the-autobiography-of-benjamin-franklin
+- dealers-of-lightning
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -13,24 +13,30 @@ year_published: 2022
 publisher: Tor
 binding: Kindle Edition
 cover: children-of-memory.jpg
-blurb: "Sequel to Children of Ruin.\r\n\r\nOn Imir, Captain Holt founded a hopeful\
-  \ new colony on an empty world. But generations later, his descendants are struggling\
-  \ to survive. As harvests worsen and equipment fails, strangers appear in a town\
-  \ where everyone knows their neighbour. Now the community fears it's being observed\
-  \ - that they're not alone. And they'd be right.\r\n\r\nExplorers from the stars\
-  \ have come, in secret, to help. Confident of their superior technology, they begin\
-  \ to study their long-lost cousins from Earth. Yet the visitors aren't the only\
-  \ watchers. When the starfarers discover the scale of their mistake, it will be\
-  \ far too late to escape."
+blurb: From the award-winning master of sci-fi Adrian Tchaikovsky, Children of Memory
+  is the unmissable follow-up space opera to the highly acclaimed Children of Time
+  and Children of Ruin. They dreamed of a new home. They woke to a nightmare. On Imir,
+  Captain Holt founded a new colony on an empty world. In the process, he created
+  hope and a new future for humanity. But, generations later, his descendants are
+  struggling to survive. As harvests worsen and equipment fails, strangers appear
+  in a town where everyone knows their neighbour. Now the inexplicable lurks in the
+  woods and the community fears that it's being observed – that they’re not alone.
+  They’d be right, as explorers from the stars have arrived in secret to help this
+  lost outpost. Confident of their superior technology, and overseen by the all-knowing
+  construct of Doctor Avrana Kern, they begin to study their long-lost cousins from
+  Earth. Yet the planet hides deeper mysteries. It seems the visitors aren’t the only
+  watchers. And when the starfarers discover the scale of their mistake, it will be
+  far too late to escape. Children of Memory by Arthur C. Clarke Award-winning author
+  Adrian Tchaikovsky is a far-reaching space opera spanning generations, species and
+  galaxies.
 subjects:
-- Fiction
-- Fiction, science fiction, general
+- fiction
 recommendations:
-- dogs-of-war
+- children-of-ruin
 - children-of-time
-- cage-of-souls
-- the-midnight-library
-- the-book-of-elsewhere
+- alien-clay
+- shards-of-earth
+- eyes-of-the-void
 series_name: Children of Time
 series_index: 3.0
 review_needs_generation: false

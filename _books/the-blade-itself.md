@@ -13,34 +13,28 @@ year_published: 2007
 publisher: Gollancz
 binding: Paperback
 cover: the-blade-itself.jpg
-blurb: "Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught\
-  \ in one feud too many, he’s on the verge of becoming a dead barbarian – leaving\
-  \ nothing behind him but bad songs, dead friends, and a lot of happy enemies.\r\n\
-  Nobleman Captain Jezal dan Luthar, dashing officer, and paragon of selfishness,\
-  \ has nothing more dangerous in mind than fleecing his friends at cards and dreaming\
-  \ of glory in the fencing circle. But war is brewing, and on the battlefields of\
-  \ the frozen North they fight by altogether bloodier rules.\r\n\r\nInquisitor Glokta,\
-  \ cripple turned torturer, would like nothing better than to see Jezal come home\
-  \ in a box. But then Glokta hates everyone: cutting treason out of the Union one\
-  \ confession at a time leaves little room for friendship. His latest trail of corpses\
-  \ may lead him right to the rotten heart of government, if he can stay alive long\
-  \ enough to follow it.\r\n\r\nEnter the wizard, Bayaz. A bald old man with a terrible\
-  \ temper and a pathetic assistant, he could be the First of the Magi, he could be\
-  \ a spectacular fraud, but whatever he is, he's about to make the lives of Logen,\
-  \ Jezal, and Glotka a whole lot more difficult.\r\n\r\nMurderous conspiracies rise\
-  \ to the surface, old scores are ready to be settled, and the line between hero\
-  \ and villain is sharp enough to draw blood."
+blurb: Inquisitor Glokta, a crippled and increasingly bitter relic of the last war,
+  former fencing champion turned torturer extraordinaire, is trapped in a twisted
+  and broken body - not that he allows it to distract him from his daily routine of
+  torturing smugglers. Nobleman, dashing officer and would-be fencing champion Captain
+  Jezal dan Luthar is living a life of ease by cheating his friends at cards. Vain,
+  shallow, selfish and self-obsessed, the biggest blot on his horizon is having to
+  get out of bed in the morning to train with obsessive and boring old men. And Logen
+  Ninefingers, an infamous warrior with a bloody past, is about to wake up in a hole
+  in the snow with plans to settle a blood feud with Bethod, the new King of the Northmen,
+  once and for all - ideally by running away from it. But as he's discovering, old
+  habits die really, really hard indeed . . . . . . especially when Bayaz gets involved.
+  A bald old man with a terrible temper and a pathetic assistant, he could be the
+  First of the Magi, he could be a spectacular fraud, but whatever he is, he's about
+  to make the lives of Glotka, Jezal and Logen a whole lot more difficult . . .
 subjects:
-- Fiction, fantasy, general
-- Fantasy fiction
-- Fantasy
-- Fiction
+- antiheroes
 recommendations:
-- wyrd-sisters
-- the-hero-of-ages
-- small-gods
-- ship-of-destiny
-- good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
+- last-argument-of-kings
+- before-they-are-hanged
+- red-country
+- a-little-hatred
+- sharp-ends
 series_name: The First Law
 series_index: 1.0
 review_needs_generation: false

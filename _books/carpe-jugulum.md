@@ -13,37 +13,17 @@ year_published: 2000
 publisher: Turtleback Books
 binding: School & Library Binding
 cover: carpe-jugulum.jpg
-blurb: "Carpe Jugulum (Latin for \"seize the throat\", cf. Carpe diem) is a comic\
-  \ fantasy novel by Terry Pratchett, the twenty-third in the Discworld series. It\
-  \ was first published in 1998.\r\n\r\nIn Carpe Jugulum, Terry Pratchett pastiches\
-  \ the traditions of vampire literature, playing with the mythic archetypes and featuring\
-  \ a tongue-in-cheek reversal of 'vampyre' subculture with young vampires who wear\
-  \ bright clothes, drink wine, and stay up until noon. (description taken from [Wikipedia][1])\r\
-  \n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Carpe_Jugulum"
+blurb: When Uberwald's undead population, the Magpyrs, begins to invade Lancre, a
+  priest forges an tentative allience with the local witches to prevent the kingdom
+  from being overrun
 subjects:
-- Discworld (Imaginary place)
-- Fiction
-- Science Fiction
-- Fantasy
-- Vampires
-- Priests
-- Witches
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- Granny weatherwax (fictitious character), fiction
-- English literature
-- Fantasy fiction
-- English Fantasy fiction
-- Translations into Polish
-- Disque-monde (Lieu imaginaire)
-- Romans, nouvelles
-- Sorcières
+- discworld (imaginary place)
 recommendations:
 - wyrd-sisters
-- thief-of-time
-- equal-rites
-- going-postal
 - lords-and-ladies
+- the-fifth-elephant
+- witches-abroad
+- reaper-man
 series_name: Discworld
 series_index: 23.0
 review_needs_generation: false

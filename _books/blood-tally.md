@@ -16,9 +16,9 @@ cover: blood-tally.jpg
 blurb: ''
 subjects: []
 recommendations:
-- in-the-shadow-of-lightning
-- wrath-of-empire
 - uncanny-collateral
+- in-the-shadow-of-lightning
+- the-mad-lancers
 - the-crimson-campaign
 - the-autumn-republic
 series_name: Valkyrie Collections

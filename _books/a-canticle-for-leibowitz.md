@@ -13,52 +13,27 @@ year_published: 2006
 publisher: Eos
 binding: Paperback
 cover: a-canticle-for-leibowitz.jpg
-blurb: Highly unusual After the Holocaust novel.  In the far future, 20th century
-  texts are preserved in a monastery, as "sacred  books".  The monks preserve for
-  centuries what little science there is, and have saved the science texts and blueprints
-  from destruction many times, also making beautifully illuminated copies. As the
-  story opens to a world run on a basically fuedal lines, science is again becoming
-  fashionable, as a hobby of rich men, at perhaps 18th or early 19th century level
-  of comprehesion. A local lord, interested in science, comes to the monastery. What
-  happens after that is an exquisitely told tale, stunning and extremely moving, totally
-  different from any other After the Holocaust story
+blurb: Winner of the 1961 Hugo Award for Best Novel and widely considered one of the
+  most accomplished, powerful, and enduring classics of modern speculative fiction,
+  Walter M. Miller, Jr.'s A Canticle for Leibowitz is a true landmark of twentieth-century
+  literature -- a chilling and still-provocative look at a post-apocalyptic future.
+  In a nightmarish ruined world slowly awakening to the light after sleeping in darkness,
+  the infant rediscoveries of science are secretly nourished by cloistered monks dedicated
+  to the study and preservation of the relics and writings of the blessed Saint Isaac
+  Leibowitz. From here the story spans centuries of ignorance, violence, and barbarism,
+  viewing through a sharp, satirical eye the relentless progression of a human race
+  damned by its inherent humanness to recelebrate its grand foibles and repeat its
+  grievous mistakes. Seriously funny, stunning, and tragic, eternally fresh, imaginative,
+  and altogether remarkable, A Canticle for Leibowitz retains its ability to enthrall
+  and amaze. It is now, as it always has been, a masterpiece.
 subjects:
-- Hugo Award Winner
-- award:hugo_award=1961
-- award:hugo_award=novel
-- American Science fiction
-- apocalypse
-- nuclear war
-- civilization
-- science fiction
-- church versus state
-- Long Now Manual for Civilization
-- Monks
-- Fiction
-- Monasticism and religious orders
-- Mutation (Biology)
-- Nuclear warfare
-- Christianity
-- Monastic and religious life
-- Reading Level-Grade 7
-- Reading Level-Grade 9
-- Reading Level-Grade 8
-- Reading Level-Grade 11
-- Reading Level-Grade 10
-- Reading Level-Grade 12
-- Social aspects
-- Radioactive fallout survival
-- Science
-- American fiction
-- Fiction, science fiction, general
-- Science fiction, history and criticism
-- New York Times reviewed
+- fiction
 recommendations:
-- neuromancer
-- fahrenheit-451
-- children-of-dune
-- the-martian
-- dune
+- the-three-body-problem
+- seveneves
+- red-mars
+- the-dark-forest
+- blackout
 series_name: St. Leibowitz
 series_index: 1.0
 review_needs_generation: false

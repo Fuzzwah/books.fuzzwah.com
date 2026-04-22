@@ -13,40 +13,29 @@ year_published: 2000
 publisher: Bantam Books
 binding: Paperback
 cover: snow-crash.jpg
-blurb: "Within the Metaverse, Hiro is offered a datafile named Snow Crash by a man\
-  \ named Raven who hints that it is a form of narcotic. Hiro's friend and fellow\
-  \ hacker Da5id views a bitmap image contained in the file which causes his computer\
-  \ to crash and Da5id to suffer brain damage in the real world.\r\n\r\nThis is the\
-  \ future we now live where all can be brought to life in the metaverse and now all\
-  \ can be taken away. Follow on an adventure with Hiro and YT as they work with the\
-  \ mob to uncover a plot of biblical proportions."
+blurb: The “brilliantly realized” (The New York Times Book Review) breakthrough novel
+  from visionary author Neal Stephenson, a modern classic that predicted the metaverse
+  and inspired generations of Silicon Valley innovators Hiro lives in a Los Angeles
+  where franchises line the freeway as far as the eye can see. The only relief from
+  the sea of logos is within the autonomous city-states, where law-abiding citizens
+  don’t dare leave their mansions. Hiro delivers pizza to the mansions for a living,
+  defending his pies from marauders when necessary with a matched set of samurai swords.
+  His home is a shared 20 X 30 U-Stor-It. He spends most of his time goggled in to
+  the Metaverse, where his avatar is legendary. But in the club known as The Black
+  Sun, his fellow hackers are being felled by a weird new drug called Snow Crash that
+  reduces them to nothing more than a jittering cloud of bad digital karma (and IRL,
+  a vegetative state). Investigating the Infocalypse leads Hiro all the way back to
+  the beginning of language itself, with roots in an ancient Sumerian priesthood.
+  He’ll be joined by Y.T., a fearless teenaged skateboard courier. Together, they
+  must race to stop a shadowy virtual villain hell-bent on world domination.
 subjects:
-- American Science fiction
-- Open Library Staff Picks
-- ready player one
-- Fiction
-- Science fiction
-- Suspense
-- open_syllabus_project
-- American fiction
-- Fiction, science fiction, general
-- Fiction, humorous
-- Virtual reality
-- Fiction, science fiction, hard science fiction
-- Fiction, humorous, general
-- Fiction, fantasy, general
-- Hackers
-- Computer viruses
-- Cyberpunk culture
-- Cyberspace
-- Sumerian Mythology
-- Long Now Manual for Civilization
+- fiction
 recommendations:
-- neuromancer
-- the-diamond-age-or-a-young-lady-s-illustrated-primer
-- equal-rites
-- do-androids-dream-of-electric-sheep
-- a-canticle-for-leibowitz
+- termination-shock
+- reamde
+- fall-or-dodge-in-hell
+- the-rise-and-fall-of-d-o-d-o
+- seveneves
 series_name: ''
 series_index: ''
 review_needs_generation: false

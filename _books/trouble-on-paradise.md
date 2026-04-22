@@ -13,15 +13,18 @@ year_published: 2017
 publisher: Amazon Digital Services
 binding: ebook
 cover: trouble-on-paradise.jpg
-blurb: series:Expeditionary Force
-subjects:
-- series:Expeditionary Force
+blurb: 'Book ''3.5'' in the ExForce series: While the crew of the UN Expeditionary
+  Force''s pirate starship Flying Dutchman are enjoying a luxury vacation cruise (not!),
+  UNEF troops are still stranded on an alien-controlled planet. Major Emily Perkins
+  and her team are busy picking up the pieces, and it''s not easy, because there is
+  trouble on Paradise...'
+subjects: []
 recommendations:
-- zero-hour
-- specops
-- renegades
+- black-ops
 - paradise
 - mavericks
+- specops
+- zero-hour
 series_name: Expeditionary Force
 series_index: 3.5
 review_needs_generation: false

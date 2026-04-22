@@ -13,28 +13,25 @@ year_published: 2021
 publisher: Tor.com
 binding: Hardcover
 cover: fugitive-telemetry.jpg
-blurb: franchise:The Murderbot Diaries, series:The Murderbot Diaries, form:novella,
-  genre:science fiction, nyt:combined-print-and-e-book-fiction=2021-05-16, New York
-  Times bestseller, Robots, Life on other planets
+blurb: 'The New York Times bestselling security droid with a heart (though it wouldn''t
+  admit it!) is back! Having captured the hearts of readers across the globe (Annalee
+  Newitz says it''s "one of the most humane portraits of a nonhuman I''ve ever read")
+  Murderbot has also established Martha Wells as one of the great SF writers of today.
+  No, I didn''t kill the dead human. If I had, I wouldn''t dump the body in the station
+  mall. When Murderbot discovers a dead body on Preservation Station, it knows it
+  is going to have to assist station security to determine who the body is (was),
+  how they were killed (that should be relatively straightforward, at least), and
+  why (because apparently that matters to a lot of people—who knew?) Yes, the unthinkable
+  is about to happen: Murderbot must voluntarily speak to humans! Again! A new standalone
+  adventure in the New York Times-bestselling, Hugo and Nebula Award winning series!'
 subjects:
-- franchise:The Murderbot Diaries
-- series:The Murderbot Diaries
-- form:novella
-- genre:science fiction
-- nyt:combined-print-and-e-book-fiction=2021-05-16
-- New York Times bestseller
-- Robots
-- Life on other planets
-- Human-computer interaction
-- Fiction
-- Artificial intelligence
-- Androids
+- fiction
 recommendations:
 - artificial-condition
+- exit-strategy
 - all-systems-red
-- system-collapse
 - network-effect
-- rogue-protocol
+- system-collapse
 series_name: The Murderbot Diaries
 series_index: 6.0
 review_needs_generation: false

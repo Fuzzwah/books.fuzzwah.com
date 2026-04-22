@@ -13,39 +13,25 @@ year_published: 2021
 publisher: Basic Books
 binding: Hardcover
 cover: firepower-how-weapons-shaped-warfare.jpg
-blurb: '"The history of warfare cannot be fully understood without considering the
-  technology of killing. In Firepower, acclaimed historian Paul Lockhart tells the
-  story of military technology from the Renaissance to the dawn of the atomic era
-  -- five-hundred-year-long "age of firepower" during which the evolution of weaponry
-  transformed the conduct of warfare in the West. Weapons technology had always influenced
-  warfare. But the introduction of gunpowder weapons at the close of the Middle Ages
-  made military technology the largest single factor shaping warfare''s tactics, strategy,
-  and logistics. Over the five centuries leading up to World War II, the art of war
-  revolved around the ever-more-effective delivery of firepower, and the driving force
-  of weapons development was the compulsion to make that possible. But for centuries,
-  even as it became more effective, military weaponry remained simple and affordable
-  enough that nearly any state could afford to equip a respectable army; weapons could
-  be used and used again until they physically wore out. That all changed, very suddenly,
-  around 1870. Widespread industrialization and rapid advances in metallurgy and chemistry
-  meant that by the start of World War I, only a handful of great powers could afford
-  to manufacture their own weapons. Revolutions in military technology, in short,
-  triggered a revolution in the structure of power in the West, significantly reducing
-  the number of nations that could act assertively in international politics -- and
-  reducing the others to a condition of permanent subordination. Going beyond the
-  battlefield to consider the profound political and social contexts of armed conflict,
-  Firepower ultimately reveals how the evolution of weapons technology, and the uses
-  to which it has been put, have together transformed human history"--'
+blurb: How military technology has transformed the world The history of warfare cannot
+  be fully understood without considering the technology of killing. In Firepower,
+  acclaimed historian Paul Lockhart tells the story of the evolution of weaponry and
+  how it transformed not only the conduct of warfare but also the very structure of
+  power in the West, from the Renaissance to the dawn of the atomic era. Across this
+  period, improvements in firepower shaped the evolving art of war. For centuries,
+  weaponry had remained simple enough that any state could equip a respectable army.
+  That all changed around 1870, when the cost of investing in increasingly complicated
+  technology soon meant that only a handful of great powers could afford to manufacture
+  advanced weaponry, while other countries fell behind. Going beyond the battlefield,
+  Firepower ultimately reveals how changes in weapons technology reshaped human history.
 subjects:
-- Firepower
-- History
-- Military weapons
-- TECHNOLOGY & ENGINEERING / Military Science
+- history
 recommendations:
-- hero-of-two-worlds-the-marquis-de-lafayette-in-the-age-of-revolution
-- world-without-end
-- what-the-dog-saw-and-other-adventures
-- voyage
-- venus-in-copper
+- chasing-new-horizons-inside-the-epic-first-mission-to-pluto
+- the-mercy-of-gods
+- einstein-s-shutter
+- the-brain-that-changes-itself-stories-of-personal-triumph-from-the-frontiers-of-brain-science
+- how-the-scots-invented-the-modern-world-the-true-story-of-how-western-europes-poorest-nation-created-our-world-everything-in-it
 series_name: ''
 series_index: ''
 review_needs_generation: false

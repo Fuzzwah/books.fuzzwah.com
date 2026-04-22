@@ -13,63 +13,32 @@ year_published: 2003
 publisher: Penguin Books
 binding: Paperback
 cover: the-eyre-affair.jpg
-blurb: "The Eyre Affair\r\n\r\nGreat Britain circa 1985: time travel is routine, cloning\
-  \ is a reality (dodos are the resurrected pet of choice), and literature is taken\
-  \ very, very seriously. Baconians are trying to convince the world that Francis\
-  \ Bacon really wrote Shakespeare, there are riots between the Surrealists and Impressionists,\
-  \ and thousands of men are named John Milton, an homage to the real Milton and a\
-  \ very confusing situation for the police. Amidst all this, Acheron Hades, Third\
-  \ Most Wanted Man In the World, steals the original manuscript of Martin Chuzzlewit\
-  \ and kills a minor character, who then disappears from every volume of the novel\
-  \ ever printed! But that's just a prelude . . . Hades' real target is the beloved\
-  \ Jane Eyre, and it's not long before he plucks her from the pages of Bronte's novel.\
-  \ Enter Thursday Next. She's the Special Operative's renowned literary detective,\
-  \ and she drives a Porsche. With the help of her uncle Mycroft's Prose Portal, Thursday\
-  \ enters the novel to rescue Jane Eyre from this heinous act of literary homicide.\
-  \ It's tricky business, all these interlopers running about Thornfield, and deceptions\
-  \ run rampant as their paths cross with Jane, Rochester, and Miss Fairfax. Can Thursday\
-  \ save Jane Eyre and Bronte's masterpiece? And what of the Crimean War? Will it\
-  \ ever end? And what about those annoying black holes that pop up now and again,\
-  \ sucking things into time-space voids . . . Suspenseful and outlandish, absorbing\
-  \ and fun, The Eyre Affair is a caper unlike any other and an introduction to the\
-  \ imagination of a most distinctive writer and his singular fictional universe.\
-  \ Next up in the Thursday Next series: Lost in a Good Book. Read more about it at\
-  \ thursdaynext.com."
+blurb: 'NEW YORK TIMES BESTSELLER • The first novel in the renowned Thursday Next
+  series, which “combines elements of Monty Python, Harry Potter, Stephen Hawking,
+  and Buffy the Vampire Slayer” (The Wall Street Journal). “A literary wonderland
+  [that] recalls Douglas Adams’ Hitchhiker series [and] the works of Lewis Carroll.”—USA
+  Today Meet Thursday Next, “part Bridget Jones, part Nancy Drew, and part Dirty Harry”
+  (Michiko Kakutani, The New York Times), a literary detective without equal, fear,
+  or boyfriend—and welcome to a surreal version of Great Britain, circa 1985, where
+  time travel is routine, cloning is a reality (dodos are the resurrected pet of choice),
+  and literature is taken very, very seriously. England is a virtual police state
+  where an aunt can get lost (literally) in a Wadsworth poem, militant Baconians heckle
+  performances of Hamlet, and forging Byronic verse is a punishable offense. All this
+  is business as usual for Thursday, renowned Special Operative in literary detection,
+  until someone begins kidnapping characters from works of literature. When Jane Eyre
+  is plucked from the pages of Brontë’s novel, Thursday must track down the villain
+  and enter a novel herself to avert a heinous act of literary homicide. Don’t miss
+  any of Jasper Fforde’s delightfully entertaining Thursday Next novels: THE EYRE
+  AFFAIR • LOST IN A GOOD BOOK • THE WELL OF LOST PLOTS • SOMETHING ROTTEN • FIRST
+  AMONG SEQUELS • ONE OF OUR THURSDAYS IS MISSING • THE WOMAN WHO DIED A LOT'
 subjects:
-- Books and reading
-- Thursday Next (Fictitious character)
-- Crimean War, 1853-1856
-- Women detectives
-- Fiction
-- Fathers and daughters
-- Censorship
-- Characters and characteristics in literature
-- Large type books
-- Fiction, historical, general
-- Fiction, fantasy, contemporary
-- England, fiction
-- Fathers and daughters, fiction
-- Next, thursday (fictitious character), fiction
-- Kriminalfall
-- Dickens, Charles / The life and adventures of Martin Chuzzlewit
-- Farce
-- Phantasiewelt
-- Literarische Gestalt
-- Manuskript
-- Detektivin
-- Belletristische Darstellung
-- Literature and fiction, fantasy
-- Fiction, historical
-- Fathers and daughters-Fiction
-- Father-daughter relationship
-- Alternative histories
-- Fantasy fiction
+- fiction
 recommendations:
 - lost-in-a-good-book
-- to-say-nothing-of-the-dog
-- world-without-end
-- good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
-- dragon-teeth
+- shades-of-grey
+- the-song-of-the-quarkbeast
+- the-last-dragonslayer
+- the-eye-of-zoltar
 series_name: Thursday Next
 series_index: 1.0
 review_needs_generation: false

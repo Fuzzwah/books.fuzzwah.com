@@ -13,26 +13,16 @@ year_published: 2018
 publisher: Tor.com
 binding: Hardcover
 cover: rogue-protocol.jpg
-blurb: '"Sci-Fi''s favorite antisocial AI is back on a mission.  The case against
-  the too-big-to-fail GrayChris Corporation is floundering, and more importantly,
-  authorities are beginning to ask more questions about where Dr. Mensah''s SecUnit
-  is.  And Murderbot would rather those questions went away.  For good."'
+blurb: Murderbot would prefer to just be left alone, but when authorities begin to
+  question where Dr. Mensah's SecUnit is, he must take matters into his own hands.
 subjects:
-- franchise:The Murderbot Diaries
-- series:The Murderbot Diaries
-- form:novella
-- genre:science fiction
-- Fiction
-- Androids
-- Human-computer interaction
-- Artificial intelligence
-- Robots
+- fiction
 recommendations:
 - exit-strategy
-- artificial-condition
 - all-systems-red
 - fugitive-telemetry
 - system-collapse
+- network-effect
 series_name: The Murderbot Diaries
 series_index: 3.0
 review_needs_generation: false

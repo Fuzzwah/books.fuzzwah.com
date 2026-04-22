@@ -13,47 +13,25 @@ year_published: 1996
 publisher: Scribner
 binding: Hardcover
 cover: the-old-man-and-the-sea.jpg
-blurb: Set in the Gulf Stream off the coast of Havana, Hemingway's magnificent fable
-  is the tale of an old man, a young boy and a giant fish. This story of heroic endeavour
-  won Hemingway the Nobel Prize for Literature. It stands as a unique and timeless
-  vision of the beauty and grief of man's challenge to the elements.
+blurb: A Scribner Classics Edition Told in his famed powerful and minimalist prose,
+  this story of courage and personal triumph remains one of Ernest Hemingway’s most
+  enduring works. The Old Man and the Sea is one of Hemingway’s most enduring works.
+  Told in language of great simplicity and power, the story of an old Cuban fisherman,
+  down on his luck, and his supreme ordeal—a relentless, agonizing battle with a giant
+  marlin far out in the Gulf Stream, on the water for months without a catch, but
+  refusing to stop trying. Here Hemingway recasts, in strikingly contemporary style,
+  the timeless theme of courage and commitment in the face of defeat, of personal
+  triumph won from loss. Written in 1952, this hugely successful novella confirmed
+  his talent and presence in the literary world and played a large part in his winning
+  the 1954 Nobel Prize for Literature.
 subjects:
-- American Sea stories
-- Male friendship
-- Fishers
-- Fiction
-- Ameriška književnost
-- American fiction
-- Ancianos
-- Open Library Staff Picks
-- Fishing stories
-- Pescadores
-- Older men
-- open_syllabus_project
-- Kratka proza
-- Friendship
-- Amistad entre hombres
-- Ficción
-- Bildungsromans
-- American literature
-- Libros en letra grande
-- Alegorías
-- Historias de aventuras
-- Novela
-- Literatura estadounidense
-- Novela estadounidense
-- Reading Level-Grade 11
-- Reading Level-Grade 12
-- American fiction (fictional works by one author)
-- Cuba, fiction
-- Friendship, fiction
-- Old man and the sea (Hemingway, Ernest)
+- fiction
 recommendations:
-- a-dance-with-dragons
-- slaughterhouse-five
-- brave-new-world
-- world-without-end
-- the-pillars-of-the-earth
+- the-adventures-of-huckleberry-finn
+- a-canticle-for-leibowitz
+- dungeon-crawler-carl
+- the-decline-and-fall-of-the-roman-empire
+- the-confusion
 series_name: ''
 series_index: ''
 review_needs_generation: false

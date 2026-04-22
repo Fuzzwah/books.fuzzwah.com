@@ -13,25 +13,18 @@ year_published: 2011
 publisher: Dutton
 binding: Hardcover
 cover: the-border-lords.jpg
-blurb: Charlie Hood must determine if ATF undercover agent Sean "Oz" Ozburn--deep
-  undercover supporting the "sicarios" of the Baja Cartel--has suffered a permanent
-  break with his mission and his moral compass--or if he has his reasons for going
-  "completely dark."
+blurb: When undercover ATF agent Sean Ozburn stops checking in during a mission to
+  infiltrate the Baja Cartel, Charlie Hood watches haunting digital videos that the
+  agent sent to his wife and fears that Oz has switched sides. By the Edgar Award-winning
+  author of Iron River. 250,000 first printing.
 subjects:
-- United States
-- Officials and employees
-- Undercover operations
-- United States. Bureau of Alcohol, Tobacco, and Firearms
-- Fiction
-- Fiction, mystery & detective, general
-- Fiction, thrillers, suspense
-- California, fiction
+- fiction
 recommendations:
-- the-suspect
-- the-ruin-a-cormac-reilly-novel
-- reamde
-- great-north-road
-- dragon-teeth
+- the-collapsing-empire
+- blackout
+- all-clear-oxford-time-travel-4
+- the-gonzo-tapes-the-life-and-work-of-dr-hunter-s-thompson
+- mass-effect-initiation
 series_name: Charlie Hood
 series_index: 4.0
 review_needs_generation: false

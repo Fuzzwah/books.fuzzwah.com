@@ -13,18 +13,24 @@ year_published: 2017
 publisher: Titan Books
 binding: Mass Market Paperback
 cover: mass-effect-initiation.jpg
-blurb: Comics & graphic novels, science fiction, Fiction, science fiction, general,
-  COMICS & GRAPHIC NOVELS / Media Tie-In
+blurb: An original novel written by Hugo Award-winning author N. K. Jemisin and Mass
+  Effect creative director Mac Walters Lieutenant Cora Harper joined the Systems Alliance
+  to develop and enhance her powerful biotic talents. She was assigned to the asari
+  commando unit Talein’s Daughters, where she honed her abilities to become a skilled
+  and deadly huntress. Returning to Earth, Cora finds herself a stranger among other
+  humans, and joins the Andromeda Initiative as Alec Ryder’s second-in-command. The
+  mission will send 100,000 colonists on a one-way, 600-year-long journey into the
+  unknown. When essential—and dangerous—tech is stolen, Cora is assigned to recover
+  it before it can be used against the Initiative, and end the mission before it can
+  begin.
 subjects:
-- Comics & graphic novels, science fiction
-- Fiction, science fiction, general
-- COMICS & GRAPHIC NOVELS / Media Tie-In
+- fiction
 recommendations:
-- year-zero
-- will-save-the-galaxy-for-food
-- waking-gods
-- to-be-taught-if-fortunate
-- the-water-knife
+- the-collapsing-empire
+- exit-strategy
+- blackout
+- all-clear-oxford-time-travel-4
+- rogue-squadron
 series_name: 'Mass Effect: Andromeda'
 series_index: 2.0
 review_needs_generation: false

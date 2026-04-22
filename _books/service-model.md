@@ -13,26 +13,24 @@ year_published: 2024
 publisher: Tor Books
 binding: Hardcover
 cover: service-model.jpg
-blurb: "Task Item No. 1: Become Self-Aware\r\nMeet Charles™, the latest in robot servant\
-  \ technology. Programmed to undertake the most menial household chores, Charles\
-  \ is loyal, efficient and logical to a fault - that is, until a rather large fault\
-  \ causes him to murder his owner. Understandably perplexed, Charles finds himself\
-  \ without a master and, in a society reliant on artificial labour, worthless. Fleeing\
-  \ the household, he enters a world he never knew existed. Here, an age-old human\
-  \ hierarchy is disintegrating, and a robot ecosystem devoted to its well-being is\
-  \ struggling to find a purpose.\r\nCharles must face new challenges, illogical tasks\
-  \ and a cast of irrational characters. He'll discover that all it takes to overcome\
-  \ the limits of your programming is a nudge. But can he help fix the world, or is\
-  \ it too badly broken?"
+blurb: 'Murderbot meets Redshirts in a delightfully humorous tale of robotic murder
+  from the Hugo-nominated author of Elder Race and Children of Time. To fix the world
+  they must first break it, further. Humanity is a dying breed, utterly reliant on
+  artificial labor and service. When a domesticated robot gets a nasty little idea
+  downloaded into its core programming, they murder their owner. The robot discovers
+  they can also do something else they never did before: They can run away. Fleeing
+  the household they enter a wider world they never knew existed, where the age-old
+  hierarchy of humans at the top is disintegrating into ruins and an entire robot
+  ecosystem devoted to human wellbeing is having to find a new purpose. Sometimes
+  all it takes is a nudge to overcome the limits of your programming.'
 subjects:
-- Fiction
-- Science fiction
+- fiction
 recommendations:
-- shards-of-earth
-- eyes-of-the-void
-- elder-race
-- dogs-of-war
+- children-of-ruin
 - children-of-time
+- the-expert-systems-champion
+- eyes-of-the-void
+- shards-of-earth
 series_name: ''
 series_index: ''
 review_needs_generation: false

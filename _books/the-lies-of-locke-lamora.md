@@ -3,7 +3,7 @@ layout: book
 slug: the-lies-of-locke-lamora
 title: 'The Lies of Locke Lamora (Gentleman Bastard, #1)'
 author: Scott Lynch
-isbn: '9780553902716'
+isbn: '9781435257290'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,29 +13,17 @@ year_published: 2011
 publisher: Orion
 binding: Audiobook
 cover: the-lies-of-locke-lamora.jpg
-blurb: Best book ever
+blurb: Vowing to bring down the crime boss running the city, a group of Gentlemen
+  Bastards, led by Locke Lamora, sets out to beat the Capa at his own game, taking
+  on other thieves, murderers, beggars, prostitutes, and thugs in the process.
 subjects:
-- Fiction, fantasy, general
-- Fantasy
-- Fiction
-- American Science Fiction And Fantasy
-- Fiction - Fantasy
-- Fantasy - Epic
-- Fiction / Fantasy / Epic
-- Juvenile fiction
-- Gangsters
-- Swindlers and swindling
-- Orphans
-- Adventure stories
-- Fantasy fiction
-- Robbers and outlaws
-- Fiction, fantasy, epic
+- gangsters
 recommendations:
-- watership-down
-- ship-of-magic
-- shadow-claw
-- last-argument-of-kings
-- before-they-are-hanged
+- men-at-arms
+- made-things
+- house-of-open-wounds
+- beowulf-s-children
+- playing-to-win-becoming-the-champion
 series_name: Gentleman Bastard
 series_index: 1.0
 review_needs_generation: false

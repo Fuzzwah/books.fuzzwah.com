@@ -13,44 +13,19 @@ year_published: 2006
 publisher: Del Rey / Ballantine Books
 binding: Mass Market Paperback
 cover: altered-carbon.jpg
-blurb: Science Fiction, Cyberpunk, Thriller, Life on other planets, Fiction, Fiction,
-  science fiction, hard science fiction, Fiction, science fiction, general, Long Now
-  Manual for Civilization
+blurb: In a twenty-fifth-century world in which death is nearly obsolete, thanks to
+  a technology that allows a person's consciousness to be downloaded into a new body,
+  former U.N. envoy Takeshi Kovacs, re-sleeved into a new body after a brutal death,
+  finds himself caught in the middle of a deadly far-reaching conspiracy that could
+  have horrifying repercussions. Reprint.
 subjects:
-- Science Fiction
-- Cyberpunk
-- Thriller
-- Life on other planets
-- Fiction
-- Fiction, science fiction, hard science fiction
-- Fiction, science fiction, general
-- Long Now Manual for Civilization
-- Science Fiction And Fantasy
-- Fiction - Science Fiction
-- Science Fiction - High Tech
-- Fiction / Science Fiction / High Tech
-- Conspiracy
-- Murder
-- Private investigators
-- Soldiers of fortune
-- Rich people
-- Investigation
-- Interstellar travel
-- Nanotechnology
-- Genetic engineering
-- Immortalism
-- General
-- Dystopias
-- Hard Science Fiction
-- Action & Adventure
-- Media Tie-In
-- Fiction, science fiction, steampunk
+- fiction
 recommendations:
 - broken-angels
-- titan
-- a-fire-upon-the-deep
-- the-windup-girl
-- the-left-hand-of-darkness
+- the-pillars-of-the-earth
+- surface-detail
+- the-last-dragonslayer
+- the-rational-optimist-how-prosperity-evolves
 series_name: Takeshi Kovacs
 series_index: 1.0
 review_needs_generation: false

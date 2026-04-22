@@ -13,28 +13,26 @@ year_published: 2011
 publisher: Hodder & Stoughton
 binding: Hardcover
 cover: the-song-of-the-quarkbeast.jpg
-blurb: King Snodd IV of the Kingdom of Hereford has realized that the power of magic
-  has untold financial possibilities, and the man who controls magic controls almost
-  anything. To this end, he has appointed as Official Court Sorcerer the odious Blix
-  at Industrial Magic, one of only two Houses of Enchantment left in the world. With
-  Blix's willing assistance, only one person stands between King Snodd and his plans
-  for power and riches.
+blurb: 'A long time ago Magic faded away, leaving behind only yo-yos, the extremely
+  useful compass-pointing-to-North enchantment and the spell that keep bicycles from
+  falling over. Things are about to change. Magical power is on the rise and King
+  Snodd IV of Hereford has realised that he who controls magic controls almost anything.
+  One person stands between Snodd and his plans for power and riches beyond the wildest
+  dreams of avarice. Meet Jennifer Strange, sixteen-year-old acting manager of Kazam,
+  the employment agency for sorcerers and soothsayers. With only one functioning wizard
+  and her faithful assistant ''Tiger'' Prawns, Jennifer must use every ounce of ingenuity
+  to derail King Snodd''s plans. It may involve a trip on a magic carpet at the speed
+  of sound to the Troll Wall, the mysterious Transient Moose, and a powerless sorceress
+  named Once Magnificent Boo. But one thing is certain: Jennifer Strange will not
+  relinquish the noble powers of magic to big business and commerce without a fight.'
 subjects:
-- Children's fiction
-- Magic, fiction
-- Fantasy fiction
-- Magic
-- Fiction
-- Dragons
-- Fantasy
-- Juvenile fiction
-- Young adult fiction
+- children's stories
 recommendations:
 - the-last-dragonslayer
-- a-wizard-of-earthsea
-- the-wee-free-men
-- a-hat-full-of-sky
-- ship-breaker
+- the-eye-of-zoltar
+- the-eyre-affair
+- shades-of-grey
+- lost-in-a-good-book
 series_name: The Last Dragonslayer
 series_index: 2.0
 review_needs_generation: false

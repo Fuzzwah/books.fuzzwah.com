@@ -13,46 +13,15 @@ year_published: 2005
 publisher: W.W. Norton & Company
 binding: Paperback
 cover: guns-germs-and-steel-the-fates-of-human-societies.jpg
-blurb: An epic detective story that offers a gripping expose on why the world is so
-  unequal. Professor Jared Diamond traveled the globe for over 30 years trying to
-  answer this question.
+blurb: ''
 subjects:
-- prize:pulitzer=1998
-- Ethnology
-- Criticism and interpretation
-- Culture diffusion
-- Effect of environment on
-- Civilization
-- Human beings
-- Social evolution
-- History
-- Sociale evolutie
-- Cultuur
-- Évolution sociale
-- Geografia (historia)
-- Geologia historica
-- Civilisation
-- Influence de l'environnement
-- Influence sur la nature
-- Histoire
-- Diffusion culturelle
-- Historia
-- Effets de l'environnement
-- Ethnologie
-- Homme
-- Long Now Manual for Civilization
-- Biological Evolution
-- Verden
-- Social anthropology
-- Entwicklung
-- Geschichte
-- Etnologia (evolução;civilização;cultura)
+- history
 recommendations:
-- sapiens-a-brief-history-of-humankind
-- the-making-of-the-atomic-bomb
-- 1491-new-revelations-of-the-americas-before-columbus
-- the-civilization-of-the-middle-ages
-- world-without-end
+- salt-a-world-history
+- a-short-history-of-nearly-everything
+- nero-s-killing-machine-the-true-story-of-rome-s-remarkable-14th-legion
+- caesar-s-legion-the-epic-saga-of-julius-caesar-s-elite-tenth-legion-and-the-armies-of-rome
+- the-last-days-of-the-incas
 series_name: ''
 series_index: ''
 review_needs_generation: false

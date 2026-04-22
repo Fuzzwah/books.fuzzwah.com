@@ -13,25 +13,18 @@ year_published: 2007
 publisher: Tor Books
 binding: Paperback
 cover: brass-man.jpg
-blurb: The knight errant Anderson is hunting a dragon on the primitive Out-Polity
-  world of Cull, little knowing that far away a man - more technology than human flesh
-  - has resurrected a brass killing machine to assist in a similar hunt that encompasses
-  star systems. When agent Cormac learns that his old enemy still lives, he sets out
-  in pursuit aboard the attack ship Jack Ketch... whilst scientist Mika begins discovering
-  the horrifying truth about that ancient technology ostensibly produced by the alien
-  Jain, who died out five million years ago.
+blurb: 'Human beings have considerable freedom in Polity Space, a mostly civilized
+  place, but enormously powerful AIs make all the important decisions. Three monstrous
+  creatures threaten the Polity: Dragon, a gigantic being of unknown origin; Skellor,
+  an evil, once human scientist transformed by the nanotechnology of the extinct Jain
+  race; and Mr. Crane, the monstrous killing machine who does Skellor''s bidding.'
 subjects:
-- Robots
-- Artificial intelligence
-- Fiction
-- Life on other planets
-- Fiction, science fiction, general
-- Space ships
+- fiction
 recommendations:
-- dark-intelligence
-- fugitive-telemetry
-- artificial-condition
-- all-systems-red
+- line-war
+- polity-agent
+- the-line-of-polity
+- gridlinked
 - infinity-engine
 series_name: Agent Cormac
 series_index: 3.0

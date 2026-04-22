@@ -20,7 +20,7 @@ recommendations:
 - artemis
 - project-hail-mary
 - zero-hour
-- year-zero
+- wolves
 series_name: Forward Collection
 series_index: 6.0
 review_needs_generation: false

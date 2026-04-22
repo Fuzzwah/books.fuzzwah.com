@@ -13,44 +13,29 @@ year_published: 1995
 publisher: Simon & Schuster
 binding: Paperback
 cover: the-making-of-the-atomic-bomb.jpg
-blurb: "Here for the first time, in rich, human, political, and scientific detail,\
-  \ is the complete story of how the bomb was developed, from the turn-of-the-century\
-  \ discovery of the vast energy locked inside the atom to the dropping of the first\
-  \ bombs on Japan. \r\n\r\nFew great discoveries have evolved so swiftly -- or have\
-  \ been so misunderstood. From the theoretical discussions of nuclear energy to the\
-  \ bright glare of Trinity there was a span of hardly more than twenty-five years.\
-  \ What began as merely an interesting speculative problem in physics grew into the\
-  \ Manhattan Project, and then into the Bomb with frightening rapidity, while scientists\
-  \ known only to their peers -- Szilard, Teller, Oppenheimer, Bohr, Meitner, Fermi,\
-  \ Lawrence, and Von Neumann -- stepped from their ivory towers into the limelight.\
-  \ \r\n\r\n[source][1]\r\n\r\n\r\n  [1]: http://books.google.com/books/about/The_Making_of_the_Atomic_Bomb.html?id=aSgFMMNQ6G4C"
+blurb: Here for the first time, in rich, human, political, and scientific detail,
+  is the complete story of how the bomb was developed, from the turn-of-the-century
+  discovery of the vast energy locked inside the atom to the dropping of the first
+  bombs on Japan. Few great discoveries have evolved so swiftly -- or have been so
+  misunderstood. From the theoretical discussions of nuclear energy to the bright
+  glare of Trinity there was a span of hardly more than twenty-five years. What began
+  as merely an interesting speculative problem in physics grew into the Manhattan
+  Project, and then into the Bomb with frightening rapidity, while scientists known
+  only to their peers -- Szilard, Teller, Oppenheimer, Bohr, Meitner, Fermi, Lawrence,
+  and yon Neumann -- stepped from their ivory towers into the limelight. Richard Rhodes
+  takes us on that journey step by step, minute by minute, and gives us the definitive
+  story of man's most awesome discovery and invention. The Making of the Atomic Bomb
+  has been compared in its sweep and importance to William L. Shirer's The Rise and
+  Fall of the Third Reich. It is at once a narrative tour de force and a document
+  as powerful as its subject.
 subjects:
-- National Book Award Winner
-- open_syllabus_project
-- Long Now Manual for Civilization
-- award:national_book_award=nonfiction
-- Atomic bomb
-- award:national_book_award=1987
-- History
-- Atomic bomb -- History.
-- Physique nucléaire
-- Erfindung
-- Kernwapens
-- Histoire
-- Nuclear Warfare
-- Kernwaffe
-- Geschichte
-- Bombe atomique
-- Design and construction
-- New York Times reviewed
-- Bomba atómica
-- Historia
+- history
 recommendations:
-- guns-germs-and-steel-the-fates-of-human-societies
-- the-decline-and-fall-of-the-roman-empire
-- 1491-new-revelations-of-the-americas-before-columbus
-- the-civilization-of-the-middle-ages
-- world-without-end
+- fear-the-sky
+- the-last-man-who-knew-everything-the-life-and-times-of-enrico-fermi-father-of-the-nuclear-age
+- to-be-taught-if-fortunate
+- sapiens-a-brief-history-of-humankind
+- the-invisible-life-of-addie-larue
 series_name: ''
 series_index: ''
 review_needs_generation: false

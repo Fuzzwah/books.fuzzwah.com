@@ -13,52 +13,24 @@ year_published: 2003
 publisher: Barnes & Noble 2003-09-01
 binding: Paperback
 cover: the-adventures-of-huckleberry-finn.jpg
-blurb: "Adventures of Huckleberry Finn or as it is known in more recent editions,\
-  \ The Adventures of Huckleberry Finn, is a novel by American author Mark Twain,\
-  \ which was first published in the United Kingdom in December 1884 and in the United\
-  \ States in February 1885.\r\n\r\nCommonly named among the Great American Novels,\
-  \ the work is among the first in major American literature to be written throughout\
-  \ in vernacular English, characterized by local color regionalism. It is told in\
-  \ the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain\
-  \ novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer.\
-  \ It is a direct sequel to The Adventures of Tom Sawyer."
+blurb: Tor Classics are affordably-priced editions designed to attract the young reader.
+  Original dynamic cover art enthusiastically represents the excitement of each story.
+  Appropriate "reader friendly" type sizes have been chosen for each title--offering
+  clear, accurate, and readable text. All editions are complete and unabridged, and
+  feature Introductions and Afterwords. This edition of "The Adventures of Huckleberry
+  Finn" includes a Preface, Biographical Note, and Afterword by Keith Neilson. Breezy,
+  outrageous, thrilling from first page to last, "Huckleberry Finn" is the most widely
+  read and universally loved work in American fiction. It is also the most imitated.
+  "All modern American literature," according to Ernest Hemingway, "comes from one
+  book by Mark Twain called "Huckleberry Finn.""
 subjects:
-- adventure and adventurers
-- Adventure stories
-- American fiction (fictional works by one author)
-- American literature
-- Boys
-- Child and youth fiction
-- Children's fiction
-- child witnesses
-- Courtship
-- English language
-- friendship
-- Fugitive slaves
-- history
-- humor
-- Humorous stories
-- Juvenile fiction
-- juvenile literature
-- literature
-- Loyalty
-- Male friendship
-- Manners and customs
-- orphans
-- Personnages
-- Race relations
-- rafting
-- Rafting (Sports)
-- Revenge
-- Runaway children
-- Runaways
-- runaway teenagers
+- fiction
 recommendations:
-- watership-down
-- the-amazing-maurice-and-his-educated-rodents
+- a-wrinkle-in-time
+- lewis-carroll-s-alice-s-adventures-in-wonderland
 - the-old-man-and-the-sea
-- the-wee-free-men
-- the-professor-and-the-madman-a-tale-of-murder-insanity-and-the-making-of-the-oxford-english-dictionary
+- the-republic-mobi
+- the-count-of-monte-cristo
 series_name: ''
 series_index: ''
 review_needs_generation: false

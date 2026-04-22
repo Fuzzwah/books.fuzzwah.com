@@ -13,15 +13,21 @@ year_published: 2020
 publisher: Orbit
 binding: Paperback
 cover: how-to-rule-an-empire-and-get-away-with-it.jpg
-blurb: English literature
+blurb: 'The captivating follow-up to the critically acclaimed Sixteen Ways to Defend
+  a Walled City from world Fantasy Award-winner K. J. Parker. For more from K. J.
+  Parker, check out: Sixteen Ways to Defend a Walled City The Two of SwordsThe Two
+  of Swords: Volume OneThe Two of Swords Volume TwoThe Two of Swords: Volume Three
+  The Fencer TrilogyColours in the SteelThe Belly of the BowThe Proof House The Scavenger
+  TrilogyShadowPatternMemory Engineer TrilogyDevices and DesiresEvil for EvilThe Escapement
+  The CompanyThe Folding KnifeThe HammerSharps'
 subjects:
-- English literature
+- fiction
 recommendations:
+- a-practical-guide-to-conquering-the-world
 - sixteen-ways-to-defend-a-walled-city
-- the-wisdom-of-crowds
-- the-trouble-with-peace
-- shroud
-- shards-of-earth
+- house-of-open-wounds
+- days-of-shattered-faith
+- kings-of-the-wyld
 series_name: The Siege
 series_index: 2.0
 review_needs_generation: false

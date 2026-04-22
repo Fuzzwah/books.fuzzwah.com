@@ -13,14 +13,19 @@ year_published: 2009
 publisher: ''
 binding: Kindle Edition
 cover: the-diary-of-a-u-boat-commander.jpg
-blurb: ''
+blurb: '"I would ask you a favour," said the German captain, as we sat in the cabin
+  of a U-boat which had just been added to the long line of bedraggled captives which
+  stretched themselves for a mile or more in Harwich Harbour, in November, 1918. I
+  made no reply; I had just granted him a favour by allowing him to leave the upper
+  deck of the submarine, in order that he might await the motor launch in some sort
+  of privacy; why should he ask for more?'
 subjects: []
 recommendations:
-- zoe-s-tale
-- zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values
-- wyrd-sisters
-- world-without-end
-- what-the-dog-saw-and-other-adventures
+- silent-invasion-china-s-influence-in-australia
+- treasure-island
+- moving-pictures
+- the-long-way-to-a-small-angry-planet
+- guards-guards
 series_name: ''
 series_index: ''
 review_needs_generation: false

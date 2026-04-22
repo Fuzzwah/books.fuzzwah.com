@@ -13,31 +13,20 @@ year_published: 1999
 publisher: Voyager
 binding: Mass Market Paperback
 cover: ship-of-magic.jpg
-blurb: "Bingtown is a hub of exotic trade and home to a merchant nobility famed for\
-  \ its liveships—rare vessels carved from wizardwood, which ripens magically into\
-  \ sentient awareness. Now the fortunes of one of Bingtown’s oldest families rest\
-  \ on the newly awakened liveship Vivacia. \r\n \r\nFor Althea Vestrit, the ship\
-  \ is her rightful legacy. For Althea’s young nephew, wrenched from his religious\
-  \ studies and forced to serve aboard the ship, the Vivacia is a life sentence. But\
-  \ the fate of the ship—and the Vestrits—may ultimately lie in the hands of an outsider:\
-  \ the ruthless buccaneer captain Kennit, who plans to seize power over the Pirate\
-  \ Isles by capturing a liveship and bending it to his will."
+blurb: Demonstrating world-building finesse, Robin Hobb begins the climatic story
+  of a seafaring clan and its tangled destiny. Though expected to inherit her family's
+  newly quickened liveship, Althea Vestrit loses the honor to her scheming brother-in-law,
+  who plans to use it as a slave ship. The ruthless pirate Captain Kennit also sees
+  a captured liveship as his key to success. Soon Althea is forced to fight both men
+  to regain the animate, intelligent liveship, her family's most treasured possession.
 subjects:
-- The Realm of the Elderlings
-- The Liveship Traders
-- English Fantasy fiction
-- Fantasy
-- Fiction
-- Fantasy fiction
-- Fiction, fantasy, epic
-- Fiction, fantasy, general
-- American Fantasy fiction
+- english fiction
 recommendations:
-- assassin-s-apprentice
+- the-mad-ship
+- ship-of-destiny
 - assassin-s-quest
-- shadow-claw
-- wyrd-sisters
-- the-lies-of-locke-lamora
+- royal-assassin
+- assassin-s-apprentice
 series_name: Liveship Traders
 series_index: 1.0
 review_needs_generation: false

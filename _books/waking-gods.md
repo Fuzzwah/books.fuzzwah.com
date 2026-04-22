@@ -13,31 +13,35 @@ year_published: 2017
 publisher: Del Rey
 binding: Hardcover
 cover: waking-gods.jpg
-blurb: '"26 years ago: A girl in South Dakota falls through the earth, then wakes
-  up dozens of feet below ground on the palm of what seems to be a giant metal hand.
-  9 years ago: She is a top-level physicist leading a team of people to understand
-  exactly what that hand is, where it came from, and what it portends for humanity.
-  Today: with the remainder of the giant robot found and assembled, every question
-  answered about the mysterious contraption raises two more. But the team behind the
-  greatest discovery of the last millennium might be out of time when a second robot
-  suddenly appears, looming over downtown London"--'
+blurb: 'In the gripping sequel to Sleeping Giants, Sylvain Neuvel’s innovative series
+  about human-alien contact takes another giant step forward. “Sleeping Giants may
+  have debuted his thrilling saga, but Waking Gods proves that Neuvel’s scope is more
+  daring than readers could have imagined.”—Paste As a child, Rose Franklin made an
+  astonishing discovery: a giant metallic hand, buried deep within the earth. As an
+  adult, she’s dedicated her brilliant scientific career to solving the mystery that
+  began that fateful day: Why was a titanic robot of unknown origin buried in pieces
+  around the world? Years of investigation have produced intriguing answers—and even
+  more perplexing questions. But the truth is closer than ever before when a second
+  robot, more massive than the first, materializes and lashes out with deadly force.
+  Now humankind faces a nightmare invasion scenario made real, as more colossal machines
+  touch down across the globe. But Rose and her team at the Earth Defense Corps refuse
+  to surrender. They can turn the tide if they can unlock the last secrets of an advanced
+  alien technology. The greatest weapon humanity wields is knowledge in a do-or-die
+  battle to inherit the Earth . . . and maybe even the stars. Praise for Waking Gods
+  “Kick-ass, one-on-one robot action combines with mind-bending scientific and philosophical
+  speculation. Series science-fiction fans will enjoy this follow-up filled with unexpected
+  revelations and a surprise finale.”—Booklist “Pure, unadulterated literary escapism
+  featuring giant killer robots and the looming end of mankind. In a word: unputdownable.”—Kirkus
+  Reviews (starred review) “Sheer escapist fun.”—Shelf Awareness Don’t miss any of
+  The Themis Files by Sylvain Neuvel: SLEEPING GIANTS | WAKING GODS | ONLY HUMAN'
 subjects:
-- Fiction, science fiction, general
-- Fiction
-- Robots
-- Women physicists
-- Fiction, science fiction, action & adventure
-- Scientists, fiction
-- Science Fiction
-- Adventure
-- Technological
-- Action & Adventure
+- fiction
 recommendations:
-- sleeping-giants
-- do-androids-dream-of-electric-sheep
 - only-human
-- the-martian
-- the-long-way-to-a-small-angry-planet
+- sleeping-giants
+- great-north-road
+- echo-of-worlds
+- skyward
 series_name: Themis Files
 series_index: 2.0
 review_needs_generation: false

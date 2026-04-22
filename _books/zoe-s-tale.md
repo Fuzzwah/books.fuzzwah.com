@@ -13,32 +13,16 @@ year_published: 2008
 publisher: Tor Books
 binding: Hardcover
 cover: zoe-s-tale.jpg
-blurb: Zoë Boutin-Perry travels to the fledgling colony world of Roanoke with her
-  adoptive parents, John Perry and Jane Sagan, who have accepted positions as administrators.
-  When her biological father develops the technology to give the Obin consciousness
-  and self-awareness, she suddenly becomes the center of a critical but endangered
-  treaty between the Obin and the Colonial Union.
+blurb: A return to the bestselling Old Man's War universe, "Zoe's Tale" features one
+  of the most appealing characters in the series.
 subjects:
-- Teenage girls
-- Fiction
-- Space warfare
-- Life on other planets in fiction
-- Space colonies in fiction
-- Life on other planets
-- Teenage girls in fiction
-- Space colonies
-- Space warfare in fiction
-- Fiction, science fiction, general
-- Teenagers
-- Fiction, science fiction, space opera
-- Young women, fiction
-- Fiction, action & adventure
+- fiction
 recommendations:
+- questions-for-a-soldier
+- the-sagan-diary
+- the-human-division
 - old-man-s-war
-- judas-unchained
-- the-last-colony
-- the-ghost-brigades
-- terms-of-enlistment
+- after-the-coup
 series_name: Old Man's War
 series_index: 4.0
 review_needs_generation: false

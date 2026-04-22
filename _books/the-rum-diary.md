@@ -13,24 +13,17 @@ year_published: 1999
 publisher: Scribner / Simon & Schuster
 binding: Paperback
 cover: the-rum-diary.jpg
-blurb: New York Times bestseller, Journalists, nyt:trade_fiction_paperback=2011-10-08,
-  Fiction, Fiction, action & adventure, Puerto rico, fiction, Journalists, fiction,
-  Nineteen fifties
+blurb: The irreverent writer's long lost novel, written before his nonfiction became
+  popular, chronicles a journalist's enthusiastic, drunken foray through 1950s San
+  Juan.
 subjects:
-- New York Times bestseller
-- Journalists
-- nyt:trade_fiction_paperback=2011-10-08
-- Fiction
-- Fiction, action & adventure
-- Puerto rico, fiction
-- Journalists, fiction
-- Nineteen fifties
+- fiction
 recommendations:
-- the-book-of-elsewhere
-- zoe-s-tale
-- year-zero
-- world-without-end
-- words-of-radiance
+- fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
+- the-great-shark-hunt
+- fear-and-loathing-on-the-campaign-trail-72
+- the-gonzo-tapes-the-life-and-work-of-dr-hunter-s-thompson
+- hell-s-angels
 series_name: ''
 series_index: ''
 review_needs_generation: false

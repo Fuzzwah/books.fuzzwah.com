@@ -13,18 +13,21 @@ year_published: 2009
 publisher: Games Workshop
 binding: Mass Market Paperback
 cover: tales-of-heresy.jpg
-blurb: A collection of short stories sheds new light on characters and events from
-  the pivotal time when Horus the Warmaster rebelled against the Emperor and civil
-  war raged across the galaxy, nearly destroying the Imperium.
+blurb: The Horus Heresy is the Black Library’s premium SF line, with stunning artwork
+  and special foil cover treatments. Includes stories by key series authors Dan Abnett,
+  Graham McNeill, James Swallow and more. Stories throw new light on characters and
+  events from this pivotal time of conflict. Authors will be making convention appearances
+  in summer/fall 2008. An anthology of short stories set during the time of the Horus
+  Heresy, featuring tales by star writers Dan Abnett, Graham McNeill, James Swallow,
+  Mike Lee and more.
 subjects:
-- English Science fiction
-- English Short stories
+- fiction
 recommendations:
-- the-neutronium-alchemist
-- the-dark-side-of-the-sun
-- nineteen-eighty-four
-- imperial-earth
-- only-forward
+- mechanicum
+- fallen-angels
+- legion
+- the-flight-of-the-eisenstein
+- descent-of-angels
 series_name: The Horus Heresy
 series_index: 10.0
 review_needs_generation: false

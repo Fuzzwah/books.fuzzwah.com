@@ -13,22 +13,17 @@ year_published: 1982
 publisher: Grand Central Pub
 binding: Mass Market Paperback
 cover: the-great-shark-hunt.jpg
-blurb: Politics and government, Addresses, essays, lectures, Social conditions, Politique
-  et gouvernement, United states, politics and government, 1969-1974, Thompson, hunter
-  s., 1937-2005
+blurb: Brings together a selection of the legendary American journalist's articles
+  on subjects ranging from the Super Bowl to Watergate, from Hemingway to Brando,
+  and from sharks, to drugs
 subjects:
-- Politics and government
-- Addresses, essays, lectures
-- Social conditions
-- Politique et gouvernement
-- United states, politics and government, 1969-1974
-- Thompson, hunter s., 1937-2005
+- history
 recommendations:
-- fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
-- fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonzo-letters-volume-ii-1968-1976
-- the-autobiography-of-benjamin-franklin
+- fear-and-loathing-on-the-campaign-trail-72
 - the-rum-diary
 - the-gonzo-tapes-the-life-and-work-of-dr-hunter-s-thompson
+- hell-s-angels
+- fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
 series_name: ''
 series_index: ''
 review_needs_generation: false

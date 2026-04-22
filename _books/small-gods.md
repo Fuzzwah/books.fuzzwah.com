@@ -13,28 +13,17 @@ year_published: 2005
 publisher: Corgi
 binding: Paperback
 cover: small-gods.jpg
-blurb: "In the beginning was the Word.\r\n\r\nAnd the Word was: \"Hey, you!\"\r\n\r\
-  \nFor Brutha the novice is the Chosen One. He wants peace and justice and brotherly\
-  \ love.\r\n\r\nHe also wants the Inquisition to stop torturing him now, please..."
+blurb: 'The thirteenth Discworld novel — In the beginning was the Word. And the Word
+  was: “Hey, you!” For Brutha, the novice is the Chosen One. He wants peace and justice
+  and brotherly love. He also wants the Inquisition to stop torturing him, now, please.'
 subjects:
-- Discworld (Imaginary place)
-- Science fiction
-- Fantasy fiction
-- Fiction
-- Fantasy
-- Discworld (imaginary place), fiction
-- Fiction, fantasy, general
-- Fiction, humorous
-- Comics & graphic novels, fantasy
-- Science fiction, fantasy, horror
-- Fiction, humorous, general
-- English literature
+- discworld (imaginary place)
 recommendations:
-- equal-rites
-- wyrd-sisters
+- jingo
 - thief-of-time
 - moving-pictures
-- going-postal
+- eric
+- snuff
 series_name: Discworld
 series_index: 13.0
 review_needs_generation: false

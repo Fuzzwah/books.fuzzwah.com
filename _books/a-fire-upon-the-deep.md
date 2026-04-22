@@ -13,39 +13,28 @@ year_published: 1993
 publisher: Tor Science Fiction
 binding: Mass Market Paperback
 cover: a-fire-upon-the-deep.jpg
-blurb: "Thousands of years in the future, humanity is no longer alone in a universe\
-  \ where a mind's potential is determined by its location in space, from superintelligent\
-  \ entities in the Transcend, to the limited minds of the Unthinking Depths, where\
-  \ only simple creatures, and technology, can function. Nobody knows what strange\
-  \ force partitioned space into these \"regions of thought,\" but when the warring\
-  \ Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly\
-  \ unleash an awesome power that destroys thousands of worlds and enslaves all natural\
-  \ and artificial intelligence.\r\n\r\nFleeing this galactic threat, Ravna crash\
-  \ lands on a strange world with a ship-hold full of cryogenically frozen children,\
-  \ the only survivors from a destroyed space-lab. They are taken captive by the Tines,\
-  \ an alien race with a harsh medieval culture, and used as pawns in a ruthless power\
-  \ struggle."
+blurb: 'A Fire Upon the Deep is the big, breakout book that fulfills the promise of
+  Vinge''s career to date: a gripping tale of galactic war told on a cosmic scale.
+  Thousands of years hence, many races inhabit a universe where a mind''s potential
+  is determined by its location in space, from superintelligent entities in the Transcend,
+  to the limited minds of the Unthinking Depths, where only simple creatures and technology
+  can function. Nobody knows what strange force partitioned space into these "regions
+  of thought," but when the warring Straumli realm use an ancient Transcendent artifact
+  as a weapon, they unwittingly unleash an awesome power that destroys thousands of
+  worlds and enslaves all natural and artificial intelligence. Fleeing the threat,
+  a family of scientists, including two children, are taken captive by the Tines,
+  an alien race with a harsh medieval culture, and used as pawns in a ruthless power
+  struggle. A rescue mission, not entirely composed of humans, must rescue the children-and
+  a secret that may save the rest of interstellar civilization. A Fire Upon The Deep
+  is the winner of the 1993 Hugo Award for Best Novel.'
 subjects:
-- Fiction
-- Hugo Award Winner
-- Life on other planets
-- award:hugo_award=1993
-- award:hugo_award=novel
-- Science fiction
-- Intellect
-- Long Now Manual for Civilization
-- Life on other planets -- Fiction.
-- Fiction, science fiction, general
-- Fiction, science fiction, hard science fiction
-- American Science fiction
-- Vie extraterrestre
-- Romans, nouvelles
+- fiction
 recommendations:
-- the-left-hand-of-darkness
-- ringworld
-- the-uplift-war
-- the-dispossessed
-- stranger-in-a-strange-land
+- the-dark-forest
+- children-of-ruin
+- shards-of-earth
+- heaven-s-river
+- dark-intelligence
 series_name: Zones of Thought
 series_index: 1.0
 review_needs_generation: false

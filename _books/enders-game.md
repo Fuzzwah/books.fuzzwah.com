@@ -13,69 +13,42 @@ year_published: 2004
 publisher: Tor
 binding: Mass Market Paperback
 cover: enders-game.jpg
-blurb: "Ender's Game is a 1985 military science fiction novel by American author Orson\
-  \ Scott Card. Set at an unspecified date in Earth's future, the novel presents an\
-  \ imperiled humankind after two conflicts with the Formics, an insectoid alien species\
-  \ they dub the \"buggers\". In preparation for an anticipated third invasion, children,\
-  \ including the novel's protagonist, Andrew \"Ender\" Wiggin, are trained from a\
-  \ very young age by putting them through increasingly difficult games, including\
-  \ some in zero gravity, where Ender's tactical genius is revealed.\r\n\r\nThe book\
-  \ originated as a short story of the same name, published in the August 1977 issue\
-  \ of Analog Science Fiction and Fact. The novel was published on January 15, 1985.\
-  \ Later, by elaborating on characters and plotlines depicted in the novel, Card\
-  \ was able to write additional books in the Ender's Game series. Card also released\
-  \ an updated version of Ender's Game in 1991, changing some political facts to reflect\
-  \ the times more accurately (e.g., to include the recent collapse of the Soviet\
-  \ Union and the end of the Cold War). The novel has been translated into 34 languages.\r\
-  \n\r\nReception of the book has been mostly positive. It has become suggested reading\
-  \ for many military organizations, including the United States Marine Corps. Ender's\
-  \ Game was recognized as \"best novel\" by the 1985 Nebula Award[3] and the 1986\
-  \ Hugo Award[4] in the genres of science fiction and fantasy. Its four sequels—Speaker\
-  \ for the Dead (1986), Xenocide (1991), Children of the Mind (1996), and Ender in\
-  \ Exile (2008)—follow Ender's subsequent travels to many different worlds in the\
-  \ galaxy. In addition, the later novella A War of Gifts (2007) and novel Ender's\
-  \ Shadow (1999), plus other novels in the Shadow saga, take place during the same\
-  \ time period as the original.\r\n\r\n\r\n----------\r\n\r\nContained in:\r\n[Ender's\
-  \ War](https://openlibrary.org/works/OL49619W)\r\nSee also:\r\n\r\n - [Ender's Game:\
-  \ 1/2](https://openlibrary.org/works/OL19647657W/Ender's_Game._1_2)\r\n\r\n  [1]:\
-  \ http://www.hatrack.com/osc/books/endersgame/"
+blurb: From New York Times bestselling author Orson Scott Card, Ender's Game—adapted
+  to film in 2013 starring Asa Butterfield and Harrison Ford—is the classic Hugo and
+  Nebula award-winning science fiction novel of a young boy's recruitment into the
+  midst of an interstellar war. In order to develop a secure defense against a hostile
+  alien race's next attack, government agencies breed child geniuses and train them
+  as soldiers. A brilliant young boy, Andrew "Ender" Wiggin lives with his kind but
+  distant parents, his sadistic brother Peter, and the person he loves more than anyone
+  else, his sister Valentine. Peter and Valentine were candidates for the soldier-training
+  program but didn't make the cut—young Ender is the Wiggin drafted to the orbiting
+  Battle School for rigorous military training. Ender's skills make him a leader in
+  school and respected in the Battle Room, where children play at mock battles in
+  zero gravity. Yet growing up in an artificial community of young soldiers Ender
+  suffers greatly from isolation, rivalry from his peers, pressure from the adult
+  teachers, and an unsettling fear of the alien invaders. His psychological battles
+  include loneliness, fear that he is becoming like the cruel brother he remembers,
+  and fanning the flames of devotion to his beloved sister. Is Ender the general Earth
+  needs? But Ender is not the only result of the genetic experiments. The war with
+  the Buggers has been raging for a hundred years, and the quest for the perfect general
+  has been underway for almost as long. Ender's two older siblings are every bit as
+  unusual as he is, but in very different ways. Between the three of them lie the
+  abilities to remake a world. If, that is, the world survives. Orson Scott Card's
+  Ender's Game is the winner of the 1985 Nebula Award for Best Novel and the 1986
+  Hugo Award for Best Novel. THE ENDER UNIVERSE Ender series Ender’s Game / Ender
+  in Exile / Speaker for the Dead / Xenocide / Children of the Mind Ender’s Shadow
+  series Ender’s Shadow / Shadow of the Hegemon / Shadow Puppets / Shadow of the Giant
+  / Shadows in Flight Children of the Fleet The First Formic War (with Aaron Johnston)
+  Earth Unaware / Earth Afire / Earth Awakens The Second Formic War (with Aaron Johnston)
+  The Swarm /The Hive Ender novellas A War of Gifts /First Meetings
 subjects:
-- New York Times bestseller
-- nyt:mass_market_paperback=2011-07-30
-- military education
-- end of the world
-- prize:nebula
-- hegemony
-- space warfare
-- child soldiers
-- The Ender Quintet
-- science fiction
-- automation
-- data processing
-- aliens
-- Military art and science
-- Hermanos
-- Maniobras de guerra
-- Brothers and sisters
-- Open Library Staff Picks
-- Genetic engineering
-- Fiction
-- Hugo Award Winner
-- award:hugo_award=novel
-- Ficción
-- Ciencia-ficción
-- award:hugo_award=1986
-- War games
-- Long Now Manual for Civilization
-- American Science fiction
-- Children's stories, American
-- Artificial intelligence
+- fiction
 recommendations:
-- the-dispossessed
-- the-left-hand-of-darkness
-- starship-troopers
-- ringworld
-- dune
+- echo-of-worlds
+- a-wrinkle-in-time
+- the-dark-forest
+- skyward
+- network-effect
 series_name: Ender's Saga
 series_index: 1.0
 review_needs_generation: false

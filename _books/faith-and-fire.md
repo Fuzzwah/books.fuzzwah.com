@@ -13,16 +13,15 @@ year_published: 2006
 publisher: Black Library
 binding: Mass Market Paperback
 cover: faith-and-fire.jpg
-blurb: Warhammer 40,000 (Game), Fiction
+blurb: Science fiction-roman.
 subjects:
-- Warhammer 40,000 (Game)
-- Fiction
+- fiction
 recommendations:
 - the-flight-of-the-eisenstein
-- zoe-s-tale
-- wyrd-sisters
-- world-without-end
-- unseen-academicals
+- citizen-of-the-galaxy
+- doomsday-book
+- assassin-s-apprentice
+- mort
 series_name: Sisters of Battle
 series_index: 1.0
 review_needs_generation: false

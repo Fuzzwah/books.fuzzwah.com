@@ -13,30 +13,17 @@ year_published: 2012
 publisher: Harcourt
 binding: Hardcover
 cover: the-last-dragonslayer.jpg
-blurb: "\"Fifteen-year-old Jennifer Strange runs an agency for underemployed magicians\
-  \ in a world where magic is fading away, but when visions of the death of the world's\
-  \ last dragon begin, all signs point to Jennifer--and Big Magic\"--Provided by publisher.\r\
-  \n\r\nFifteen-year-old foundling Jennifer runs Kazam, an employment agency for magicians,\
-  \ but it is hard to stay in business when magic is drying up. Then the visions start,\
-  \ predicting the death of the world's last dragon. Book #1"
+blurb: As magic fades from the world, 15-year-old Jennifer Strange is having trouble
+  keeping her magician employment agency business afloat, until she begins having
+  visions that foretell the death of the last dragon and the coming of Big Magic.
 subjects:
-- Children's fiction
-- Dragons, fiction
-- Magic, fiction
-- Fantasy fiction
-- Magic
-- Juvenile fiction
-- Dragons
-- Fiction
-- Fantasy
-- nyt:childrens-middle-grade=2013-08-25
-- New York Times bestseller
+- juvenile fiction
 recommendations:
 - the-song-of-the-quarkbeast
-- a-wizard-of-earthsea
-- i-shall-wear-midnight
-- the-wee-free-men
-- a-hat-full-of-sky
+- the-eye-of-zoltar
+- shades-of-grey
+- the-eyre-affair
+- lost-in-a-good-book
 series_name: The Last Dragonslayer
 series_index: 1.0
 review_needs_generation: false

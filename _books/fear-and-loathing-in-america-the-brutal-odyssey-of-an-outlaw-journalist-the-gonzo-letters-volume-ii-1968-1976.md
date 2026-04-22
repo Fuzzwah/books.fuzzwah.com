@@ -15,28 +15,15 @@ publisher: Simon & Schuster
 binding: Paperback
 cover: fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonzo-letters-volume-ii-1968-1976.jpg
 blurb: '"Spanning the years between 1968 and 1976, these never-before-published letters
-  show Thompson building his legend: running for sheriff in Aspen, Colorado; creating
-  the seminal road book Fear and Loathing in Las Vegas; twisting political reporting
-  to new heights for Rolling Stone; and making sense of it all in the landmark Fear
-  and Loathing: On the campaign Trail ''72.
-
-
-  To read Thompson''s dispatches from these years - addressed to the author''s friends,
-  enemies, editors, and creditors, and such notables as Jimmy Carter, Tom Wolfe, and
-  Kurt Vonnegut - is to read a raw, revolutionary eyewitness account of one of the
-  most exciting and pivotal eras in American history."--BOOK JACKET.'
+  show Thompson building his legend."--Jacket.'
 subjects:
-- Correspondence
-- Journalists
-- Thompson, hunter s., 1937-2005
-- Journalists, correspondence
-- New York Times reviewed
+- biography & autobiography
 recommendations:
+- fear-and-loathing-on-the-campaign-trail-72
+- the-gonzo-tapes-the-life-and-work-of-dr-hunter-s-thompson
 - fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream
+- hell-s-angels
 - the-rum-diary
-- the-great-shark-hunt
-- what-the-dog-saw-and-other-adventures
-- the-autobiography-of-benjamin-franklin
 series_name: ''
 series_index: ''
 review_needs_generation: false

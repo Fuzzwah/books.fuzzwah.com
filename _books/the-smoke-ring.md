@@ -13,11 +13,14 @@ year_published: 1988
 publisher: Del Rey
 binding: Mass Market Paperback
 cover: the-smoke-ring.jpg
-blurb: ''
-subjects: []
+blurb: The Citizens Tree people rescue a family of loggers and learn for the first
+  time of a society known as the Admiralty, which may have maintained intact the original
+  computer library of the ship Discipline
+subjects:
+- fiction
 recommendations:
-- the-integral-trees
 - a-world-out-of-time
+- the-integral-trees
 - the-mote-in-god-s-eye
 - ringworld
 - beowulf-s-children

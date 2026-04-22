@@ -13,25 +13,24 @@ year_published: 2003
 publisher: Penguin Books
 binding: Paperback
 cover: salt-a-world-history.jpg
-blurb: Mark Kurlansky's books Cod & Salt are the musts for every student on food studies.  Together
-  they supply the missing link of knowledge.  One or two semesters courses are recommended
-  for beginners in cod and salt studies.
+blurb: '“Kurlansky finds the world in a grain of salt.” - New York Times Book Review
+  An unlikely world history from the bestselling author of Cod and The Basque History
+  of the World In his fifth work of nonfiction, Mark Kurlansky turns his attention
+  to a common household item with a long and intriguing history: salt. The only rock
+  we eat, salt has shaped civilization from the very beginning, and its story is a
+  glittering, often surprising part of the history of humankind. A substance so valuable
+  it served as currency, salt has influenced the establishment of trade routes and
+  cities, provoked and financed wars, secured empires, and inspired revolutions. Populated
+  by colorful characters and filled with an unending series of fascinating details,
+  Salt is a supremely entertaining, multi-layered masterpiece.'
 subjects:
-- Salt industry and trade
-- Salt
-- Specimens
-- History
-- New York Times bestseller
-- nyt:e-book_nonfiction=2011-11-26
-- Large type books
-- Nonfiction
-- Zout
+- history
 recommendations:
-- what-the-dog-saw-and-other-adventures
-- blink-the-power-of-thinking-without-thinking
-- the-tipping-point-how-little-things-can-make-a-big-difference
-- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
-- the-devil-in-the-white-city
+- einstein-s-shutter
+- a-short-history-of-nearly-everything
+- master-of-furies
+- half-a-war
+- outliers-the-story-of-success
 series_name: ''
 series_index: ''
 review_needs_generation: false

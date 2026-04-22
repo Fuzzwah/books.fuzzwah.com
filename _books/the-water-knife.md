@@ -13,47 +13,32 @@ year_published: 2015
 publisher: Knopf
 binding: Hardcover
 cover: the-water-knife.jpg
-blurb: 'The American Southwest has been decimated by drought. Nevada and Arizona skirmish
-  over dwindling shares of the Colorado River, while California watches, deciding
-  if it should just take the whole river all for itself. Into the fray steps Las Vegas
-  water knife Angel Velasquez. Detective, assassin, and spy, Angel "cuts" water for
-  the Southern Nevada Water Authority, ensuring that lush, luxurious arcology developments
-  can bloom in the desert and that anyone who challenges her is left in the gutted-suburban
-  dust. When water is more valuable than gold, alliances shift like sand, and the
-  only truth in the desert is that someone will have to bleed if anyone hopes to drink.
-
-
-  Decimated by drought, Nevada and Arizona skirmish over dwindling shares of the Colorado
-  River, while California watches, waiting. Into the fray steps Las Vegas water knife
-  Angel Velasquez, who "cuts" water for the Southern Nevada Water Authority and its
-  boss, Catherine Case, ensuring that her lush, luxurious arcology developments can
-  bloom in the desert and that anyone who challenges her is left in the gutted-suburban
-  dust. He becomes a pawn in a game far bigger, more corrupt, and dirtier than he
-  could have imagined.'
+blurb: Paolo Bacigalupi, New York Times-Bestselling author and National Book Award
+  Finalist, dives once again onto our uncertain future with his first thriller for
+  adults since his multi-award winning debut phenomenon The Windup Girl. In the American
+  Southwest, Nevada, Arizona, and California skirmish for dwindling shares of the
+  Colorado River. Into the fray steps Angel Velasquez, detective, leg-breaker, assassin
+  and spy. A Las Vegas water knife, Angel "cuts" water for his boss, Catherine Case,
+  ensuring that her lush, luxurious arcology developments can bloom in the desert,
+  so the rich can stay wet, while the poor get nothing but dust. When rumors of a
+  game-changing water source surface in drought-ravaged Phoenix, Angel is sent to
+  investigate. There, he encounters Lucy Monroe, a hardened journalist with no love
+  for Vegas and every reason to hate Angel, and Maria Villarosa, a young Texas refugee
+  who survives by her wits and street smarts in a city that despises everything that
+  she represents. With bodies piling up, bullets flying, and Phoenix teetering on
+  collapse, it seems like California is making a power play to monopolize the life-giving
+  flow of a river. For Angel, Lucy, and Maria time is running out and their only hope
+  for survival rests in each other's hands. But when water is more valuable than gold,
+  alliances shift like sand, and the only thing for certain is that someone will have
+  to bleed if anyone hopes to drink.
 subjects:
-- Water rights
-- Droughts
-- Fiction
-- Fiction, thrillers, general
-- Fiction, dystopian
-- Fiction, science fiction, general
-- Large type books
-- Dystopias
-- Western stories
-- nyt:hardcover-fiction=2015-06-14
-- New York Times bestseller
-- Deserts
-- War
-- Spies
-- Secrets
-- Survival
-- Science fiction
+- fiction
 recommendations:
-- the-martian
-- skyward
-- children-of-time
-- fahrenheit-451
 - the-drowned-cities
+- ship-breaker
+- the-windup-girl
+- suspect
+- scrublands
 series_name: ''
 series_index: ''
 review_needs_generation: false

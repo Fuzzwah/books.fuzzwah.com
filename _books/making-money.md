@@ -19,48 +19,29 @@ blurb: The Ankh-Morpork Post Office is running like . . . well, not at all like 
   way to the correct addresses. Postmaster General Moist von Lipwig, former arch-swindler
   and confidence man, has exceeded all expectations—including his own. So it's somewhat
   disconcerting when Lord Vetinari summons Moist to the palace and asks, "Tell me,
-  Mr. Lipwig, would you like to make some real money?"Vetinari isn't talking about
+  Mr. Lipwig, would you like to make some real money?" Vetinari isn't talking about
   wages, of course. He's referring, rather, to the Royal Mint of Ankh-Morpork, a venerable
   institution that haas run for centuries on the hereditary employment of the Men
   of the Sheds and their loyal outworkers, who do make money in their spare time.
   Unfortunately, it costs more than a penny to make a penny, so the whole process
-  seems somewhat counterintuitive.Next door, at the Royal Bank, the Glooper, an "analogy
+  seems somewhat counterintuitive. Next door, at the Royal Bank, the Glooper, an "analogy
   machine," has scientifically established that one never has quite as much money
   at the end of the week as one thinks one should, and the bank's chairman, one elderly
-  Topsy (nee Turvy) Lavish, keeps two loaded crossbows at her desk. Oh, and the chief
-  clerk is probably a vampire.But before Moist has time to fully consider Vetinari's
+  Topsy (née Turvy) Lavish, keeps two loaded crossbows at her desk. Oh, and the chief
+  clerk is probably a vampire. But before Moist has time to fully consider Vetinari's
   question, fate answers it for him. Now he's not only making money, but enemies too;
   he's got to spring a prisoner from jail, break into his own bank vault, stop the
   new manager from licking his face, and, above all, find out where all the gold has
   gone—otherwise, his life in banking, while very exciting, is going to be really,
   really short. . . .
 subjects:
-- Postal service
-- Discworld (Imaginary place)
-- Science Fiction & Fantasy
-- Ex-convicts in fiction
-- Paper money
-- Ex-convicts
-- Postal service in fiction
-- Fiction
-- Science Fiction
-- Paper money in fiction
-- English literature
-- Fiction, humorous
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- Fantasía
-- Ciencia ficción
-- Humor
-- Fiction, general
-- Fiction, humorous, general
-- Large type books
+- fiction
 recommendations:
 - going-postal
-- wyrd-sisters
-- thud
 - thief-of-time
-- the-fifth-elephant
+- eric
+- thud
+- soul-music
 series_name: Discworld
 series_index: 36.0
 review_needs_generation: false

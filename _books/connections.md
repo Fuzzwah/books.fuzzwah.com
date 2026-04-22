@@ -13,18 +13,17 @@ year_published: 1995
 publisher: Little Brown & Co
 binding: Paperback
 cover: connections.jpg
-blurb: '304 p. : 27 cm'
+blurb: 'Explores the accidents of time, place, and circumstance that culminated in
+  the century''s technological achievements: the computer, the telephone, the production
+  line, the airplane, the atomic bomb, the guided rocket, plastics, and television'
 subjects:
-- History
-- Technology
-- Inventions
-- Technology -- History
+- technology & engineering
 recommendations:
-- exploding-the-phone-the-untold-story-of-the-teenagers-and-outlaws-who-hacked-ma-bell
-- voyage
-- venus-in-copper
 - the-victorian-internet-the-remarkable-story-of-the-telegraph-and-the-nineteenth-century-s-on-line-pioneers
-- the-mother-tongue-english-and-how-it-got-that-way
+- cook
+- the-smoke-ring
+- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
+- the-making-of-the-atomic-bomb
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -13,29 +13,20 @@ year_published: 2005
 publisher: Harper
 binding: Paperback
 cover: the-light-fantastic.jpg
-blurb: "From the back cover:\r\n\r\nIn *The Light Fantastic* only one individual can\
-  \ save the world from a disastrous collision.  Unfortunately, the hero happens to\
-  \ be the singularly inept wizard Rincewind, who was last seen falling off the edge\
-  \ of the world...."
+blurb: Terry Pratchett's profoundly irreverent, bestselling novels have garnered him
+  a revered position in the halls of parody next to the likes of Mark Twain, Kurt
+  Vonnegut, Douglas Adams, and Carl Hiaasen. In The Light Fantastic, only one individual
+  can save the world from a disastrous collision. Unfortunately, the hero happens
+  to be the singularly inept wizard Rincewind, who was last seen falling off the edge
+  of the world.
 subjects:
-- Fiction
-- Discworld (Imaginary place)
-- Samuel Vimes (Fictitious character)
-- Fantasy
-- Discworld (imaginary place), fiction
-- Fiction, fantasy, general
-- Fiction, humorous
-- Rincewind the wizard (fictitious character), fiction
-- Fiction, humorous, general
-- Literature and fiction, fantasy
-- Fiction, satire
-- English literature
+- fiction
 recommendations:
 - equal-rites
-- sourcery
-- wyrd-sisters
-- thud
-- thief-of-time
+- soul-music
+- snuff
+- the-last-continent
+- lords-and-ladies
 series_name: Discworld
 series_index: 2.0
 review_needs_generation: false

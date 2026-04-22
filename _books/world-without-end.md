@@ -3,7 +3,7 @@ layout: book
 slug: world-without-end
 title: 'World Without End (Kingsbridge, #2)'
 author: Ken Follett
-isbn: '1429543655'
+isbn: '9780451224460'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,44 +13,17 @@ year_published: 2007
 publisher: Dutton
 binding: Hardcover
 cover: world-without-end.jpg
-blurb: Fiction, Great Britain, New York Times bestseller, Peste Negra, Historia, Plague,
-  Historical fiction, Peste bubónica
+blurb: Two centuries after the building of the elaborate Gothic cathedral in Kingsbridge,
+  its prior finds himself at the center of a web of ambition and revenge that places
+  the city at a crossroad of commerce, medicine, and architecture.
 subjects:
-- Fiction
-- Great Britain
-- New York Times bestseller
-- Peste Negra
-- Historia
-- Plague
-- Historical fiction
-- Peste bubónica
-- Epidemics
-- Open Library Staff Picks
-- Novela histórica
-- Epidemias
-- History
-- Black Death
-- Suspense
-- nyt:mass_market_paperback=2010-08-15
-- Ficción
-- Fiction, historical
-- England, fiction
-- Middle Ages
-- Roman anglais
-- Familie
-- Kirchenbau
-- Baumeister
-- Fiction, historical, general
-- Peste noire
-- Romans, nouvelles
-- Histoire
-- Novela
+- black death
 recommendations:
-- a-column-of-fire
 - the-pillars-of-the-earth
-- the-system-of-the-world
-- a-gentleman-in-moscow
-- quicksilver
+- a-column-of-fire
+- fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonzo-letters-volume-ii-1968-1976
+- house-of-open-wounds
+- solaris
 series_name: Kingsbridge
 series_index: 2.0
 review_needs_generation: false

@@ -3,7 +3,7 @@ layout: book
 slug: the-world-without-us
 title: The World Without Us
 author: Alan Weisman
-isbn: '9787543933606'
+isbn: '9781448133475'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,50 +13,27 @@ year_published: 2007
 publisher: Thomas Dunne Books
 binding: Hardcover
 cover: the-world-without-us.jpg
-blurb: The World Without Us, an intriguing peek inside the impact homo sapiens have
-  on the world around us and what will be left when we cease to exist. Alan Weisman
-  intelligently intertwines the affect we have on the Earth and its ecosystems and
-  the way we have damaged it, the things nature can't undo. A tremendous report on
-  the ways we have killed the flora and fauna and how we will ultimately exterminate
-  ourselves, bringing all that is left of human civilization with us. ~ Written by
-  an 11 year old
+blurb: 'Revised Edition with New Afterword from the Author Time #1 Nonfiction Book
+  of the Year Finalist for the National Book Critics Circle Award Over 3 million copies
+  sold in 35 Languages "On the day after humans disappear, nature takes over and immediately
+  begins cleaning house - or houses, that is. Cleans them right off the face of the
+  earth. They all go." What if mankind disappeared right now, forever... what would
+  happen to the Earth in a week, a year, a millennium? Could the planet''s climate
+  ever recover from human activity? How would nature destroy our huge cities and our
+  myriad plastics? And what would our final legacy be? Speaking to experts in fields
+  as diverse as oil production and ecology, and visiting the places that have escaped
+  recent human activity to discover how they have adapted to life without us, Alan
+  Weisman paints an intriguing picture of the future of Earth. Exploring key concerns
+  of our time, this absorbing thought experiment reveals a powerful - and surprising
+  - picture of our planet''s future.'
 subjects:
-- Human-plant relationships
-- Efecto del ser humano sobre
-- Nature
-- Effect of human beings on
-- Ecología
-- Environmental degradation
-- Aarde (planeet)
-- Relaciones entre seres humanos y animales
-- Naturaleza
-- Mensheid
-- Cultura material
-- Het fictieve
-- Material culture
-- Forecasting
-- Ecology
-- Toekomstverwachtingen
-- Cultura
-- Human-animal relationships
-- Long Now Manual for Civilization
-- Zukunft
-- Humanekologi
-- Human-plant relationship
-- Människan och naturen
-- Human-animal relationship
-- Mensch
-- Djur och människor
-- Human influence on nature
-- Nature, effect of human beings on
-- nyt:paperback-nonfiction=2008-08-31
-- New York Times bestseller
+- science
 recommendations:
-- dune
-- the-new-digital-age-reshaping-the-future-of-people-nations-and-business
-- 1491-new-revelations-of-the-americas-before-columbus
-- fahrenheit-451
-- enders-game
+- the-doors-of-eden
+- rocket-men-the-daring-odyssey-of-apollo-8-and-the-astronauts-who-made-man-s-first-journey-to-the-moon
+- sapiens-a-brief-history-of-humankind
+- outland
+- blackout
 series_name: ''
 series_index: ''
 review_needs_generation: false

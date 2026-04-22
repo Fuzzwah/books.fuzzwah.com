@@ -13,24 +13,24 @@ year_published: 2013
 publisher: Orbit
 binding: Kindle Edition
 cover: the-petrovitch-trilogy.jpg
-blurb: "Welcome to the Metrozone -- post-apocalyptic London of the future. While the\
-  \ rest of Britain has devolved to anarchy, the M25 cordon protects a decaying city\
-  \ filled with homeless refugees, street gangs, exiled yakuza, crooked cops and mad\
-  \ cults. And something else; something new and dangerous.\r\n\r\nEnter Samuil Petrovitch:\
-  \ a Russian émigré with a smart mouth, a dodgy heart and a dodgier past. He's brilliant,\
-  \ friendless, cocky and -- armed only with a genius-level intellect, prototype cyberware\
-  \ and a prodigious vocabulary of Russian swear words -- might just be most unlikely\
-  \ champion a city has ever had.\r\n\r\nWelcome to the future. Mind the gap."
+blurb: 'From a Philip K. Dick award–winning author, hard-science fiction meets crime
+  noir in post-apocalyptic London in this sci-fi trilogy. Welcome to the Metrozone
+  — post-apocalyptic London of the future. While the rest of Britain has devolved
+  to anarchy, the M25 cordon protects a decaying city filled with homeless refugees,
+  street gangs, exiled yakuza, crooked cops and mad cults. And something else; something
+  new and dangerous. Enter Samuil Petrovitch: a Russian émigré with a smart mouth,
+  a dodgy heart and a dodgier past. He''s brilliant, friendless, cocky and — armed
+  only with a genius-level intellect, prototype cyberware and a prodigious vocabulary
+  of Russian swear words — might just be most unlikely champion a city has ever had.
+  Welcome to the future. Mind the gap.'
 subjects:
-- Fiction, general
-- SciFi
-- Fiction, science fiction, cyberpunk
+- fiction
 recommendations:
-- the-redemption-of-time-remembrance-of-earths-past
-- jam
-- triplanetary
-- titan
-- the-windup-girl
+- made-things
+- blackout
+- all-clear-oxford-time-travel-4
+- lords-of-uncreation
+- hyperion
 series_name: Samuil Petrovitch
 series_index: 1.0
 review_needs_generation: false

@@ -14,30 +14,17 @@ year_published: 1999
 publisher: Berkley Trade
 binding: Paperback
 cover: the-victorian-internet-the-remarkable-story-of-the-telegraph-and-the-nineteenth-century-s-on-line-pioneers.jpg
-blurb: 'The Victorian Internet tells the story of the telegraph''s creation and remarkable
-  impact, and of the visionaries, oddballs, and eccentrics who pioneered it. From
-  the eighteenth-century French scientist Jean-Antoine Nollet, whose experiments proved
-  that electricity could be transmitted over great distances, to Samuel F. B.
-
-
-  Morse, who developed the first practical electric telegraph in 1837, to Thomas Edison,
-  who began his career in the telegraph business and proposed to his wife by tapping
-  Morse code on her hand, Tom Standage tells a colorful tale of scientific discovery,
-  technological cunning, personal rivalry, and cutthroat competition.'
+blurb: In the 19th century, the first online communications network was in place.
+  The saga of the telegraph offers parallels to that of the Internet and is a remarkable
+  episode in technological history.
 subjects:
-- Telegraphie
-- Telekommunikationsnetz
-- Telegraph
-- History
-- Telecommunication, history
-- Telegraph--history
-- '384.109'
+- history
 recommendations:
-- voyage
-- venus-in-copper
+- connections
+- the-rational-optimist-how-prosperity-evolves
+- the-map-that-changed-the-world-william-smith-and-the-birth-of-modern-geology
 - the-mother-tongue-english-and-how-it-got-that-way
-- the-making-of-the-atomic-bomb
-- the-iron-hand-of-mars
+- pax-war-and-peace-in-rome-s-golden-age
 series_name: ''
 series_index: ''
 review_needs_generation: false

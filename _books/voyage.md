@@ -13,24 +13,25 @@ year_published: 1997
 publisher: Harper Voyager
 binding: Mass Market Paperback
 cover: voyage.jpg
-blurb: In a parallel world where JFK survived the assassination attempt in Dallas,
-  as the Apollo programme reaches its triumphant goal the former President encourages
-  NASA to build on this success and send men to Mars.
+blurb: 'The space mission of a lifetime An epic saga of America''s might-have-been,
+  Voyage is a powerful, sweeping novel of how, if President Kennedy had lived, we
+  could have sent a manned mission to Mars in the 1980s. Imaginatively created from
+  the true lives and real events., Voyage returns to the geniuses of NASA and the
+  excitement of the Saturn rocket, and includes historical figures from Neil Armstrong
+  to Ronald Reagan who are interwoven with unforgettable characters whose dreams mirror
+  the promise of a young space program that held the world in thrall. There is: Dana,
+  the Nazi camp survivor who achieves the dream of his hated masters; Gershon, the
+  Vietnam fighter jock determined to be the first African-American to land on another
+  planet; and Natalie York, the brilliant geologist/astronaut who risks a career and
+  love for the chance to run her fingers through the soil of another world.'
 subjects:
-- Fiction
-- History
-- Space flight
-- United States
-- Space flight -- Fiction
-- Fiction, science fiction, general
-- Exploration of outer space
-- Exploration
+- fiction
 recommendations:
-- seveneves
-- salvation
+- moonseed
 - titan
-- doomsday-book
-- to-be-taught-if-fortunate
+- rocket-men-the-daring-odyssey-of-apollo-8-and-the-astronauts-who-made-man-s-first-journey-to-the-moon
+- the-midnight-library
+- blackout
 series_name: NASA Trilogy
 series_index: 1.0
 review_needs_generation: false

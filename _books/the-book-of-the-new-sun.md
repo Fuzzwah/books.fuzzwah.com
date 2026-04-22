@@ -13,16 +13,16 @@ year_published: 1998
 publisher: SFBC
 binding: Hardcover
 cover: the-book-of-the-new-sun.jpg
-blurb: Science fiction, American Fantasy fiction
+blurb: Shadow of the torturer.; Claw of the conciliator.; Sword of the lictor.; Citadel
+  of the autarch.
 subjects:
-- Science fiction
-- American Fantasy fiction
+- fantasy fiction, american
 recommendations:
-- to-say-nothing-of-the-dog
-- blackout
 - shadow-claw
-- triplanetary
-- the-uplift-war
+- last-argument-of-kings
+- transition
+- the-last-hero-a-discworld-fable
+- the-wee-free-men
 series_name: ''
 series_index: ''
 review_needs_generation: false

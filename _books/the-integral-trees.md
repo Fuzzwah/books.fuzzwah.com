@@ -13,17 +13,16 @@ year_published: 1985
 publisher: Del Rey Ballantine
 binding: Mass Market Paperback
 cover: the-integral-trees.jpg
-blurb: American Science fiction, Science fiction, Fiction, science fiction, general
+blurb: A culture of evolved humans inhabits a doughnut-shaped gas tube that rotates
+  around a neutron star
 subjects:
-- American Science fiction
-- Science fiction
-- Fiction, science fiction, general
+- fiction
 recommendations:
+- the-smoke-ring
 - a-world-out-of-time
-- the-mote-in-god-s-eye
 - ringworld
-- stranger-in-a-strange-land
-- triplanetary
+- the-mote-in-god-s-eye
+- beowulf-s-children
 series_name: The State
 series_index: 2.0
 review_needs_generation: false

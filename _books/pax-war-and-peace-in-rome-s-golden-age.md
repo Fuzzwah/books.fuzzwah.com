@@ -13,14 +13,18 @@ year_published: 2023
 publisher: Abacus
 binding: Hardcover
 cover: pax-war-and-peace-in-rome-s-golden-age.jpg
-blurb: ''
-subjects: []
+blurb: '"Beginning in 69AD, the so-called Year of the Four Emperors and spanning to
+  138AD, the death of Hadrian, Pax presents a narrative history of Rome at the height
+  of its power. From the gilded capital to the barbarous realms beyond the frontier,
+  historian Tom Holland offers a tour of the most famous episodes in Roman history"--'
+subjects:
+- history
 recommendations:
-- persian-fire-the-first-world-empire-and-the-battle-for-the-west
 - millennium-the-end-of-the-world-and-the-forging-of-christendom
-- weaponized
-- wayward-galaxy
-- unruly-a-history-of-england-s-kings-and-queens
+- persian-fire-the-first-world-empire-and-the-battle-for-the-west
+- the-victorian-internet-the-remarkable-story-of-the-telegraph-and-the-nineteenth-century-s-on-line-pioneers
+- spqr-a-history-of-ancient-rome
+- fire-in-the-east
 series_name: ''
 series_index: ''
 review_needs_generation: false

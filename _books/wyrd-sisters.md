@@ -3,7 +3,7 @@ layout: book
 slug: wyrd-sisters
 title: 'Wyrd Sisters (Discworld, #6)'
 author: Terry Pratchett
-isbn: '9780061020667'
+isbn: '9781435274709'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,44 +13,18 @@ year_published: 2008
 publisher: Paw Prints
 binding: Library Binding
 cover: wyrd-sisters.jpg
-blurb: Granny Weatherwax, Nanny Ogg, and Maigrat have fairy godmother-dom thrust upon
-  them.
+blurb: When King Verence of Lancre is murdered by his cousin, his baby son is rescued
+  by three witches. They are Granny Weatherwax, whose normal state of being is one
+  of barely controlled rage, the extremely earthy Nanny Ogg, and the downtrodden Magrat
+  Garlick.
 subjects:
-- Fiction, fantasy, general
-- Discworld (imaginary place), fiction
-- Granny weatherwax (fictitious character), fiction
-- Fiction
-- Discworld (Imaginary place)
-- Occult fiction
-- Witches
-- Fantasy
-- MacBeth
-- satire
-- humor
-- kingdom
-- Fantasy fiction
-- Fiction, humorous
-- Fiction, humorous, general
-- Literature and fiction, fantasy
-- Fiction, science fiction, general
-- English Fantasy fiction
-- Translations into Turkish
-- Turkish Fantasy fiction
-- Translations from English
-- Disque-monde (Lieu imaginaire)
-- Romans, nouvelles
-- Sorcières
-- English literature
-- Witchcraft
-- Drama
-- Wizards
-- Occultism
+- discworld (imaginary place)
 recommendations:
-- equal-rites
-- going-postal
-- carpe-jugulum
-- mort
+- witches-abroad
 - lords-and-ladies
+- carpe-jugulum
+- maskerade
+- a-hat-full-of-sky
 series_name: Discworld
 series_index: 6.0
 review_needs_generation: false

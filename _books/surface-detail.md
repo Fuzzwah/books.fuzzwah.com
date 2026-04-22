@@ -13,36 +13,31 @@ year_published: 2010
 publisher: Orbit/Hachette Book Group
 binding: Hardcover
 cover: surface-detail.jpg
-blurb: "It begins in the realm of the Real, where matter still matters.\r\n\r\nIt\
-  \ begins with a murder.\r\n\r\nAnd it will not end until the Culture has gone to\
-  \ war with death itself.\r\n\r\nLededje Y'breq is one of the Intagliated, her marked\
-  \ body bearing witness to a family shame, her life belonging to a man whose lust\
-  \ for power is without limit. Prepared to risk everything for her freedom, her release,\
-  \ when it comes, is at a price, and to put things right she will need the help of\
-  \ the Culture.\r\n\r\nBenevolent, enlightened and almost infinitely resourceful\
-  \ though it may be, the Culture can only do so much for any individual. With the\
-  \ assistance of one of its most powerful - and arguably deranged - warships, Lededje\
-  \ finds herself heading into a combat zone not even sure which side the Culture\
-  \ is really on. A war - brutal, far-reaching - is already raging within the digital\
-  \ realms that store the souls of the dead, and it's about to erupt into reality.\r\
-  \n\r\nIt started in the realm of the Real and that is where it will end. It will\
-  \ touch countless lives and affect entire civilizations, but at the center of it\
-  \ all is a young woman whose need for revenge masks another motive altogether.\r\
-  \n\r\nSURFACE DETAIL is Iain M. Banks' new Culture novel, a breathtaking achievement\
-  \ from a writer whose body of work is without parallel in the modern history of\
-  \ science fiction."
+blurb: It begins in the realm of the Real, where matter still matters. It begins with
+  a murder. And it will not end until the Culture has gone to war with death itself.
+  Lededje Y'breq is one of the Intagliated, her marked body bearing witness to a family
+  shame, her life belonging to a man whose lust for power is without limit. Prepared
+  to risk everything for her freedom, her release, when it comes, is at a price, and
+  to put things right she will need the help of the Culture. Benevolent, enlightened
+  and almost infinitely resourceful though it may be, the Culture can only do so much
+  for any individual. With the assistance of one of its most powerful - and arguably
+  deranged - warships, Lededje finds herself heading into a combat zone not even sure
+  which side the Culture is really on. A war - brutal, far-reaching - is already raging
+  within the digital realms that store the souls of the dead, and it's about to erupt
+  into reality. It started in the realm of the Real and that is where it will end.
+  It will touch countless lives and affect entire civilizations, but at the center
+  of it all is a young woman whose need for revenge masks another motive altogether.
+  SURFACE DETAIL is Iain M. Banks' new Culture novel, a breathtaking achievement from
+  a writer whose body of work is without parallel in the modern history of science
+  fiction.
 subjects:
-- Fiction
-- Revenge
-- Artificial intelligence
-- Life on other planets
-- Science fiction
+- fiction
 recommendations:
+- the-hydrogen-sonata
+- consider-phlebas
 - matter
-- we-are-legion-we-are-bob
-- to-be-taught-if-fortunate
-- the-mote-in-god-s-eye
-- infinity-engine
+- the-player-of-games
+- look-to-windward
 series_name: Culture
 series_index: 9.0
 review_needs_generation: false

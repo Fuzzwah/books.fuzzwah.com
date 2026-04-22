@@ -3,7 +3,7 @@ layout: book
 slug: the-invisible-life-of-addie-larue
 title: The Invisible Life of Addie LaRue
 author: V.E. Schwab
-isbn: '3911399065'
+isbn: '9781785652516'
 shelf: to-read
 my_rating: 4
 date_read: ''
@@ -13,31 +13,30 @@ year_published: 2020
 publisher: W. F. Howes Audio
 binding: Audiobook
 cover: the-invisible-life-of-addie-larue.jpg
-blurb: "France, 1714: in a moment of desperation, a young woman makes a Faustian bargain\
-  \ to live forever and is cursed to be forgotten by everyone she meets.\r\n\r\nThus\
-  \ begins the extraordinary life of Addie LaRue, and a dazzling adventure that will\
-  \ play out across centuries and continents, across history and art, as a young woman\
-  \ learns how far she will go to leave her mark on the world.\r\n\r\nBut everything\
-  \ changes when, after nearly 300 years, Addie stumbles across a young man in a hidden\
-  \ bookstore and he remembers her name."
+blurb: For someone damned to be forgettable, Addie LaRue is a most delightfully unforgettable
+  character, and her story is the most joyous evocation of unlikely immortality. Neil
+  Gaiman A Sunday Times-bestselling, award-nominated genre-defying tour-de-force of
+  Faustian bargains, for fans of The Time Traveler's Wife and Life After Life, and
+  The Sudden Appearance of Hope. When Addie La Rue makes a pact with the devil, she
+  trades her soul for immortality. But there's always a price - the devil takes away
+  her place in the world, cursing her to be forgotten by everyone. Addie flees her
+  tiny home town in 18th-Century France, beginning a journey that takes her across
+  the world, learning to live a life where no one remembers her and everything she
+  owns is lost and broken. Existing only as a muse for artists throughout history,
+  she learns to fall in love anew every single day. Her only companion on this journey
+  is her dark devil with hypnotic green eyes, who visits her each year on the anniversary
+  of their deal. Alone in the world, Addie has no choice but to confront him, to understand
+  him, maybe to beat him. Until one day, in a second hand bookshop in Manhattan, Addie
+  meets someone who remembers her. Suddenly thrust back into a real, normal life,
+  Addie realises she can't escape her fate forever.
 subjects:
-- nyt:combined-print-and-e-book-fiction=2020-10-25
-- New York Times bestseller
-- Fiction, fantasy, historical
-- LGBTQ science fiction & fantasy
-- Memory
-- Fiction
-- Immortalism
-- Deals
-- Man-woman relationships
-- FICTION / Fantasy / Historical
-- FICTION / Literary
+- fiction
 recommendations:
-- circe
-- the-midnight-library
-- last-argument-of-kings
-- a-gentleman-in-moscow
+- to-be-taught-if-fortunate
+- in-ascension
+- infinity-gate
 - the-book-of-elsewhere
+- red-country
 series_name: ''
 series_index: ''
 review_needs_generation: false

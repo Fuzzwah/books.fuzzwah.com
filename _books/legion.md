@@ -1,31 +1,29 @@
 ---
 layout: book
 slug: legion
-title: 'Legion (The Horus Heresy #7)'
+title: 'Legion (The Horus Heresy, #7)'
 author: Dan Abnett
-isbn: '9781849708159'
+isbn: '9781844165360'
 shelf: read
-my_rating: 0
-date_read: '2020-02-23'
-date_added: '2020-02-23'
-pages: 0
-year_published: 2014
-publisher: The Black Library
-binding: Audiobook
+my_rating: 5
+date_read: '2020-03-02'
+date_added: '2019-12-23'
+pages: 416
+year_published: 2008
+publisher: Games Workshop
+binding: Mass Market Paperback
 cover: legion.jpg
-blurb: In the jungles of the Dolorosa Coil, a coalition of alien tau and human deserters
-  have waged war upon the Imperium for countless years. Fresh Imperial Guard forces
-  from the Arkhan Confederates are sent in to break the stalemate and annihilate the
-  xenos. But greater forces are at work, and the Confederates soon find themselves
-  broken and scattered. As they fight a desperate guerrilla war, their only hope may
-  lie in the hands of a disgraced commissar, hell-bent on revenge.
-subjects: []
+blurb: The latest novel in the Black Library's flagship SF series which tells the
+  story of the Horus Heresy – introduces the story of the Alpha Legion and their primarch
+  Alpharius and details the trials of the Imperial army.
+subjects:
+- fiction
 recommendations:
 - horus-rising
-- zero-hour
-- year-zero
-- wrath-of-empire
-- words-of-radiance
+- descent-of-angels
+- mechanicum
+- tales-of-heresy
+- fallen-angels
 series_name: The Horus Heresy
 series_index: 7.0
 review_needs_generation: false

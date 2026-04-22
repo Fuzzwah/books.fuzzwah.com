@@ -13,14 +13,14 @@ year_published: 2020
 publisher: Allen & Unwin
 binding: Paperback
 cover: honeybee.jpg
-blurb: ''
+blurb: The highly anticipated new novel by the bestselling author of Jasper Jones.
 subjects: []
 recommendations:
-- weaponized
-- wayward-galaxy
-- unruly-a-history-of-england-s-kings-and-queens
-- the-wisdom-of-crowds
-- the-will-of-the-many
+- the-collapsing-empire
+- pandora-s-star
+- master-of-furies
+- half-a-war
+- reaper-man
 series_name: ''
 series_index: ''
 review_needs_generation: false

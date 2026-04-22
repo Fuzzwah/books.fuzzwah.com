@@ -1,34 +1,31 @@
 ---
 layout: book
 slug: false-gods
-title: 'False Gods (Horus Heresy #2)'
+title: 'False Gods (The Horus Heresy, #2)'
 author: Graham McNeill
-isbn: '9781849706193'
+isbn: '9781844163700'
 shelf: read
-my_rating: 0
-date_read: '2019-12-20'
-date_added: '2019-12-20'
-pages: 0
-year_published: 2014
+my_rating: 5
+date_read: '2019-12-23'
+date_added: '2019-12-21'
+pages: 416
+year_published: 2006
 publisher: Black Library
-binding: MP3 CD
+binding: Mass Market Paperback
 cover: false-gods.jpg
-blurb: Brothers, Fiction, Imaginary wars and battles, Human-alien encounters, Space
-  warfare, Science fiction
+blurb: The human Imperium stands at its height of glory - thousands of worlds have
+  been brought to heel by the conquering armies of mankind. At the peak of his powers,
+  Warmaster Horus wields absolute control - but can even he resist the corrupting
+  whispers of Chaos?
 subjects:
-- Brothers
-- Fiction
-- Imaginary wars and battles
-- Human-alien encounters
-- Space warfare
-- Science fiction
+- fiction
 recommendations:
-- the-three-body-problem
-- the-dark-forest
-- death-s-end
-- triplanetary
-- the-line-of-polity
-series_name: Horus Heresy
+- fulgrim
+- mechanicum
+- horus-rising
+- descent-of-angels
+- the-flight-of-the-eisenstein
+series_name: The Horus Heresy
 series_index: 2.0
 review_needs_generation: false
 ---

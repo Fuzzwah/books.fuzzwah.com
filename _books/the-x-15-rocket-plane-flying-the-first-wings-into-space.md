@@ -13,21 +13,16 @@ year_published: 2013
 publisher: University of Nebraska Press
 binding: Hardcover
 cover: the-x-15-rocket-plane-flying-the-first-wings-into-space.jpg
-blurb: X-15 (Rocket aircraft), Research, Hypersonic Aerodynamics, Research aircraft,
-  History, Space flight
+blurb: Discusses the development of the X-15 Rocket Plane, a spacecraft that paved
+  the way for human-controlled spaceflight.
 subjects:
-- X-15 (Rocket aircraft)
-- Research
-- Hypersonic Aerodynamics
-- Research aircraft
-- History
-- Space flight
+- technology & engineering
 recommendations:
-- voyage
-- longitude-the-true-story-of-a-lone-genius-who-solved-the-greatest-scientific-problem-of-his-time
-- dealers-of-lightning
-- we-are-legion-we-are-bob
-- tribune-of-rome
+- pandora-s-star
+- neptune-s-brood
+- permutation-city
+- exploding-the-phone-the-untold-story-of-the-teenagers-and-outlaws-who-hacked-ma-bell
+- brave-new-world
 series_name: ''
 series_index: ''
 review_needs_generation: false

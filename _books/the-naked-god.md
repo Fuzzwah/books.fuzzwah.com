@@ -13,28 +13,25 @@ year_published: 2009
 publisher: Orbit
 binding: Paperback
 cover: the-naked-god.jpg
-blurb: "From back cover Warner paperback November 2000:\r\n\r\nRETREAT OF THE RESURRECTION\r\
-  \n\r\nFaced with an interstellar war in which the only weapon is exorcism, the Confederation\
-  \ dissolves into anarchy.  For in a desperate act of triage, a few wealthy worlds\
-  \ prepare to sacrifice the mass of humankind to the risen dead souls from the Beyond.\
-  \  Meanwhile, the Possessed are destroying whole planets as they flee the universe\
-  \ in a transdimensional quest to find Heaven.\r\n\r\nBut there are far worse things\
-  \ than death -- or resurrection.  And the Possessed are about to discover that chasing\
-  \ paradise is the most horrific, irrevocable mistake they could make."
+blurb: The Confederation is starting to collapse politically and economically, allowing
+  the `possessed' to infiltrate more worlds. Quinn Dexter is loose on Earth, destroying
+  the giant arcologies one at a time. As Louise Kavanagh tries to track him down,
+  she manages to acquire some strange and powerful allies whose goal doesn't quite
+  match her own. The campaign to liberate Mortonridge from the possessed degenerates
+  into a horrendous land battle, the kind which hasn't been seen by humankind for
+  six hundred years; then some of the protagonists escape in a very unexpected direction.
+  Joshua Calvert and Syrinx fly their starships on a mission to find the Sleeping
+  God -- which an alien race believes holds the key to overthrowing the possessed.
+  THE NAKED GOD is the brilliant climax to Peter F. Hamilton's awe-inspiring Night's
+  Dawn Trilogy.
 subjects:
-- Fiction, science fiction, space opera
-- Fiction, science fiction, hard science fiction
-- The Future
-- Imaginary wars and battles
-- Interplanetary voyages
-- Fiction
-- Fiction, science fiction, general
+- fiction
 recommendations:
-- the-reality-dysfunction
-- broken-angels
-- the-collapsing-empire
 - the-neutronium-alchemist
-- pandora-s-star
+- the-reality-dysfunction
+- salvation-lost
+- the-captain-s-daughter
+- the-captains-daughter
 series_name: Night's Dawn
 series_index: 3.0
 review_needs_generation: false
