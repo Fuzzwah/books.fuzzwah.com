@@ -59,6 +59,16 @@ layout: default
             <h3>{{ rec_book.title }}</h3>
             <p>{{ rec_book.author }}</p>
           </a>
+        {% else %}
+          {% assign ext_book = site.data.ext_books | where_exp: "b", "b.slug == rec" | first %}
+          {% if ext_book %}
+            {% assign ext_href = ext_book.amazon_url | default: ext_book.book2rec_url %}
+            <a class="card" href="{{ ext_href }}" target="_blank" rel="noopener noreferrer">
+              <img src="{{ '/images/covers/' | append: ext_book.cover | relative_url }}" alt="Cover of {{ ext_book.title }}" loading="lazy">
+              <h3>{{ ext_book.title }}</h3>
+              <p>{{ ext_book.author }}</p>
+            </a>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>

@@ -1,3 +1,4 @@
+.env
 _cache/
 .venv/
 .bundle/
