@@ -11,10 +11,13 @@ date_added: '2019-12-23'
 pages: 416
 year_published: 2008
 publisher: Games Workshop
-binding: Paperback
+binding: Mass Market Paperback
 cover: legion.jpg
-blurb: ''
-subjects: []
+blurb: The latest novel in the Black Library's flagship SF series which tells the
+  story of the Horus Heresy – introduces the story of the Alpha Legion and their primarch
+  Alpharius and details the trials of the Imperial army.
+subjects:
+- fiction
 recommendations: []
 series_name: The Horus Heresy
 series_index: 7.0

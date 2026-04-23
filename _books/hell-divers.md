@@ -3,7 +3,7 @@ layout: book
 slug: hell-divers
 title: 'Hell Divers (Hell Divers, #1)'
 author: Nicholas Sansbury Smith
-isbn: '9798200924103'
+isbn: '9781538507551'
 shelf: read
 my_rating: 1
 date_read: '2019-06-08'
@@ -13,18 +13,20 @@ year_published: 2016
 publisher: Blackstone Pub
 binding: Audiobook
 cover: hell-divers.jpg
-blurb: The New York Times and USA Today bestselling series They dive so humanity survives
-  ... More than two centuries after World War III poisoned the planet, the final bastion
-  of humanity lives on massive airships circling the globe in search of a habitable
-  area to call home. Aging and outdated, most of the ships plummeted back to earth
-  long ago. The only thing keeping the two surviving lifeboats in the sky are Hell
-  Divers--men and women who risk their lives by skydiving to the surface to scavenge
-  for parts the ships desperately need. When one of the remaining airships is damaged
-  in an electrical storm, a Hell Diver team is deployed to a hostile zone called Hades.
-  But there's something down there far worse than the mutated creatures discovered
-  on dives in the past--something that threatens the fragile future of humanity.
+blurb: 'Ten years ago, Hell Diver Xavier X Rodriguez fell to Earth. Those he left
+  behind went on without him aboard the airship he once called home. Michael Everhart-the
+  boy once known as Tin-has grown into a man and the commander of Hell Diver Raptor
+  Team. While Michael dives to help keep the Hive in the air, Captain Leon Jordan
+  rules with an iron fist at the helm of the ship. But unrest stirs under his strict
+  leadership as a prophecy of hope sweeps the lower decks. When a mysterious distress
+  signal calls the Hell Divers to the surface, Michael and his loyal team begin to
+  uncover long-buried truths and the secrets Captain Jordan will do anything to keep.
+  They dive so humanity survives ... but will they survive the ultimate betrayal?
+  USA Today bestselling author Nicholas Sansbury Smith delivers another heart-pounding
+  thriller in Hell Divers II: Ghosts, the second book in the acclaimed science fiction
+  series.'
 subjects:
-- young adult fiction
+- fiction
 recommendations:
 - ghosts
 - deliverance

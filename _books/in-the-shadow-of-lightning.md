@@ -2,7 +2,7 @@
 layout: book
 slug: in-the-shadow-of-lightning
 title: 'In the Shadow of Lightning (Glass Immortals, #1)'
-author: Brian McClellan
+author: Brian  McClellan
 isbn: '9781250755698'
 shelf: read
 my_rating: 4
@@ -13,8 +13,12 @@ year_published: 2022
 publisher: Tor Books
 binding: Hardcover
 cover: in-the-shadow-of-lightning.jpg
-blurb: ''
-subjects: []
+blurb: Demir Grappo is an outcast. He fled a life of wealth and power, abandoning
+  his responsibilities as a general, a governor, and a son. Now he will live out his
+  days as a grifter, rootless, and alone. But when his mother is brutally murdered,
+  Demir must return from exile to claim his seat at the head of the family
+subjects:
+- fiction
 recommendations: []
 series_name: Glass Immortals
 series_index: 1.0

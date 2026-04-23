@@ -11,10 +11,14 @@ date_added: '2019-12-23'
 pages: 416
 year_published: 2007
 publisher: Black Library
-binding: Paperback
+binding: Mass Market Paperback
 cover: the-flight-of-the-eisenstein.jpg
-blurb: ''
-subjects: []
+blurb: Having witnessed the events on Istvaan III, Deathguard Captain Garro seizes
+  a ship and heads to Terra to warn the Emperor of Horus's treachery. But the fleeing
+  Eisenstein is damaged by enemy fire, and becomes stranded in the warp. Can Garro
+  and his men survive the depradations of Chaos and get his warning to Terra in time?
+subjects:
+- fiction
 recommendations: []
 series_name: The Horus Heresy
 series_index: 4.0
