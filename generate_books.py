@@ -338,6 +338,22 @@ def fetch_cover_from_google_books(isbn: str, cache_dir: Path) -> Optional[bytes]
     return None
 
 
+def fetch_cover_from_openlibrary(isbn: str) -> Optional[bytes]:
+    """Return cover image bytes from OpenLibrary, or None if unavailable."""
+    url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
+    try:
+        data = _download_bytes(url)
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError):
+        return None
+    if not data or len(data) < 500:
+        return None
+    with __import__("io").BytesIO(data) as buf:
+        w, h = Image.open(buf).size
+    if w <= 1 or h < w:
+        return None
+    return data
+
+
 def _gbooks_fetch(url: str, cache_path: Path) -> Optional[Dict[str, Any]]:
     try:
         return _fetch_json_with_429_retry(url, cache_path)
@@ -483,6 +499,18 @@ def ensure_cover(slug: str, isbn: str, covers_dir: Path, cache_dir: Path) -> Non
             vprint(f"    [warn]  google cover save failed: {exc}")
     else:
         vprint(f"    [none]  no Google Books cover for ISBN {isbn}")
+
+    ol_data = fetch_cover_from_openlibrary(isbn)
+    if ol_data:
+        try:
+            resize_and_save_cover(ol_data, cover_path)
+            _save_cover_source(cover_sources, cover_meta_path, slug, f"openlibrary:isbn:{isbn}")
+            vprint(f"    [net]   -> openlibrary cover {len(ol_data)} bytes")
+            return
+        except Exception as exc:
+            vprint(f"    [warn]  openlibrary cover save failed: {exc}")
+    else:
+        vprint(f"    [none]  no OpenLibrary cover for ISBN {isbn}")
 
     if not cover_path.exists():
         write_placeholder_cover(cover_path)
