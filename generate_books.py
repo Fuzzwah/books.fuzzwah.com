@@ -309,10 +309,15 @@ def fetch_cover_from_google_books(isbn: str, cache_dir: Path) -> Optional[bytes]
         thumbnail = image_links.get("thumbnail") or image_links.get("smallThumbnail")
         if not thumbnail:
             continue
-        # zoom=0 returns the largest reliable size (~575px wide); strip the curl effect.
+        # Strip curl and imgtk (token is zoom-specific and breaks if zoom changes).
+        # For publisher/content URLs zoom=0 gives best quality; for scanned books/content
+        # URLs only zoom=1 reliably returns a portrait cover — higher zooms serve broken strips.
         thumbnail = thumbnail.replace("http://", "https://", 1)
-        thumbnail = re.sub(r"&zoom=\d+", "&zoom=0", thumbnail)
         thumbnail = thumbnail.replace("&edge=curl", "")
+        thumbnail = re.sub(r"&imgtk=[^&]+", "", thumbnail)
+        is_publisher = "/publisher/content" in thumbnail
+        zoom = "0" if is_publisher else "1"
+        thumbnail = re.sub(r"&zoom=\d+", f"&zoom={zoom}", thumbnail)
         try:
             image_data = _download_bytes(thumbnail)
         except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as exc:
@@ -322,6 +327,12 @@ def fetch_cover_from_google_books(isbn: str, cache_dir: Path) -> Optional[bytes]
             continue
         if hashlib.md5(image_data).hexdigest() == _GOOGLE_BOOKS_PLACEHOLDER_MD5:
             vprint("    [none]  Google Books returned 'no image available' placeholder")
+            continue
+        # Reject landscape images — scanned volumes sometimes serve banners instead of covers.
+        with __import__("io").BytesIO(image_data) as buf:
+            w, h = Image.open(buf).size
+        if h < w:
+            vprint(f"    [none]  Google Books returned landscape image ({w}x{h}), skipping")
             continue
         return image_data
     return None
