@@ -1,0 +1,40 @@
+---
+layout: book
+slug: new-spring
+title: 'New Spring (The Wheel of Time, #0)'
+author: Robert Jordan
+isbn: '9781841492612'
+shelf: read
+my_rating: 5
+date_read: ''
+date_added: '2019-12-17'
+pages: 423
+year_published: 2004
+publisher: Orbit
+binding: Paperback
+cover: new-spring.jpg
+blurb: The city of Canluum lies close to the scarred and desolate wastes of the Blight,
+  a walled haven from the dangers away to the north, and a refuge from the ill works
+  of those who serve the Dark One. Or so it is said. The city that greets Al'Lan Mandragoran,
+  exiled king of Malkier and the finest swordsman of his generation, is instead one
+  that is rife with rumour and the whisperings of Shadowspawn. Proof, should he have
+  required it, that the Dark One grows powerful once more and that his minions are
+  at work throughout the lands. And yet it is within Canluum's walls that Lan will
+  meet a woman who will shape his destiny. Moiraine is a young and powerful Aes Sedai
+  who has journeyed to the city in search of a bondsman. She requires aid in a desperate
+  quest to prove the truth of a vague and largely discredited prophecy - one that
+  speaks of a means to turn back the shadow, and of a child who may be the dragon
+  reborn.
+subjects:
+- fantasy fiction
+recommendations:
+- the-dharma-bums
+- the-lies-of-the-ajungo
+- last-argument-of-kings
+- matter
+- the-brain-that-changes-itself-stories-of-personal-triumph-from-the-frontiers-of-brain-science
+series_name: The Wheel of Time
+series_index: 0.0
+review_needs_generation: false
+---
+
