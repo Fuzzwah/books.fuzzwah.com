@@ -565,7 +565,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Generate Jekyll book markdown files from a Goodreads CSV export.")
     parser.add_argument("--input", help="Path to Goodreads CSV export")
     parser.add_argument("--books-dir", default="_books", help="Output directory for markdown files")
-    parser.add_argument("--cache-dir", default="_cache/gbooks", help="Google Books cache directory")
+    parser.add_argument("--cache-dir", default="/home/fuz/code/books/_cache/gbooks", help="Google Books cache directory")
     parser.add_argument("--covers-dir", default="images/covers", help="Directory for downloaded cover JPGs")
     parser.add_argument("--dry-run", action="store_true", help="Print actions without writing files")
     parser.add_argument(
