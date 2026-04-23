@@ -13,12 +13,11 @@ year_published: 2008
 publisher: Paw Prints
 binding: Library Binding
 cover: wyrd-sisters.jpg
-blurb: When King Verence of Lancre is murdered by his cousin, his baby son is rescued
-  by three witches. They are Granny Weatherwax, whose normal state of being is one
-  of barely controlled rage, the extremely earthy Nanny Ogg, and the downtrodden Magrat
-  Garlick.
+blurb: The arrival of a royal infant on their doorstep sets the three witch sisters
+  of Lancre on an adventure that has them wresting a kingdom away from its ruler.
+  Reprint.
 subjects:
-- discworld (imaginary place)
+- fiction
 recommendations:
 - witches-abroad
 - lords-and-ladies

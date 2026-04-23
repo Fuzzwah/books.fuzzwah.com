@@ -3,7 +3,7 @@ layout: book
 slug: differently-morphous
 title: Differently Morphous
 author: Yahtzee Croshaw
-isbn: '9781506711645'
+isbn: '9781506711713'
 shelf: to-read
 my_rating: 0
 date_read: ''

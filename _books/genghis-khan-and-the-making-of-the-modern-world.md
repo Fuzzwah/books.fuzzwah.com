@@ -3,7 +3,7 @@ layout: book
 slug: genghis-khan-and-the-making-of-the-modern-world
 title: Genghis Khan and the Making of the Modern World
 author: Jack Weatherford
-isbn: '9780609809648'
+isbn: '9780609610626'
 shelf: read
 my_rating: 4
 date_read: '2022-04-04'
@@ -13,53 +13,63 @@ year_published: 2018
 publisher: Broadway Books
 binding: Kindle Edition
 cover: genghis-khan-and-the-making-of-the-modern-world.jpg
-blurb: The name Genghis Khan often conjures the image of a relentless, bloodthirsty
-  barbarian on horseback leading a ruthless band of nomadic warriors in the looting
-  of the civilized world. But the surprising truth is that Genghis Khan was a visionary
-  leader whose conquests joined backward Europe with the flourishing cultures of Asia
-  to trigger a global awakening, an unprecedented explosion of technologies, trade,
-  and ideas. In Genghis Khan and the Making of the Modern World, Jack Weatherford,
-  the only Western scholar ever to be allowed into the Mongols' "Great Taboo"--Genghis
-  Khan's homeland and forbidden burial site--tracks the astonishing story of Genghis
-  Khan and his descendants, and their conquest and transformation of the world.  Fighting
-  his way to power on the remote steppes of Mongolia, Genghis Khan developed revolutionary
-  military strategies and weaponry that emphasized rapid attack and siege warfare,
-  which he then brilliantly used to overwhelm opposing armies in Asia, break the back
-  of the Islamic world, and render the armored knights of Europe obsolete. Under Genghis
-  Khan, the Mongol army never numbered more than 100,000 warriors, yet it subjugated
-  more lands and people in twenty-five years than the Romans conquered in four hundred.
-  With an empire that stretched from Siberia to India, from Vietnam to Hungary, and
-  from Korea to the Balkans, the Mongols dramatically redrew the map of the globe,
-  connecting disparate kingdoms into a new world order.  But contrary to popular wisdom,
-  Weatherford reveals that the Mongols were not just masters of conquest, but possessed
-  a genius for progressive and benevolent rule. On every level and from any perspective,
-  the scale and scope of Genghis Khan's accomplishments challenge the limits of imagination.
-  Genghis Khan was an innovative leader, the first ruler in many conquered countries
-  to put the power of law above his own power, encourage religious freedom, create
-  public schools, grant diplomatic immunity, abolish torture, and institute free trade.
-  The trade routes he created became lucrative pathways for commerce, but also for
-  ideas, technologies, and expertise that transformed the way people lived. The Mongols
-  introduced the first international paper currency and postal system and developed
-  and spread revolutionary technologies like printing, the cannon, compass, and abacus.
-  They took local foods and products like lemons, carrots, noodles, tea, rugs, playing
-  cards, and pants and turned them into staples of life around the world. The Mongols
-  were the architects of a new way of life at a pivotal time in history.  In Genghis
-  Khan and the Making of the Modern World, Jack Weatherford resurrects the true history
-  of Genghis Khan, from the story of his relentless rise through Mongol tribal culture
-  to the waging of his devastatingly successful wars and the explosion of civilization
-  that the Mongol Empire unleashed. This dazzling work of revisionist history doesn't
-  just paint an unprecedented portrait of a great leader and his legacy, but challenges
-  us to reconsider how the modern world was made.From the Hardcover edition.
+blurb: A lively, fast-paced and radically revisionist account of the life of Genghis
+  Khan and of the empire he created uawhich was the largest empire in world history
+  uaand of the "Global Awakening" that he brought about by joining the East with the
+  West. As Jack Weatherford writes "No one, before or since, conquered half as much
+  territory, as many countries, or as many people as did Genghis Khan." The conventional
+  view of Khan and the Mongols is that they were relentlessly brutal barbarians who
+  showed no mercy to those they conquered. Weatherford turns this view on its head
+  and shows that in fact Khan was a stunningly innovative and progressive thinker,
+  who created a benevolent and populist form of government within his empire uathe
+  first ruler to put the power of law above his own power; first to institute religious
+  freedom; first to create public schools; first to grant diplomatic immunity; first
+  to institute free trade, etc . By joining backward Europe with the flourishing cultures
+  of Asia, building the Silk Road into a marvelously efficient and heavily protected
+  world trading route, Khan created a new world culture, which provided the impetus
+  for the explosion of technological and social innovations known as the "Global Awakening,"
+  the fire that lighted the Renaissance. The book begins with the story of how Khan
+  developed a new military system, perfecting a style of battle and innovating many
+  brilliant strategies, and how he thereby consolidated power over all the Mongol
+  tribes. The book then follows him as he sets out to conquer the surrounding territories,
+  with dramatic storytelling about some of the key battles, such as the fall of Baghdad,
+  which broke the back of Muslim power, a blow from which the Muslim world has never
+  recovered. After Khan's death, the story continues with his heirs as they continue
+  to conquer ever more territory, and culminates in the sto- ry of his grandson Kublai
+  Khan and the explosion of new technologies and of world trade that happened during
+  his reign. DESCRIPTION A lively, fast-paced and radically revisionist account of
+  the life of Genghis Khan and of the empire he created uawhich was the largest empire
+  in world history uaand of the "Global Awakening" that he brought about by joining
+  the East with the West. As Jack Weatherford writes "No one, before or since, conquered
+  half as much territory, as many countries, or as many people as did Genghis Khan."
+  The conventional view of Khan and the Mongols is that they were relentlessly brutal
+  barbarians who showed no mercy to those they conquered. Weatherford turns this view
+  on its head and shows that in fact Khan was a stunningly innovative and progressive
+  thinker, who created a benevolent and populist form of government within his empire
+  uathe first ruler to put the power of law above his own power; first to institute
+  religious freedom; first to create public schools; first to grant diplomatic immunity;
+  first to institute free trade, etc . By joining backward Europe with the flourishing
+  cultures of Asia, building the Silk Road into a marvelously efficient and heavily
+  protected world trading route, Khan created a new world culture, which provided
+  the impetus for the explosion of technological and social innovations known as the
+  "Global Awakening," the fire that lighted the Renaissance. The book begins with
+  the story of how Khan developed a new military system, perfecting a style of battle
+  and innovating many brilliant strategies, and how he thereby consolidated power
+  over all the Mongol tribes. The book then follows him as he sets out to conquer
+  the surrounding territories, with dramatic storytelling about some of the key battles,
+  such as the fall of Baghdad, which broke the back of Muslim power, a blow from which
+  the Muslim world has never recovered. After Khan's death, the story continues with
+  his heirs as they continue to conquer ever more territory, and culminates in the
+  sto- ry of his grandson Kublai Khan and the explosion of new technologies and of
+  world trade that happened during his reign.
 subjects:
-- Biography & Autobiography
-- History
-- Nonfiction
-- Mongols
-- Kings and rulers
-- Biography
-- nyt:combined-print-and-e-book-nonfiction=2014-10-12
-- New York Times bestseller
-- Long Now Manual for Civilization
+- biography & autobiography
+- historical
+- history
+- asia
+- general
+- world
+- medieval
 recommendations:
 - how-the-scots-invented-the-modern-world-the-true-story-of-how-western-europes-poorest-nation-created-our-world-everything-in-it
 - caesar-s-legion-the-epic-saga-of-julius-caesar-s-elite-tenth-legion-and-the-armies-of-rome
