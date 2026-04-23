@@ -15,12 +15,7 @@ binding: Paperback
 cover: columbus-day.jpg
 blurb: ''
 subjects: []
-recommendations:
-- specops
-- sapiens-a-brief-history-of-humankind
-- the-flight-of-the-eisenstein
-- the-devils
-- system-collapse
+recommendations: []
 series_name: Expeditionary Force
 series_index: 1.0
 review_needs_generation: false

@@ -15,12 +15,7 @@ binding: ebook
 cover: specops.jpg
 blurb: ''
 subjects: []
-recommendations:
-- columbus-day
-- sapiens-a-brief-history-of-humankind
-- the-flight-of-the-eisenstein
-- the-devils
-- system-collapse
+recommendations: []
 series_name: Expeditionary Force
 series_index: 2.0
 review_needs_generation: false

@@ -15,12 +15,7 @@ binding: Hardcover
 cover: project-hail-mary.jpg
 blurb: ''
 subjects: []
-recommendations:
-- the-devils
-- system-collapse
-- shroud
-- in-the-shadow-of-lightning
-- echo-of-worlds
+recommendations: []
 series_name: ''
 series_index: ''
 review_needs_generation: false

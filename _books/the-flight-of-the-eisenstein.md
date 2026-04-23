@@ -15,12 +15,7 @@ binding: Paperback
 cover: the-flight-of-the-eisenstein.jpg
 blurb: ''
 subjects: []
-recommendations:
-- legion
-- horus-rising
-- galaxy-in-flames
-- fulgrim
-- false-gods
+recommendations: []
 series_name: The Horus Heresy
 series_index: 4.0
 review_needs_generation: false

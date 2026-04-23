@@ -15,12 +15,7 @@ binding: Paperback
 cover: false-gods.jpg
 blurb: ''
 subjects: []
-recommendations:
-- fulgrim
-- the-flight-of-the-eisenstein
-- legion
-- horus-rising
-- galaxy-in-flames
+recommendations: []
 series_name: The Horus Heresy
 series_index: 2.0
 review_needs_generation: false

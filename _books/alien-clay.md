@@ -15,12 +15,7 @@ binding: Kindle Edition
 cover: alien-clay.jpg
 blurb: ''
 subjects: []
-recommendations:
-- shroud
-- the-devils
-- system-collapse
-- project-hail-mary
-- in-the-shadow-of-lightning
+recommendations: []
 series_name: ''
 series_index: ''
 review_needs_generation: false

@@ -15,12 +15,7 @@ binding: Hardcover
 cover: system-collapse.jpg
 blurb: ''
 subjects: []
-recommendations:
-- the-devils
-- shroud
-- project-hail-mary
-- in-the-shadow-of-lightning
-- echo-of-worlds
+recommendations: []
 series_name: The Murderbot Diaries
 series_index: 7.0
 review_needs_generation: false

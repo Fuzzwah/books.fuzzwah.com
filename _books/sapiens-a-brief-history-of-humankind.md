@@ -15,12 +15,7 @@ binding: Paperback
 cover: sapiens-a-brief-history-of-humankind.jpg
 blurb: ''
 subjects: []
-recommendations:
-- specops
-- columbus-day
-- the-flight-of-the-eisenstein
-- the-devils
-- system-collapse
+recommendations: []
 series_name: ''
 series_index: ''
 review_needs_generation: false

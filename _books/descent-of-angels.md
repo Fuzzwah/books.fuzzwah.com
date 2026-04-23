@@ -15,12 +15,7 @@ binding: Paperback
 cover: descent-of-angels.jpg
 blurb: ''
 subjects: []
-recommendations:
-- the-flight-of-the-eisenstein
-- legion
-- horus-rising
-- galaxy-in-flames
-- fulgrim
+recommendations: []
 series_name: The Horus Heresy
 series_index: 6.0
 review_needs_generation: false

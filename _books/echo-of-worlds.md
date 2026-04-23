@@ -15,12 +15,7 @@ binding: Kindle Edition
 cover: echo-of-worlds.jpg
 blurb: ''
 subjects: []
-recommendations:
-- the-devils
-- system-collapse
-- shroud
-- project-hail-mary
-- in-the-shadow-of-lightning
+recommendations: []
 series_name: Pandominion
 series_index: 2.0
 review_needs_generation: false

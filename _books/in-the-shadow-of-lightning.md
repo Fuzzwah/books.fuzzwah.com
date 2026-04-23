@@ -15,12 +15,7 @@ binding: Hardcover
 cover: in-the-shadow-of-lightning.jpg
 blurb: ''
 subjects: []
-recommendations:
-- the-devils
-- system-collapse
-- shroud
-- project-hail-mary
-- echo-of-worlds
+recommendations: []
 series_name: Glass Immortals
 series_index: 1.0
 review_needs_generation: false

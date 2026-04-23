@@ -15,12 +15,7 @@ binding: Hardcover
 cover: shroud.jpg
 blurb: ''
 subjects: []
-recommendations:
-- alien-clay
-- the-devils
-- system-collapse
-- project-hail-mary
-- in-the-shadow-of-lightning
+recommendations: []
 series_name: ''
 series_index: ''
 review_needs_generation: false

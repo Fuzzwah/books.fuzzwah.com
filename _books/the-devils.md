@@ -15,12 +15,7 @@ binding: Hardcover
 cover: the-devils.jpg
 blurb: ''
 subjects: []
-recommendations:
-- system-collapse
-- shroud
-- project-hail-mary
-- in-the-shadow-of-lightning
-- echo-of-worlds
+recommendations: []
 series_name: The Devils
 series_index: 1.0
 review_needs_generation: false
