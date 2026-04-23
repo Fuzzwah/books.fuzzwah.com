@@ -1,5 +1,6 @@
 :root { --text:#1f2933; --muted:#52606d; --bg:#f7fafc; --card:#fff; --accent:#2b6cb0; }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 body { margin:0; font-family: Inter, system-ui, -apple-system, sans-serif; color:var(--text); background:var(--bg); }
 .container { width:min(1100px, 92vw); margin:0 auto; }
 .site-header,.site-footer { background:#fff; border-bottom:1px solid #e2e8f0; }
