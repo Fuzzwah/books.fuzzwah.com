@@ -310,31 +310,35 @@ def fetch_cover_from_google_books(isbn: str, cache_dir: Path) -> Optional[bytes]
         if not thumbnail:
             continue
         # Strip curl and imgtk (token is zoom-specific and breaks if zoom changes).
-        # For publisher/content URLs zoom=0 gives best quality; for scanned books/content
-        # URLs only zoom=1 reliably returns a portrait cover — higher zooms serve broken strips.
         thumbnail = thumbnail.replace("http://", "https://", 1)
         thumbnail = thumbnail.replace("&edge=curl", "")
         thumbnail = re.sub(r"&imgtk=[^&]+", "", thumbnail)
+        # Publisher URLs work at zoom=0 (large, reliable). Scanned URLs vary — try zoom=0
+        # first for best quality, fall back to zoom=1 if it serves a broken landscape strip.
         is_publisher = "/publisher/content" in thumbnail
-        zoom = "0" if is_publisher else "1"
-        thumbnail = re.sub(r"&zoom=\d+", f"&zoom={zoom}", thumbnail)
-        try:
-            image_data = _download_bytes(thumbnail)
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as exc:
-            vprint(f"    [warn]  Google Books image fetch failed: {exc}")
-            continue
-        if not image_data:
-            continue
-        if hashlib.md5(image_data).hexdigest() == _GOOGLE_BOOKS_PLACEHOLDER_MD5:
-            vprint("    [none]  Google Books returned 'no image available' placeholder")
-            continue
-        # Reject landscape images — scanned volumes sometimes serve banners instead of covers.
-        with __import__("io").BytesIO(image_data) as buf:
-            w, h = Image.open(buf).size
-        if h < w:
-            vprint(f"    [none]  Google Books returned landscape image ({w}x{h}), skipping")
-            continue
-        return image_data
+        zooms = ["0"] if is_publisher else ["0", "2", "1"]
+        base_url = re.sub(r"&zoom=\d+", "", thumbnail)
+        image_data = None
+        for zoom in zooms:
+            url = f"{base_url}&zoom={zoom}"
+            try:
+                candidate = _download_bytes(url)
+            except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as exc:
+                vprint(f"    [warn]  Google Books image fetch failed: {exc}")
+                break
+            if not candidate:
+                continue
+            if hashlib.md5(candidate).hexdigest() == _GOOGLE_BOOKS_PLACEHOLDER_MD5:
+                vprint("    [none]  Google Books returned 'no image available' placeholder")
+                break
+            with __import__("io").BytesIO(candidate) as buf:
+                w, h = Image.open(buf).size
+            if h > w:
+                image_data = candidate
+                break
+            vprint(f"    [none]  Google Books zoom={zoom} returned landscape image ({w}x{h}), trying next")
+        if image_data:
+            return image_data
     return None
 
 
