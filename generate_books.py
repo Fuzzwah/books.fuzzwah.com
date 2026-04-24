@@ -24,7 +24,6 @@ from book_utils import dump_markdown, parse_markdown
 DEFAULT_INPUT = Path("data/goodreads_library_export.csv")
 DEFAULT_SANITIZED_INPUT = Path("data/goodreads_sanitized.csv")
 ALLOWED_SHELVES = {"read", "currently-reading", "to-read"}
-_SUMMARY_TITLE_RE = re.compile(r"^(summary|unofficial summary)\b", re.IGNORECASE)
 
 VERBOSE = False
 
@@ -532,8 +531,6 @@ def read_rows(csv_path: Path) -> List[BookRow]:
             title = clean_value(row.get("Title", ""))
             author = clean_value(row.get("Author", ""))
             if not title or not author:
-                continue
-            if _SUMMARY_TITLE_RE.match(title):
                 continue
             rows.append(
                 BookRow(
