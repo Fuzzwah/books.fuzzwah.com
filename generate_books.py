@@ -24,6 +24,7 @@ from book_utils import dump_markdown, parse_markdown
 DEFAULT_INPUT = Path("data/goodreads_library_export.csv")
 DEFAULT_SANITIZED_INPUT = Path("data/goodreads_sanitized.csv")
 ALLOWED_SHELVES = {"read", "currently-reading", "to-read"}
+_SUMMARY_TITLE_RE = re.compile(r"^(summary|unofficial summary)\b", re.IGNORECASE)
 
 VERBOSE = False
 
@@ -532,6 +533,8 @@ def read_rows(csv_path: Path) -> List[BookRow]:
             author = clean_value(row.get("Author", ""))
             if not title or not author:
                 continue
+            if _SUMMARY_TITLE_RE.match(title):
+                continue
             rows.append(
                 BookRow(
                     title=title,
@@ -551,24 +554,44 @@ def read_rows(csv_path: Path) -> List[BookRow]:
     return rows
 
 
-def dedupe_rows(rows: List[BookRow]) -> List[BookRow]:
-    deduped: Dict[str, BookRow] = {}
-    passthrough: List[BookRow] = []
+def _base_dedup_key(row: BookRow) -> Tuple[str, str]:
+    """Normalized (base_title_slug, author_slug) for same-book detection across editions."""
+    title = strip_series_suffix(row.title).split(":", 1)[0].strip()
+    # Strip all apostrophe variants so "Captain's" == "Captain\u2019s" in the key.
+    title = re.sub(r"['\u2018\u2019\u02bc]", "", title)
+    norm = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode("ascii")
+    title_slug = re.sub(r"[^a-zA-Z0-9]+", "-", norm.lower()).strip("-")
+    author_slug = re.sub(r"[^a-zA-Z0-9]+", "-", row.author.lower()).strip("-")
+    return title_slug, author_slug
 
+
+def _better_row(a: BookRow, b: BookRow) -> BookRow:
+    a_date = a.date_read or dt.date.min
+    b_date = b.date_read or dt.date.min
+    return a if (a.my_rating, a_date) >= (b.my_rating, b_date) else b
+
+
+def dedupe_rows(rows: List[BookRow]) -> List[BookRow]:
+    # Pass 1: deduplicate by ISBN-13 (same physical edition).
+    by_isbn: Dict[str, BookRow] = {}
+    no_isbn: List[BookRow] = []
     for row in rows:
         if not row.isbn13:
-            passthrough.append(row)
+            no_isbn.append(row)
             continue
-        existing = deduped.get(row.isbn13)
-        if existing is None:
-            deduped[row.isbn13] = row
-            continue
-        existing_date = existing.date_read or dt.date.min
-        row_date = row.date_read or dt.date.min
-        if (row.my_rating, row_date) > (existing.my_rating, existing_date):
-            deduped[row.isbn13] = row
+        existing = by_isbn.get(row.isbn13)
+        by_isbn[row.isbn13] = row if existing is None else _better_row(existing, row)
 
-    return list(deduped.values()) + passthrough
+    # Pass 2: deduplicate by normalized base-title + author across all rows.
+    # Catches: different ISBNs for the same book (e.g. hardcover vs Kindle with
+    # colon subtitles) and encoding variants of the same title (smart vs ASCII quote).
+    by_key: Dict[Tuple[str, str], BookRow] = {}
+    for row in list(by_isbn.values()) + no_isbn:
+        key = _base_dedup_key(row)
+        existing = by_key.get(key)
+        by_key[key] = row if existing is None else _better_row(existing, row)
+
+    return list(by_key.values())
 
 
 def resolve_book(row: BookRow, cache_dir: Path) -> Tuple[Optional[ResolvedBook], Optional[str]]:

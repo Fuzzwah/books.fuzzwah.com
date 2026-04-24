@@ -5,7 +5,7 @@ title: 'The Captain''s Daughter (Arkship #2)'
 author: Peter F. Hamilton
 isbn: '9781836730118'
 shelf: read
-my_rating: 3
+my_rating: 4
 date_read: '2022-09-22'
 date_added: '2022-08-10'
 pages: 0
