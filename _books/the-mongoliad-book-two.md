@@ -1,40 +1,32 @@
 ---
 layout: book
 slug: the-mongoliad-book-two
-title: 'The Mongoliad: Book Two (Foreworld, #2)'
+title: The Mongoliad, Book Two
 author: Neal Stephenson
-isbn: '9781612182360'
+isbn: '9781612182377'
 shelf: read
-my_rating: 5
+my_rating: 4
 date_read: ''
-date_added: '2013-03-15'
-pages: 464
+date_added: '2012-12-26'
+pages: 452
 year_published: 2012
 publisher: 47North
-binding: Kindle Edition
+binding: Paperback
 cover: the-mongoliad-book-two.jpg
-blurb: Fusing historical events with a gripping fictional narrative, this first book
-  in the Mongoliad trilogy reveals a secret history of Europe in the thirteenth century.
-  As the Mongols swept across Asia and were poised to invade Europe in 1241, a small
-  band of warriors, inheritors of an ancient secret tradition, conceived a desperate
-  plan to stop the attack. They must kill the Khan of Khans; if they fail, all of
-  Christendom will be destroyed. In the late nineteenth century a mysterious group
-  of English martial arts aficionados provided Sir Richard F. Burton, well-known expert
-  on exotic languages and historical swordsmanship, a collection of long-lost manuscripts
-  to translate--the lost chronicles of this desperate fight to save Europe. Burton's
-  translations were lost, until a team of amateur archaeologists discovered them in
-  the ruins of a mansion in Trieste. From the translations and from the original source
-  material, the epic tale of The Mongoliad was recreated.
+blurb: In the aftermath of the world-shattering Mongolian invasion of 1241, Shield
+  Brethren, an order of warrior monks, search for a way to overthrow the horde; Haakon
+  must prove his mettle or lose his life in the ring; and Father Rodrigo takes up
+  arms in the name of his Lord.
 subjects:
-- alternative histories (fiction)
+- mongols
 recommendations:
 - the-mongoliad-book-three
 - the-mongoliad-book-one
 - the-rise-and-fall-of-d-o-d-o
 - the-system-of-the-world
 - cryptonomicon
-series_name: Foreworld
-series_index: 2.0
+series_name: ''
+series_index: ''
 review_needs_generation: false
 ---
 

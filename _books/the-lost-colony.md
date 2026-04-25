@@ -3,7 +3,7 @@ layout: book
 slug: the-lost-colony
 title: 'The Lost Colony (The Long Winter, #3)'
 author: A.G. Riddle
-isbn: '9781940026275'
+isbn: '9781800241527'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,12 +13,20 @@ year_published: 2019
 publisher: Legion Books
 binding: Kindle Edition
 cover: the-lost-colony.jpg
-blurb: '"Can humanity survive on a new world? On Eos, the last survivors of the Long
-  Winter face their greatest challenge yet--and race to unravel the deepest secrets
-  of the grid. The thrilling conclusion to the Long Winter trilogy"--Publisher''s
-  description.'
+blurb: Can humanity survive on a new world? The last survivors of the human race escaped
+  a ruined Earth. Their new homeworld -- Eos -- seemed perfect at first. Warm. Hospitable.
+  Safe from the grid. But everything isn't as it seems. The first colony of settlers
+  have disappeared. Their settlement is still there, but everyone is gone. As Dr James
+  Sinclair digs into the mystery of the lost colony, he discovers a series of spheres,
+  buried on Eos. Are they the key to finding the lost colonists? Or are they responsible
+  for their deaths? Just as James is unravelling the secrets of the spheres, a storm
+  hits Jericho City. Emma, recently elected mayor, struggles to lead her people to
+  safety while James tries to make his way home. In the middle of the chaos, a new
+  danger emerges -- a threat no one saw coming. With time running out to save the
+  colonists, James and Emma will face their hardest choice yet in the final pulse-pounding
+  instalment in the Long Winter trilogy.
 subjects:
-- fiction
+- climatic changes
 recommendations:
 - winter-world
 - the-solar-war

@@ -6,10 +6,10 @@ author: Peter F. Hamilton
 isbn: '9781836730118'
 shelf: read
 my_rating: 4
-date_read: '2022-09-22'
-date_added: '2022-08-10'
-pages: 0
-year_published: 2022
+date_read: ''
+date_added: '2026-04-20'
+pages: 10
+year_published: 2021
 publisher: Tantor Audio
 binding: Audible Audio
 cover: the-captain-s-daughter.jpg

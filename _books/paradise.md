@@ -3,7 +3,7 @@ layout: book
 slug: paradise
 title: 'Paradise (Expeditionary Force, #3)'
 author: Craig Alanson
-isbn: '9798347023639'
+isbn: '9781973182801'
 shelf: to-read
 my_rating: 0
 date_read: ''
@@ -13,14 +13,12 @@ year_published: 2016
 publisher: ''
 binding: ebook
 cover: paradise.jpg
-blurb: While the crew of the starship Flying Dutchman have been trying to assure that
-  hostile aliens do not have access to Earth, the UN Expeditionary Force has been
-  stranded on the planet they nicknamed "Paradise." The Flying Dutchman is headed
-  back out on another mission, and the UN wants the ship to find out the status of
-  the humans on Paradise. But Colonel Joe Bishop warns that they might not like what
-  they find, and they can't do anything about it without endangering Earth.
-subjects:
-- fiction
+blurb: 'Book ''3.5'' in the ExForce series: While the crew of the UN Expeditionary
+  Force''s pirate starship Flying Dutchman are enjoying a luxury vacation cruise (not!),
+  UNEF troops are still stranded on an alien-controlled planet. Major Emily Perkins
+  and her team are busy picking up the pieces, and it''s not easy, because there is
+  trouble on Paradise...'
+subjects: []
 recommendations:
 - trouble-on-paradise
 - black-ops
