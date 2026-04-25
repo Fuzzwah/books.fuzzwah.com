@@ -2,7 +2,7 @@
 layout: book
 slug: blood-tally
 title: 'Blood Tally (Valkyrie Collections, #2)'
-author: Brian  McClellan
+author: Brian McClellan
 isbn: '9780996232388'
 shelf: to-read
 my_rating: 0
